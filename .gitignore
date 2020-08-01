@@ -3,3 +3,5 @@ wp-config-dev.php
 wp-content/uploads/
 wp-content/ai1wm-backups/
 .DS_Store
+node_modules/
+vendor/
