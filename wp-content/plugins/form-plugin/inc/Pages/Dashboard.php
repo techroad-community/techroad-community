@@ -40,8 +40,8 @@ class Dashboard extends BaseController
 	{
 		$this->pages = array(
 			array(
-				'page_title' => 'Brand H Plugin', 
-				'menu_title' => 'Brand H', 
+				'page_title' => 'Techroad Plugin', 
+				'menu_title' => 'Techroad', 
 				'capability' => 'manage_options', 
 				'menu_slug' => 'brand_h_plugin', 
 				'callback' => array( $this->callbacks, 'adminDashboard' ), 
