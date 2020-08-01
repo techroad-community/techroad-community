@@ -1,0 +1,128 @@
+.custom_search {
+	background: #00AAFF;
+	border-color: #08c;
+	padding: 20px 20px 40px;
+	float: left;
+	width: 100%;
+	text-align: center;
+	margin-bottom: 30px !important;
+}
+
+fieldset{border:0 !important;}
+.custom_search_cat {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.custom_search_cat li {
+	list-style: none;
+	float: left;
+	margin: 7px 0;
+}
+
+.custom_search_cat li a {
+	background: #68cef9;
+	color: #fff;
+	padding: 7px 16px;
+	margin: 3px;
+	border-radius: 20px;
+	text-decoration: none;
+}
+
+.custom_search .searchform-popup {
+	width: 570px;
+	margin: 0 auto;
+	background-color: #fff;
+	padding: 5px;
+	border-radius: 43px;
+}
+.custom_search .searchform-widget {
+	width: 100%;
+	margin: 0 auto;
+	background-color: #fff;
+	padding: 5px;
+}
+
+.custom_search .searchform-popup .btn-special {
+	background: #05a5fd;
+	color: #fff;
+	padding: 9px 25px;
+	border-radius: 25px;
+}
+.custom_search .searchform-widget .btn-special {
+	background: #05a5fd;
+	color: #fff;
+	padding: 9px 25px;
+	border-radius: 25px;
+}
+.custom_search .searchform-popup .serachbox {
+	width: 420px;
+	height: 40px;
+	border: 0;
+}
+.custom_search .searchform-widget .serachbox {
+	width: 100%;
+	height: 40px;
+	border: 1px solid #ccc;
+}
+.custom_search h1 {
+	margin-bottom: 12px;
+	color: #fff;
+}
+
+.custom_search h4 {
+	color: #fff;
+}
+
+.searchform-popup .text {
+	float: left;
+}
+
+.searchform-popup .button-wrap {
+	float: right;
+}
+
+.home_postgrid ul li {
+	padding: 5px !important;
+}
+
+.home_postgrid h2 {
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 20px;
+	margin: 12px 0 32px;
+}
+
+@media screen and (max-width : 767px) {
+	.custom_search .searchform-popup {
+		width: 400px;
+	}
+	
+	.custom_search .searchform-popup .serachbox {
+		width: 250px;
+		border: 0;
+	}
+	
+	.custom_search_cat {
+		width: 100%;
+	}
+	
+	.custom_search {
+		padding: 10px 2px;
+	}
+}
+
+.show-menu-search {
+	display: none !important;
+}
+
+@media screen and (max-width : 480px) {
+	.custom_search .searchform-popup {
+		width: 100%;
+	}
+	
+	.custom_search .searchform-popup .serachbox {
+		width: 150px;
+		border: 0;
+	}
+}

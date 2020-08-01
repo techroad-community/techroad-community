@@ -1,0 +1,3945 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpqa\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-13 15:01+0200\n"
+"PO-Revision-Date: 2019-03-30 11:50+0000\n"
+"Last-Translator: 관리자 <chowin21@gmail.com>\n"
+"Language-Team: 한국어\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__;esc_attr__;esc_attr_e;"
+"esc_html__;esc_html_e;_n:1,2;_n_noop:1,2;_nx:1,2;_nx_noop:1,2;_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: functions/activate.php:20
+msgid "Your membership is now activated."
+msgstr "회원가입이 승인되었습니다."
+
+#: functions/activate.php:25
+#, php-format
+msgid ""
+"Your confirmation link has expired or not valid, Please request a new link, "
+"kindly <a href='%s'>Click here</a> to re-send another confirmation email."
+msgstr ""
+
+#: functions/activate.php:37 shortcodes/register.php:226
+msgid "Confirm account"
+msgstr ""
+
+#: functions/activate.php:39
+msgid "Check your email again."
+msgstr "이메일을 확인해보세요."
+
+#: functions/activate.php:44
+#, php-format
+msgid ""
+"A confirmation email has been sent to your registered email account, If you "
+"have not received the confirmation email, kindly <a href='%s'>Click here</a> "
+"to re-send another confirmation email."
+msgstr ""
+"회원가입 URL이 이메일로 발송 되었습니다.  이메일을 받지 못했다면 <a href='%s'>재전송</a> 을 클릭하여 확인메일을 다시 "
+"받으세요."
+
+#: functions/activate.php:54
+#, php-format
+msgid ""
+"You are already logged in, You are already active your membership, Go to "
+"your <a href='%s'>profile</a>."
+msgstr "이미 로그인 되어있습니다. <a href='%s'>프로필로 이동하기</a>."
+
+#: functions/ajax-action.php:607
+msgid "Sorry was mistake, This is not a your question."
+msgstr ""
+
+#: functions/ajax-action.php:610 functions/ajax-action.php:612
+msgid "You must enter a numeric value and a value greater than zero."
+msgstr ""
+
+#: functions/ajax-action.php:628 functions/functions.php:897
+msgid "You have bumped your question."
+msgstr ""
+
+#: functions/ajax-action.php:634
+msgid "Your points are insufficient."
+msgstr ""
+
+#: functions/ajax-action.php:679
+msgid "Question report"
+msgstr ""
+
+#: functions/ajax-action.php:713
+msgid "Your reported will be reviewed shortly, The question is under review."
+msgstr ""
+
+#: functions/ajax-action.php:717 functions/ajax-action.php:806
+#: functions/comments.php:828 functions/functions.php:2472
+msgid "Has been deleted successfully."
+msgstr "삭제완료."
+
+#: functions/ajax-action.php:771
+msgid "Answer report"
+msgstr ""
+
+#: functions/ajax-action.php:802
+msgid "Your reported will be reviewed shortly, The answer is under review."
+msgstr ""
+
+#: functions/ajax-action.php:1306 functions/ajax-action.php:1347
+#: functions/ajax-action.php:1369 functions/ajax-action.php:1391
+msgid "View all results."
+msgstr ""
+
+#: functions/ajax-action.php:1401
+msgid "No results found."
+msgstr ""
+
+#: functions/comments.php:31 functions/comments.php:33
+#, php-format
+msgid "%s ERROR %s: please type a captcha."
+msgstr ""
+
+#: functions/comments.php:39 functions/comments.php:41
+#: functions/comments.php:48 functions/comments.php:50
+#: includes/class-wpqa.php:156 shortcodes/login.php:109
+#: shortcodes/login.php:114 shortcodes/post.php:170 shortcodes/post.php:175
+#: shortcodes/question.php:447 shortcodes/question.php:452
+#: shortcodes/register.php:145 shortcodes/register.php:150
+msgid "The captcha is incorrect, Please try again."
+msgstr ""
+
+#: functions/comments.php:58 functions/comments.php:328
+#: shortcodes/question.php:434 shortcodes/question.php:1030
+msgid "There are required fields (Video ID)."
+msgstr ""
+
+#: functions/comments.php:67 functions/comments.php:349
+#: shortcodes/question.php:702 shortcodes/question.php:1224
+msgid "Attachment Error, Please upload image only."
+msgstr ""
+
+#: functions/comments.php:117
+msgid "Attachment Error:"
+msgstr ""
+
+#: functions/comments.php:152
+msgid "The answer has added successfully."
+msgstr "댓글을 달았습니다."
+
+#: functions/comments.php:155 functions/comments.php:272
+msgid "The answer has added successfully, It's under review."
+msgstr ""
+
+#: functions/comments.php:270 shortcodes/post.php:299
+#: shortcodes/question.php:321 shortcodes/question.php:954
+msgid "Has been edited successfully."
+msgstr "수정완료"
+
+#: functions/comments.php:300 functions/comments.php:317
+#: functions/comments.php:320 functions/comments.php:323
+#: functions/comments.php:328 functions/messages.php:289
+#: functions/messages.php:303 functions/messages.php:305
+#: functions/messages.php:308 functions/messages.php:310
+#: functions/messages.php:312 functions/messages.php:316
+#: functions/messages.php:317 functions/messages.php:318
+#: functions/messages.php:323 functions/messages.php:327
+#: shortcodes/post.php:142 shortcodes/post.php:146 shortcodes/post.php:147
+#: shortcodes/post.php:148 shortcodes/post.php:153 shortcodes/post.php:154
+#: shortcodes/post.php:156 shortcodes/post.php:330 shortcodes/post.php:338
+#: shortcodes/post.php:341 shortcodes/post.php:343 shortcodes/post.php:344
+#: shortcodes/post.php:347 shortcodes/profile.php:433
+#: shortcodes/profile.php:436 shortcodes/profile.php:439
+#: shortcodes/profile.php:442 shortcodes/profile.php:445
+#: shortcodes/profile.php:448 shortcodes/profile.php:451
+#: shortcodes/profile.php:454 shortcodes/profile.php:457
+#: shortcodes/profile.php:460 shortcodes/profile.php:463
+#: shortcodes/profile.php:466 shortcodes/profile.php:469
+#: shortcodes/profile.php:472 shortcodes/question.php:361
+#: shortcodes/question.php:388 shortcodes/question.php:390
+#: shortcodes/question.php:393 shortcodes/question.php:396
+#: shortcodes/question.php:399 shortcodes/question.php:404
+#: shortcodes/question.php:407 shortcodes/question.php:408
+#: shortcodes/question.php:409 shortcodes/question.php:414
+#: shortcodes/question.php:416 shortcodes/question.php:422
+#: shortcodes/question.php:425 shortcodes/question.php:429
+#: shortcodes/question.php:433 shortcodes/question.php:434
+#: shortcodes/question.php:986 shortcodes/question.php:995
+#: shortcodes/question.php:998 shortcodes/question.php:1011
+#: shortcodes/question.php:1013 shortcodes/question.php:1019
+#: shortcodes/question.php:1022 shortcodes/question.php:1026
+#: shortcodes/question.php:1029 shortcodes/question.php:1030
+msgid "Error"
+msgstr ""
+
+#: functions/comments.php:300 functions/messages.php:289
+#: shortcodes/post.php:142 shortcodes/post.php:330 shortcodes/question.php:361
+#: shortcodes/question.php:986
+msgid "There are an error, Please try again."
+msgstr ""
+
+#: functions/comments.php:317 shortcodes/comment.php:65
+msgid "You are not allowed to edit this comment."
+msgstr ""
+
+#: functions/comments.php:320 shortcodes/comment.php:68
+msgid "Sorry no comment has you select or not found."
+msgstr ""
+
+#: functions/comments.php:323
+msgid "There are required fields (comment)."
+msgstr ""
+
+#: functions/comments.php:355 shortcodes/post.php:225 shortcodes/post.php:386
+#: shortcodes/question.php:709 shortcodes/question.php:1231
+msgid "Attachment Error: "
+msgstr ""
+
+#: functions/comments.php:432
+msgid "Answer/Comment"
+msgstr ""
+
+#: functions/comments.php:433
+msgid "Best answer?"
+msgstr ""
+
+#: functions/comments.php:444
+msgid "Answer"
+msgstr ""
+
+#: functions/comments.php:446 shortcodes/comment.php:42
+msgid "Comment"
+msgstr ""
+
+#: functions/comments.php:452 includes/class-wpqa.php:172
+msgid "Best answer"
+msgstr ""
+
+#: functions/comments.php:454
+msgid "Not best answer"
+msgstr ""
+
+#: functions/comments.php:479 functions/post_type.php:334
+msgid "Reason if you need to remove it."
+msgstr ""
+
+#: functions/comments.php:483
+msgid "Reason:"
+msgstr ""
+
+#: functions/comments.php:491 functions/post_type.php:340
+msgid "Delete?"
+msgstr ""
+
+#: functions/comments.php:526 functions/functions.php:1398
+#: functions/functions.php:1406 functions/functions.php:1604
+#: functions/functions.php:1722 functions/functions.php:3165
+#: functions/menu.php:215 functions/rewrite.php:1245
+#: templates/profile/head.php:51 templates/search-form.php:77
+#: templates/search-form.php:105 widgets/comments.php:30 widgets/stats.php:18
+#: widgets/tabs.php:77
+msgid "Comments"
+msgstr "코멘트"
+
+#: functions/comments.php:527 functions/functions.php:1398
+#: functions/functions.php:1406 functions/functions.php:1632
+#: functions/functions.php:1733 functions/functions.php:3159
+#: functions/menu.php:190 functions/post_type.php:161
+#: functions/questions.php:171 functions/questions.php:209
+#: functions/rewrite.php:1225 templates/profile/head.php:36
+#: templates/profile/head.php:156 templates/search-form.php:69
+#: templates/search-form.php:99 widgets/stats.php:18 widgets/tabs.php:77
+msgid "Answers"
+msgstr "댓글"
+
+#: functions/comments.php:552 functions/comments.php:556
+#: functions/functions.php:2824 shortcodes/question.php:1484
+#: shortcodes/question.php:1490 shortcodes/question.php:1497
+msgid "Attachment"
+msgstr ""
+
+#: functions/comments.php:552 functions/comments.php:577
+#: functions/functions.php:2880 functions/questions.php:301
+#: functions/questions.php:645 shortcodes/post.php:500
+#: shortcodes/profile.php:118 shortcodes/profile.php:139
+#: shortcodes/question.php:1484 shortcodes/question.php:1490
+#: shortcodes/question.php:1512 templates/profile/messages.php:96
+msgid "Delete"
+msgstr "삭제"
+
+#: functions/comments.php:560 functions/comments.php:587
+#: includes/class-wpqa.php:178 shortcodes/post.php:509
+#: shortcodes/profile.php:127 shortcodes/profile.php:147
+#: shortcodes/question.php:1432 shortcodes/question.php:1459
+#: shortcodes/question.php:1524
+msgid "Select file"
+msgstr "파일 업로드"
+
+#: functions/comments.php:561 functions/comments.php:588
+#: includes/class-wpqa.php:179 shortcodes/post.php:510
+#: shortcodes/profile.php:128 shortcodes/profile.php:148
+#: shortcodes/question.php:1433 shortcodes/question.php:1460
+#: shortcodes/question.php:1525
+msgid "Browse"
+msgstr "찾기"
+
+#: functions/comments.php:583 shortcodes/post.php:505
+#: shortcodes/question.php:1518
+msgid "Featured image"
+msgstr "이미지 첨부"
+
+#: functions/comments.php:635 shortcodes/question.php:1550
+msgid "Do you need a video to description the problem better?"
+msgstr ""
+
+#: functions/comments.php:641 shortcodes/question.php:1556
+msgid "Video type"
+msgstr ""
+
+#: functions/comments.php:651 shortcodes/question.php:1566
+msgid "Choose from here the video type."
+msgstr ""
+
+#: functions/comments.php:655 shortcodes/question.php:1570
+msgid "Video ID"
+msgstr ""
+
+#: functions/comments.php:658 shortcodes/question.php:1573
+msgid ""
+"Put here the video id : https://www.youtube.com/watch?v=sdUUx5FdySs Ex: "
+"'sdUUx5FdySs'."
+msgstr ""
+
+#: functions/comments.php:717
+msgid "Answer to your question"
+msgstr ""
+
+#: functions/comments.php:727
+msgid "Hi there"
+msgstr ""
+
+#: functions/cover.php:153 functions/functions.php:3032
+#: functions/functions.php:3036 functions/rewrite.php:1255
+#: shortcodes/profile.php:69
+msgid "Edit profile"
+msgstr "프로필 수정"
+
+#: functions/cover.php:158 functions/functions.php:1707
+#: functions/functions.php:3042
+msgid "Ask"
+msgstr "공개적으로 글 남기기 to"
+
+#: functions/cover.php:160 functions/menu.php:140 functions/rewrite.php:1213
+#: templates/profile/head.php:205 templates/profile/head.php:223
+msgid "Followers"
+msgstr "팔로우"
+
+#: functions/cover.php:161 functions/functions.php:1611
+#: functions/functions.php:1728 functions/functions.php:2173
+#: functions/functions.php:2977 functions/functions.php:3158
+#: functions/menu.php:170 functions/post_type.php:52 functions/post_type.php:54
+#: functions/post_type.php:55 functions/post_type.php:56
+#: functions/questions.php:170 functions/questions.php:211
+#: functions/rewrite.php:1223 templates/profile/head.php:30
+#: templates/profile/head.php:144 templates/search-form.php:67
+#: templates/search-form.php:98 widgets/questions_categories.php:70
+#: widgets/questions_categories.php:98 widgets/stats.php:18
+msgid "Questions"
+msgstr "게시글"
+
+#: functions/filters.php:46
+msgid "Search ..."
+msgstr "커리어도움되는 외주검색"
+
+#: functions/filters.php:53 functions/functions.php:2928
+#: functions/rewrite.php:1807 templates/search-form.php:112
+msgid "Search"
+msgstr "검색하기"
+
+#: functions/filters.php:63
+msgid "Afghanistan"
+msgstr ""
+
+#: functions/filters.php:64
+msgid "&#197;land Islands"
+msgstr ""
+
+#: functions/filters.php:65
+msgid "Albania"
+msgstr ""
+
+#: functions/filters.php:66
+msgid "Algeria"
+msgstr ""
+
+#: functions/filters.php:67
+msgid "Andorra"
+msgstr ""
+
+#: functions/filters.php:68
+msgid "Angola"
+msgstr ""
+
+#: functions/filters.php:69
+msgid "Anguilla"
+msgstr ""
+
+#: functions/filters.php:70
+msgid "Antarctica"
+msgstr ""
+
+#: functions/filters.php:71
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: functions/filters.php:72
+msgid "Argentina"
+msgstr ""
+
+#: functions/filters.php:73
+msgid "Armenia"
+msgstr ""
+
+#: functions/filters.php:74
+msgid "Aruba"
+msgstr ""
+
+#: functions/filters.php:75
+msgid "Australia"
+msgstr ""
+
+#: functions/filters.php:76
+msgid "Austria"
+msgstr ""
+
+#: functions/filters.php:77
+msgid "Azerbaijan"
+msgstr ""
+
+#: functions/filters.php:78
+msgid "Bahamas"
+msgstr ""
+
+#: functions/filters.php:79
+msgid "Bahrain"
+msgstr ""
+
+#: functions/filters.php:80
+msgid "Bangladesh"
+msgstr ""
+
+#: functions/filters.php:81
+msgid "Barbados"
+msgstr ""
+
+#: functions/filters.php:82
+msgid "Belarus"
+msgstr ""
+
+#: functions/filters.php:83
+msgid "Belgium"
+msgstr ""
+
+#: functions/filters.php:84
+msgid "Belau"
+msgstr ""
+
+#: functions/filters.php:85
+msgid "Belize"
+msgstr ""
+
+#: functions/filters.php:86
+msgid "Benin"
+msgstr ""
+
+#: functions/filters.php:87
+msgid "Bermuda"
+msgstr ""
+
+#: functions/filters.php:88
+msgid "Bhutan"
+msgstr ""
+
+#: functions/filters.php:89
+msgid "Bolivia"
+msgstr ""
+
+#: functions/filters.php:90
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr ""
+
+#: functions/filters.php:91
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: functions/filters.php:92
+msgid "Botswana"
+msgstr ""
+
+#: functions/filters.php:93
+msgid "Bouvet Island"
+msgstr ""
+
+#: functions/filters.php:94
+msgid "Brazil"
+msgstr ""
+
+#: functions/filters.php:95
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: functions/filters.php:96
+msgid "British Virgin Islands"
+msgstr ""
+
+#: functions/filters.php:97
+msgid "Brunei"
+msgstr ""
+
+#: functions/filters.php:98
+msgid "Bulgaria"
+msgstr ""
+
+#: functions/filters.php:99
+msgid "Burkina Faso"
+msgstr ""
+
+#: functions/filters.php:100
+msgid "Burundi"
+msgstr ""
+
+#: functions/filters.php:101
+msgid "Cambodia"
+msgstr ""
+
+#: functions/filters.php:102
+msgid "Cameroon"
+msgstr ""
+
+#: functions/filters.php:103
+msgid "Canada"
+msgstr ""
+
+#: functions/filters.php:104
+msgid "Cape Verde"
+msgstr ""
+
+#: functions/filters.php:105
+msgid "Cayman Islands"
+msgstr ""
+
+#: functions/filters.php:106
+msgid "Central African Republic"
+msgstr ""
+
+#: functions/filters.php:107
+msgid "Chad"
+msgstr ""
+
+#: functions/filters.php:108
+msgid "Chile"
+msgstr ""
+
+#: functions/filters.php:109
+msgid "China"
+msgstr ""
+
+#: functions/filters.php:110
+msgid "Christmas Island"
+msgstr ""
+
+#: functions/filters.php:111
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: functions/filters.php:112
+msgid "Colombia"
+msgstr ""
+
+#: functions/filters.php:113
+msgid "Comoros"
+msgstr ""
+
+#: functions/filters.php:114
+msgid "Congo (Brazzaville)"
+msgstr ""
+
+#: functions/filters.php:115
+msgid "Congo (Kinshasa)"
+msgstr ""
+
+#: functions/filters.php:116
+msgid "Cook Islands"
+msgstr ""
+
+#: functions/filters.php:117
+msgid "Costa Rica"
+msgstr ""
+
+#: functions/filters.php:118
+msgid "Croatia"
+msgstr ""
+
+#: functions/filters.php:119
+msgid "Cuba"
+msgstr ""
+
+#: functions/filters.php:120
+msgid "Cura&Ccedil;ao"
+msgstr ""
+
+#: functions/filters.php:121
+msgid "Cyprus"
+msgstr ""
+
+#: functions/filters.php:122
+msgid "Czech Republic"
+msgstr ""
+
+#: functions/filters.php:123
+msgid "Denmark"
+msgstr ""
+
+#: functions/filters.php:124
+msgid "Djibouti"
+msgstr ""
+
+#: functions/filters.php:125
+msgid "Dominica"
+msgstr ""
+
+#: functions/filters.php:126
+msgid "Dominican Republic"
+msgstr ""
+
+#: functions/filters.php:127
+msgid "Ecuador"
+msgstr ""
+
+#: functions/filters.php:128
+msgid "Egypt"
+msgstr ""
+
+#: functions/filters.php:129
+msgid "El Salvador"
+msgstr ""
+
+#: functions/filters.php:130
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: functions/filters.php:131
+msgid "Eritrea"
+msgstr ""
+
+#: functions/filters.php:132
+msgid "Estonia"
+msgstr ""
+
+#: functions/filters.php:133
+msgid "Ethiopia"
+msgstr ""
+
+#: functions/filters.php:134
+msgid "Falkland Islands"
+msgstr ""
+
+#: functions/filters.php:135
+msgid "Faroe Islands"
+msgstr ""
+
+#: functions/filters.php:136
+msgid "Fiji"
+msgstr ""
+
+#: functions/filters.php:137
+msgid "Finland"
+msgstr ""
+
+#: functions/filters.php:138
+msgid "France"
+msgstr ""
+
+#: functions/filters.php:139
+msgid "French Guiana"
+msgstr ""
+
+#: functions/filters.php:140
+msgid "French Polynesia"
+msgstr ""
+
+#: functions/filters.php:141
+msgid "French Southern Territories"
+msgstr ""
+
+#: functions/filters.php:142
+msgid "Gabon"
+msgstr ""
+
+#: functions/filters.php:143
+msgid "Gambia"
+msgstr ""
+
+#: functions/filters.php:144
+msgid "Georgia"
+msgstr ""
+
+#: functions/filters.php:145
+msgid "Germany"
+msgstr ""
+
+#: functions/filters.php:146
+msgid "Ghana"
+msgstr ""
+
+#: functions/filters.php:147
+msgid "Gibraltar"
+msgstr ""
+
+#: functions/filters.php:148
+msgid "Greece"
+msgstr ""
+
+#: functions/filters.php:149
+msgid "Greenland"
+msgstr ""
+
+#: functions/filters.php:150
+msgid "Grenada"
+msgstr ""
+
+#: functions/filters.php:151
+msgid "Guadeloupe"
+msgstr ""
+
+#: functions/filters.php:152
+msgid "Guatemala"
+msgstr ""
+
+#: functions/filters.php:153
+msgid "Guernsey"
+msgstr ""
+
+#: functions/filters.php:154
+msgid "Guinea"
+msgstr ""
+
+#: functions/filters.php:155
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: functions/filters.php:156
+msgid "Guyana"
+msgstr ""
+
+#: functions/filters.php:157
+msgid "Haiti"
+msgstr ""
+
+#: functions/filters.php:158
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: functions/filters.php:159
+msgid "Honduras"
+msgstr ""
+
+#: functions/filters.php:160
+msgid "Hong Kong"
+msgstr ""
+
+#: functions/filters.php:161
+msgid "Hungary"
+msgstr ""
+
+#: functions/filters.php:162
+msgid "Iceland"
+msgstr ""
+
+#: functions/filters.php:163
+msgid "India"
+msgstr ""
+
+#: functions/filters.php:164
+msgid "Indonesia"
+msgstr ""
+
+#: functions/filters.php:165
+msgid "Iran"
+msgstr ""
+
+#: functions/filters.php:166
+msgid "Iraq"
+msgstr ""
+
+#: functions/filters.php:167
+msgid "Republic of Ireland"
+msgstr ""
+
+#: functions/filters.php:168
+msgid "Isle of Man"
+msgstr ""
+
+#: functions/filters.php:169
+msgid "Israel"
+msgstr ""
+
+#: functions/filters.php:170
+msgid "Italy"
+msgstr ""
+
+#: functions/filters.php:171
+msgid "Ivory Coast"
+msgstr ""
+
+#: functions/filters.php:172
+msgid "Jamaica"
+msgstr ""
+
+#: functions/filters.php:173
+msgid "Japan"
+msgstr ""
+
+#: functions/filters.php:174
+msgid "Jersey"
+msgstr ""
+
+#: functions/filters.php:175
+msgid "Jordan"
+msgstr ""
+
+#: functions/filters.php:176
+msgid "Kazakhstan"
+msgstr ""
+
+#: functions/filters.php:177
+msgid "Kenya"
+msgstr ""
+
+#: functions/filters.php:178
+msgid "Kiribati"
+msgstr ""
+
+#: functions/filters.php:179
+msgid "Kuwait"
+msgstr ""
+
+#: functions/filters.php:180
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: functions/filters.php:181
+msgid "Laos"
+msgstr ""
+
+#: functions/filters.php:182
+msgid "Latvia"
+msgstr ""
+
+#: functions/filters.php:183
+msgid "Lebanon"
+msgstr ""
+
+#: functions/filters.php:184
+msgid "Lesotho"
+msgstr ""
+
+#: functions/filters.php:185
+msgid "Liberia"
+msgstr ""
+
+#: functions/filters.php:186
+msgid "Libya"
+msgstr ""
+
+#: functions/filters.php:187
+msgid "Liechtenstein"
+msgstr ""
+
+#: functions/filters.php:188
+msgid "Lithuania"
+msgstr ""
+
+#: functions/filters.php:189
+msgid "Luxembourg"
+msgstr ""
+
+#: functions/filters.php:190
+msgid "Macao S.A.R., China"
+msgstr ""
+
+#: functions/filters.php:191
+msgid "Macedonia"
+msgstr ""
+
+#: functions/filters.php:192
+msgid "Madagascar"
+msgstr ""
+
+#: functions/filters.php:193
+msgid "Malawi"
+msgstr ""
+
+#: functions/filters.php:194
+msgid "Malaysia"
+msgstr ""
+
+#: functions/filters.php:195
+msgid "Maldives"
+msgstr ""
+
+#: functions/filters.php:196
+msgid "Mali"
+msgstr ""
+
+#: functions/filters.php:197
+msgid "Malta"
+msgstr ""
+
+#: functions/filters.php:198
+msgid "Marshall Islands"
+msgstr ""
+
+#: functions/filters.php:199
+msgid "Martinique"
+msgstr ""
+
+#: functions/filters.php:200
+msgid "Mauritania"
+msgstr ""
+
+#: functions/filters.php:201
+msgid "Mauritius"
+msgstr ""
+
+#: functions/filters.php:202
+msgid "Mayotte"
+msgstr ""
+
+#: functions/filters.php:203
+msgid "Mexico"
+msgstr ""
+
+#: functions/filters.php:204
+msgid "Micronesia"
+msgstr ""
+
+#: functions/filters.php:205
+msgid "Moldova"
+msgstr ""
+
+#: functions/filters.php:206
+msgid "Monaco"
+msgstr ""
+
+#: functions/filters.php:207
+msgid "Mongolia"
+msgstr ""
+
+#: functions/filters.php:208
+msgid "Montenegro"
+msgstr ""
+
+#: functions/filters.php:209
+msgid "Montserrat"
+msgstr ""
+
+#: functions/filters.php:210
+msgid "Morocco"
+msgstr ""
+
+#: functions/filters.php:211
+msgid "Mozambique"
+msgstr ""
+
+#: functions/filters.php:212
+msgid "Myanmar"
+msgstr ""
+
+#: functions/filters.php:213
+msgid "Namibia"
+msgstr ""
+
+#: functions/filters.php:214
+msgid "Nauru"
+msgstr ""
+
+#: functions/filters.php:215
+msgid "Nepal"
+msgstr ""
+
+#: functions/filters.php:216
+msgid "Netherlands"
+msgstr ""
+
+#: functions/filters.php:217
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: functions/filters.php:218
+msgid "New Caledonia"
+msgstr ""
+
+#: functions/filters.php:219
+msgid "New Zealand"
+msgstr ""
+
+#: functions/filters.php:220
+msgid "Nicaragua"
+msgstr ""
+
+#: functions/filters.php:221
+msgid "Niger"
+msgstr ""
+
+#: functions/filters.php:222
+msgid "Nigeria"
+msgstr ""
+
+#: functions/filters.php:223
+msgid "Niue"
+msgstr ""
+
+#: functions/filters.php:224
+msgid "Norfolk Island"
+msgstr ""
+
+#: functions/filters.php:225
+msgid "North Korea"
+msgstr ""
+
+#: functions/filters.php:226
+msgid "Norway"
+msgstr ""
+
+#: functions/filters.php:227
+msgid "Oman"
+msgstr ""
+
+#: functions/filters.php:228
+msgid "Pakistan"
+msgstr ""
+
+#: functions/filters.php:229
+msgid "Palestinian Territory"
+msgstr ""
+
+#: functions/filters.php:230
+msgid "Panama"
+msgstr ""
+
+#: functions/filters.php:231
+msgid "Papua New Guinea"
+msgstr ""
+
+#: functions/filters.php:232
+msgid "Paraguay"
+msgstr ""
+
+#: functions/filters.php:233
+msgid "Peru"
+msgstr ""
+
+#: functions/filters.php:234
+msgid "Philippines"
+msgstr ""
+
+#: functions/filters.php:235
+msgid "Pitcairn"
+msgstr ""
+
+#: functions/filters.php:236
+msgid "Poland"
+msgstr ""
+
+#: functions/filters.php:237
+msgid "Portugal"
+msgstr ""
+
+#: functions/filters.php:238
+msgid "Qatar"
+msgstr ""
+
+#: functions/filters.php:239
+msgid "Reunion"
+msgstr ""
+
+#: functions/filters.php:240
+msgid "Romania"
+msgstr ""
+
+#: functions/filters.php:241
+msgid "Russia"
+msgstr ""
+
+#: functions/filters.php:242
+msgid "Rwanda"
+msgstr ""
+
+#: functions/filters.php:243
+msgid "Saint Barth&eacute;lemy"
+msgstr ""
+
+#: functions/filters.php:244
+msgid "Saint Helena"
+msgstr ""
+
+#: functions/filters.php:245
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: functions/filters.php:246
+msgid "Saint Lucia"
+msgstr ""
+
+#: functions/filters.php:247
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: functions/filters.php:248
+msgid "Saint Martin (Dutch part)"
+msgstr ""
+
+#: functions/filters.php:249
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: functions/filters.php:250
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: functions/filters.php:251
+msgid "San Marino"
+msgstr ""
+
+#: functions/filters.php:252
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr ""
+
+#: functions/filters.php:253
+msgid "Saudi Arabia"
+msgstr ""
+
+#: functions/filters.php:254
+msgid "Senegal"
+msgstr ""
+
+#: functions/filters.php:255
+msgid "Serbia"
+msgstr ""
+
+#: functions/filters.php:256
+msgid "Seychelles"
+msgstr ""
+
+#: functions/filters.php:257
+msgid "Sierra Leone"
+msgstr ""
+
+#: functions/filters.php:258
+msgid "Singapore"
+msgstr ""
+
+#: functions/filters.php:259
+msgid "Slovakia"
+msgstr ""
+
+#: functions/filters.php:260
+msgid "Slovenia"
+msgstr ""
+
+#: functions/filters.php:261
+msgid "Solomon Islands"
+msgstr ""
+
+#: functions/filters.php:262
+msgid "Somalia"
+msgstr ""
+
+#: functions/filters.php:263
+msgid "South Africa"
+msgstr ""
+
+#: functions/filters.php:264
+msgid "South Georgia/Sandwich Islands"
+msgstr ""
+
+#: functions/filters.php:265
+msgid "South Korea"
+msgstr ""
+
+#: functions/filters.php:266
+msgid "South Sudan"
+msgstr ""
+
+#: functions/filters.php:267
+msgid "Spain"
+msgstr ""
+
+#: functions/filters.php:268
+msgid "Sri Lanka"
+msgstr ""
+
+#: functions/filters.php:269
+msgid "Sudan"
+msgstr ""
+
+#: functions/filters.php:270
+msgid "Suriname"
+msgstr ""
+
+#: functions/filters.php:271
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: functions/filters.php:272
+msgid "Swaziland"
+msgstr ""
+
+#: functions/filters.php:273
+msgid "Sweden"
+msgstr ""
+
+#: functions/filters.php:274
+msgid "Switzerland"
+msgstr ""
+
+#: functions/filters.php:275
+msgid "Syria"
+msgstr ""
+
+#: functions/filters.php:276
+msgid "Taiwan"
+msgstr ""
+
+#: functions/filters.php:277
+msgid "Tajikistan"
+msgstr ""
+
+#: functions/filters.php:278
+msgid "Tanzania"
+msgstr ""
+
+#: functions/filters.php:279
+msgid "Thailand"
+msgstr ""
+
+#: functions/filters.php:280
+msgid "Timor-Leste"
+msgstr ""
+
+#: functions/filters.php:281
+msgid "Togo"
+msgstr ""
+
+#: functions/filters.php:282
+msgid "Tokelau"
+msgstr ""
+
+#: functions/filters.php:283
+msgid "Tonga"
+msgstr ""
+
+#: functions/filters.php:284
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: functions/filters.php:285
+msgid "Tunisia"
+msgstr ""
+
+#: functions/filters.php:286
+msgid "Turkey"
+msgstr ""
+
+#: functions/filters.php:287
+msgid "Turkmenistan"
+msgstr ""
+
+#: functions/filters.php:288
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: functions/filters.php:289
+msgid "Tuvalu"
+msgstr ""
+
+#: functions/filters.php:290
+msgid "Uganda"
+msgstr ""
+
+#: functions/filters.php:291
+msgid "Ukraine"
+msgstr ""
+
+#: functions/filters.php:292
+msgid "United Arab Emirates"
+msgstr ""
+
+#: functions/filters.php:293
+msgid "United Kingdom (UK)"
+msgstr ""
+
+#: functions/filters.php:294
+msgid "United States (US)"
+msgstr ""
+
+#: functions/filters.php:295
+msgid "Uruguay"
+msgstr ""
+
+#: functions/filters.php:296
+msgid "Uzbekistan"
+msgstr ""
+
+#: functions/filters.php:297
+msgid "Vanuatu"
+msgstr ""
+
+#: functions/filters.php:298
+msgid "Vatican"
+msgstr ""
+
+#: functions/filters.php:299
+msgid "Venezuela"
+msgstr ""
+
+#: functions/filters.php:300
+msgid "Vietnam"
+msgstr ""
+
+#: functions/filters.php:301
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: functions/filters.php:302
+msgid "Western Sahara"
+msgstr ""
+
+#: functions/filters.php:303
+msgid "Western Samoa"
+msgstr ""
+
+#: functions/filters.php:304
+msgid "Yemen"
+msgstr ""
+
+#: functions/filters.php:305
+msgid "Zambia"
+msgstr ""
+
+#: functions/filters.php:306
+msgid "Zimbabwe"
+msgstr ""
+
+#: functions/filters.php:318 functions/functions.php:2844
+#: templates/profile/messages.php:93
+msgid "Reply"
+msgstr ""
+
+#: functions/functions.php:18 functions/functions.php:23
+msgid "Captcha"
+msgstr ""
+
+#: functions/functions.php:23
+msgid "Click here to update the captcha"
+msgstr ""
+
+#: functions/functions.php:24
+msgid "Click on image to update the captcha."
+msgstr ""
+
+#: functions/functions.php:145 functions/functions.php:671
+#: functions/functions.php:1350 functions/functions.php:1353
+#: functions/post_type.php:188 functions/post_type.php:191
+#: shortcodes/question.php:1602
+msgid "Anonymous"
+msgstr ""
+
+#: functions/functions.php:302
+msgid "k"
+msgstr ""
+
+#: functions/functions.php:304
+msgid "mil"
+msgstr ""
+
+#: functions/functions.php:306
+msgid "bil"
+msgstr ""
+
+#: functions/functions.php:325 functions/functions.php:4712
+msgid "This coupon has expired."
+msgstr ""
+
+#: functions/functions.php:328 functions/functions.php:338
+#: functions/functions.php:4714 functions/functions.php:4716
+msgid "This coupon is not valid."
+msgstr ""
+
+#: functions/functions.php:346
+msgid "Coupon code applied successfully."
+msgstr ""
+
+#: functions/functions.php:559 functions/functions.php:676
+#: functions/functions.php:862
+msgid "has"
+msgstr " "
+
+#: functions/functions.php:559 functions/functions.php:777
+msgid "sent a message for you."
+msgstr ""
+
+#: functions/functions.php:560 functions/functions.php:814
+#: functions/functions.php:995 functions/functions.php:1088
+#: templates/profile/content.php:174 templates/profile/messages.php:77
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions/functions.php:567
+msgid "Show all messages."
+msgstr ""
+
+#: functions/functions.php:570 templates/profile/messages.php:114
+msgid "There are no messages yet."
+msgstr "메시지가 없습니다."
+
+#: functions/functions.php:608
+msgid "Show all notifications."
+msgstr "알림사항 모두보기"
+
+#: functions/functions.php:611
+msgid "There are no notifications yet."
+msgstr ""
+
+#: functions/functions.php:674
+msgid "A non-registered user"
+msgstr ""
+
+#: functions/functions.php:680 functions/functions.php:864
+msgid "Deleted user"
+msgstr "삭제된 유저"
+
+#: functions/functions.php:699
+msgid "polled at your question"
+msgstr ""
+
+#: functions/functions.php:701
+msgid "Gift of the site"
+msgstr ""
+
+#: functions/functions.php:703 templates/profile/content.php:146
+msgid "The administrator added points for you."
+msgstr ""
+
+#: functions/functions.php:705 templates/profile/content.php:148
+msgid "The administrator removed points from you."
+msgstr ""
+
+#: functions/functions.php:707
+msgid "voted up your question."
+msgstr "가 좋아요를 눌렀습니다."
+
+#: functions/functions.php:709
+msgid "voted down your question."
+msgstr "다운보팅"
+
+#: functions/functions.php:711
+msgid "voted up you answered."
+msgstr ""
+
+#: functions/functions.php:713
+msgid "voted down you answered."
+msgstr "다운보팅"
+
+#: functions/functions.php:715
+msgid "followed you."
+msgstr ""
+
+#: functions/functions.php:717
+msgid "unfollowed you."
+msgstr "언팔루우 했습니다."
+
+#: functions/functions.php:719
+msgid "Your point back because the best answer selected."
+msgstr ""
+
+#: functions/functions.php:721
+msgid "chosen your answer best answer."
+msgstr ""
+
+#: functions/functions.php:723
+msgid "Your point removed because the best answer removed."
+msgstr ""
+
+#: functions/functions.php:725
+msgid "canceled your answer best answer."
+msgstr ""
+
+#: functions/functions.php:727
+msgid "answered at your asked question."
+msgstr ""
+
+#: functions/functions.php:729
+msgid "answered your question."
+msgstr "가 댓글을 달았습니다."
+
+#: functions/functions.php:731
+msgid "answered your question you followed."
+msgstr ""
+
+#: functions/functions.php:733
+msgid "added a new question."
+msgstr ""
+
+#: functions/functions.php:735
+msgid "been asked you a question."
+msgstr ""
+
+#: functions/functions.php:737
+msgid "added you question to favorites."
+msgstr "게시글에 좋아요를 눌렀습니다."
+
+#: functions/functions.php:739
+msgid "removed your question from favorites."
+msgstr ""
+
+#: functions/functions.php:741
+msgid "followed your question."
+msgstr "게시글에 팔로우 했습니다."
+
+#: functions/functions.php:743
+msgid "unfollowed your question."
+msgstr "게시글에 대해 언팔로우 했습니다."
+
+#: functions/functions.php:745
+msgid "The administrator approved your answer."
+msgstr ""
+
+#: functions/functions.php:747
+msgid "The administrator approved your comment."
+msgstr ""
+
+#: functions/functions.php:749
+msgid "The administrator approved your question."
+msgstr ""
+
+#: functions/functions.php:751
+msgid "The administrator approved your message."
+msgstr ""
+
+#: functions/functions.php:753
+msgid "The administrator review your answer."
+msgstr ""
+
+#: functions/functions.php:755
+msgid "The administrator review your question."
+msgstr ""
+
+#: functions/functions.php:757
+msgid "The administrator approved your post."
+msgstr ""
+
+#: functions/functions.php:759 functions/functions.php:761
+#, php-format
+msgid "The administrator %s your %s."
+msgstr ""
+
+#: functions/functions.php:759 functions/functions.php:795
+msgid "answer"
+msgstr ""
+
+#: functions/functions.php:759 functions/functions.php:795
+msgid "comment"
+msgstr ""
+
+#: functions/functions.php:761
+msgid "question"
+msgstr ""
+
+#: functions/functions.php:761
+msgid "post"
+msgstr ""
+
+#: functions/functions.php:763
+#, php-format
+msgid "The administrator reason: %s."
+msgstr ""
+
+#: functions/functions.php:766
+msgid "Your question was deleted."
+msgstr ""
+
+#: functions/functions.php:768
+msgid "Your post was deleted."
+msgstr ""
+
+#: functions/functions.php:772
+msgid "Your answer was deleted."
+msgstr ""
+
+#: functions/functions.php:774
+msgid "Your comment was deleted."
+msgstr ""
+
+#: functions/functions.php:779
+msgid "seen your message."
+msgstr "가 메시지를 보았습니다."
+
+#: functions/functions.php:788 functions/functions.php:969
+msgid "( Spam )"
+msgstr ""
+
+#: functions/functions.php:790 functions/functions.php:800
+#: functions/functions.php:971 functions/functions.php:978
+msgid "( Trashed )"
+msgstr "( 삭제됨 ) "
+
+#: functions/functions.php:792 functions/functions.php:802
+#: functions/functions.php:973 functions/functions.php:980
+msgid "( Deleted )"
+msgstr "(삭제됨)"
+
+#: functions/functions.php:883
+msgid "Poll at question"
+msgstr ""
+
+#: functions/functions.php:885
+msgid "Voted up question."
+msgstr "업보팅"
+
+#: functions/functions.php:887
+msgid "Voted down question."
+msgstr "다운보팅"
+
+#: functions/functions.php:889
+msgid "Voted up answer."
+msgstr ""
+
+#: functions/functions.php:891
+msgid "Voted down answer."
+msgstr "다운보팅"
+
+#: functions/functions.php:893
+msgid "You have followed"
+msgstr "팔로우"
+
+#: functions/functions.php:895
+msgid "You have unfollowed"
+msgstr "언팔로우"
+
+#: functions/functions.php:899
+msgid "You have reported a question."
+msgstr "신고당함"
+
+#: functions/functions.php:901
+msgid "You have reported an answer."
+msgstr ""
+
+#: functions/functions.php:903
+msgid "You have chosen the best answer."
+msgstr "베스트글 선정함"
+
+#: functions/functions.php:905
+msgid "You have canceled the best answer."
+msgstr "베스트글 취소"
+
+#: functions/functions.php:907
+msgid "You have closed the question."
+msgstr "글을 숨겼습니다."
+
+#: functions/functions.php:909
+msgid "You have opend the question."
+msgstr ""
+
+#: functions/functions.php:911
+msgid "You have followed the question."
+msgstr "글에대해서 팔로우 했습니다."
+
+#: functions/functions.php:913
+msgid "You have unfollowed the question."
+msgstr ""
+
+#: functions/functions.php:915
+msgid "You have added a question at favorites."
+msgstr "즐겨찾기 등록됨"
+
+#: functions/functions.php:917
+msgid "You have removed a question from favorites."
+msgstr "즐겨찾기 제거됨"
+
+#: functions/functions.php:919
+msgid "You have added an answer."
+msgstr "댓글이 달렸습니다"
+
+#: functions/functions.php:921
+msgid "You have added a comment."
+msgstr ""
+
+#: functions/functions.php:923
+msgid "Your answere is pending for review."
+msgstr ""
+
+#: functions/functions.php:925
+msgid "Your comment is pending for review."
+msgstr ""
+
+#: functions/functions.php:927 templates/profile/content.php:136
+msgid "Added a new question."
+msgstr "글추가"
+
+#: functions/functions.php:929
+msgid "Add a new post."
+msgstr ""
+
+#: functions/functions.php:931
+msgid "Your question is pending for review."
+msgstr ""
+
+#: functions/functions.php:933
+msgid "Your message is pending for review."
+msgstr ""
+
+#: functions/functions.php:935
+msgid "Your post is pending for review."
+msgstr ""
+
+#: functions/functions.php:937
+msgid "You have deleted a question."
+msgstr "글삭제"
+
+#: functions/functions.php:939
+msgid "You have deleted a post."
+msgstr ""
+
+#: functions/functions.php:941
+msgid "You have deleted an answer."
+msgstr ""
+
+#: functions/functions.php:943
+msgid "You have deleted a comment."
+msgstr ""
+
+#: functions/functions.php:945
+msgid "You have sent a message for"
+msgstr "메시지 발송 "
+
+#: functions/functions.php:956
+msgid "Delete user"
+msgstr "삭제된유저"
+
+#: functions/functions.php:960
+msgid "You have deleted your inbox message"
+msgstr ""
+
+#: functions/functions.php:962
+msgid "You have deleted your sent message"
+msgstr ""
+
+#: functions/functions.php:1024
+msgid "Show all activities."
+msgstr ""
+
+#: functions/functions.php:1027
+msgid "There are no activities yet."
+msgstr ""
+
+#: functions/functions.php:1082
+msgid "added an answer"
+msgstr ""
+
+#: functions/functions.php:1082
+msgid "added a comment"
+msgstr ""
+
+#: functions/functions.php:1132 functions/functions.php:1423
+msgid "Explore Our Blog"
+msgstr ""
+
+#: functions/functions.php:1390
+msgid "On"
+msgstr ""
+
+#: functions/functions.php:1404
+msgid "0 Answers"
+msgstr ""
+
+#: functions/functions.php:1404
+msgid "0 Comments"
+msgstr ""
+
+#: functions/functions.php:1408
+msgid "1 Answer"
+msgstr ""
+
+#: functions/functions.php:1408
+msgid "1 Comment"
+msgstr ""
+
+#: functions/functions.php:1569
+msgid "Visit site"
+msgstr "웹사이트"
+
+#: functions/functions.php:1576 shortcodes/profile.php:185
+msgid "Male"
+msgstr "남성"
+
+#: functions/functions.php:1576 shortcodes/profile.php:189
+msgid "Female"
+msgstr "여성"
+
+#: functions/functions.php:1576 shortcodes/profile.php:194
+msgid "Other"
+msgstr ""
+
+#: functions/functions.php:1583
+msgid "years old"
+msgstr "세"
+
+#: functions/functions.php:1598 functions/functions.php:1717
+#: functions/functions.php:3164 functions/menu.php:210
+#: functions/rewrite.php:1243 templates/profile/head.php:49
+#: templates/search-form.php:75 templates/search-form.php:104
+#: widgets/posts.php:63 widgets/stats.php:18
+msgid "Posts"
+msgstr ""
+
+#: functions/functions.php:1618 functions/functions.php:1739
+#: functions/functions.php:1770 functions/functions.php:3160
+#: functions/menu.php:195 functions/rewrite.php:1227
+#: templates/profile/head.php:32 templates/profile/head.php:168
+#: templates/search-form.php:100 widgets/stats.php:18
+msgid "Best Answers"
+msgstr "개의 베스트"
+
+#: functions/functions.php:1625 functions/functions.php:1745
+#: functions/functions.php:1777 functions/functions.php:3162
+#: functions/menu.php:165 functions/rewrite.php:1229
+#: shortcodes/register.php:309 templates/profile/head.php:182
+#: templates/search-form.php:102
+msgid "Points"
+msgstr "캐쉬"
+
+#: functions/functions.php:1691
+msgid "Email"
+msgstr ""
+
+#: functions/functions.php:1756
+msgid "View Profile"
+msgstr "프로필 자세히"
+
+#: functions/functions.php:1804
+msgid "Send Message"
+msgstr "개인 메시지"
+
+#: functions/functions.php:1804
+msgid "Message"
+msgstr "비공개메시지"
+
+#: functions/functions.php:1816 functions/functions.php:2934
+#: functions/menu.php:75 functions/rewrite.php:1811 shortcodes/login.php:69
+#: widgets/buttons.php:35 widgets/login.php:25
+msgid "Login"
+msgstr "로그인 하기"
+
+#: functions/functions.php:1826 functions/functions.php:1828
+#: includes/class-wpqa.php:177
+msgid "Unfollow"
+msgstr "팔로우 취소"
+
+#: functions/functions.php:1837 functions/functions.php:1839
+#: includes/class-wpqa.php:176
+msgid "Follow"
+msgstr "팔로우하기"
+
+#: functions/functions.php:1861
+msgid "Verified"
+msgstr ""
+
+#: functions/functions.php:1961
+#, php-format
+msgid "%s post"
+msgstr ""
+
+#: functions/functions.php:1961
+#, php-format
+msgid "%s posts"
+msgstr ""
+
+#: functions/functions.php:1967
+#, php-format
+msgid "%s question"
+msgstr ""
+
+#: functions/functions.php:1967
+#, php-format
+msgid "%s questions"
+msgstr ""
+
+#: functions/functions.php:2037 functions/questions.php:176
+msgid "Payments"
+msgstr ""
+
+#: functions/functions.php:2040
+msgid "All my money"
+msgstr ""
+
+#: functions/functions.php:2080 functions/functions.php:2156
+msgid "payments"
+msgstr ""
+
+#: functions/functions.php:2094 functions/functions.php:2143
+msgid "Price"
+msgstr ""
+
+#: functions/functions.php:2094 functions/functions.php:2143
+msgid "coupon"
+msgstr ""
+
+#: functions/functions.php:2095 functions/functions.php:2144
+#: functions/messages.php:70 functions/post_type.php:158
+#: functions/questions.php:281 functions/questions.php:333
+msgid "Author"
+msgstr ""
+
+#: functions/functions.php:2096 functions/functions.php:2145
+msgid "Item"
+msgstr ""
+
+#: functions/functions.php:2097 functions/functions.php:2146
+#: functions/messages.php:72 functions/post_type.php:162
+#: functions/questions.php:282 functions/questions.php:334
+msgid "Date"
+msgstr ""
+
+#: functions/functions.php:2098 functions/functions.php:2147
+msgid "Transaction"
+msgstr ""
+
+#: functions/functions.php:2099 functions/functions.php:2148
+msgid "Payer email"
+msgstr ""
+
+#: functions/functions.php:2099 functions/functions.php:2148
+msgid "sandbox"
+msgstr ""
+
+#: functions/functions.php:2175 shortcodes/profile.php:174
+msgid "Phone"
+msgstr "휴대폰"
+
+#: functions/functions.php:2178 shortcodes/profile.php:155
+msgid "Country"
+msgstr "현재 거주중 국가"
+
+#: functions/functions.php:2181 shortcodes/profile.php:201
+msgid "Age"
+msgstr "연령"
+
+#: functions/functions.php:2393
+msgid "Hello there,"
+msgstr ""
+
+#: functions/functions.php:2394
+msgid "A new post has been submitted in "
+msgstr ""
+
+#: functions/functions.php:2394
+msgid " Please find details below:"
+msgstr ""
+
+#: functions/functions.php:2411
+msgid "To take action (approve/reject)- please go here:"
+msgstr ""
+
+#: functions/functions.php:2414
+msgid "Thank You"
+msgstr ""
+
+#: functions/functions.php:2415
+msgid "New Post Submission"
+msgstr ""
+
+#: functions/functions.php:2542 functions/messages.php:252
+msgid "New message"
+msgstr ""
+
+#: functions/functions.php:2703
+msgid "Best Answer"
+msgstr ""
+
+#: functions/functions.php:2732 functions/functions.php:2735
+msgid "Replied to"
+msgstr ""
+
+#: functions/functions.php:2732
+msgid "Added an"
+msgstr ""
+
+#: functions/functions.php:2733
+#, php-format
+msgid "answer on %1$s at %2$s"
+msgstr ""
+
+#: functions/functions.php:2735
+msgid "Added a"
+msgstr ""
+
+#: functions/functions.php:2736
+#, php-format
+msgid "comment on %1$s at %2$s"
+msgstr ""
+
+#: functions/functions.php:2745
+msgid "This answer was edited."
+msgstr ""
+
+#: functions/functions.php:2747
+msgid "This comment was edited."
+msgstr ""
+
+#: functions/functions.php:2754
+msgid "Your answer is awaiting moderation."
+msgstr "댓글을 관리자가 심사중입니다."
+
+#: functions/functions.php:2756
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions/functions.php:2809
+msgid "Read more"
+msgstr ""
+
+#: functions/functions.php:2832 functions/questions.php:618
+msgid "Like"
+msgstr ""
+
+#: functions/functions.php:2836 functions/questions.php:622
+msgid "Dislike"
+msgstr ""
+
+#: functions/functions.php:2844
+msgid "Login to Reply"
+msgstr ""
+
+#: functions/functions.php:2854 functions/functions.php:4507
+msgid "Share"
+msgstr ""
+
+#: functions/functions.php:2862 includes/class-wpqa.php:171
+msgid "Cancel the best answer"
+msgstr ""
+
+#: functions/functions.php:2866 includes/class-wpqa.php:170
+msgid "Select as best answer"
+msgstr "베스트 피드백 선택하기"
+
+#: functions/functions.php:2877 functions/post_type.php:95
+#: functions/post_type.php:121 functions/questions.php:642
+msgid "Edit"
+msgstr "수정"
+
+#: functions/functions.php:2884 functions/functions.php:3765
+#: functions/questions.php:280 functions/questions.php:332
+#: functions/questions.php:652
+msgid "Report"
+msgstr "스팸신고"
+
+#: functions/functions.php:2907
+msgid "Home"
+msgstr "홈"
+
+#: functions/functions.php:2926
+msgid "Search results for "
+msgstr "검색 결과 "
+
+#: functions/functions.php:2932 functions/functions.php:4656
+#: functions/rewrite.php:1809 templates/buy-points.php:20
+#: templates/buy-points.php:34
+msgid "Buy points"
+msgstr ""
+
+#: functions/functions.php:2936 functions/menu.php:85
+#: functions/rewrite.php:1813 shortcodes/register.php:88 widgets/signup.php:25
+msgid "Signup"
+msgstr "가입신청하기"
+
+#: functions/functions.php:2938 functions/rewrite.php:1815
+msgid "Lost password"
+msgstr ""
+
+#: functions/functions.php:2944 functions/rewrite.php:1817
+msgid "Add question"
+msgstr ""
+
+#: functions/functions.php:2944
+msgid "to"
+msgstr ""
+
+#: functions/functions.php:2946 functions/rewrite.php:1819
+msgid "Edit question"
+msgstr ""
+
+#: functions/functions.php:2948 functions/rewrite.php:1823
+msgid "Add post"
+msgstr ""
+
+#: functions/functions.php:2950 functions/rewrite.php:1825
+msgid "Edit post"
+msgstr ""
+
+#: functions/functions.php:2952 functions/rewrite.php:1827
+msgid "Edit comment"
+msgstr ""
+
+#: functions/functions.php:2954 functions/rewrite.php:1821
+msgid "Edit tags"
+msgstr ""
+
+#: functions/functions.php:2978
+msgid "Q"
+msgstr ""
+
+#: functions/functions.php:2997
+msgid "Error 404"
+msgstr ""
+
+#: functions/functions.php:3016
+msgid "Posts tagged "
+msgstr ""
+
+#: functions/functions.php:3018
+msgid "Error 404 "
+msgstr ""
+
+#: functions/functions.php:3021
+msgid "Page"
+msgstr ""
+
+#: functions/functions.php:3033 shortcodes/profile.php:70
+msgid "Change Password"
+msgstr "비밀번호 수정"
+
+#: functions/functions.php:3068 functions/post_type.php:91
+msgid "All Categories"
+msgstr "모두보기"
+
+#: functions/functions.php:3089 functions/functions.php:3122
+#: widgets/tabs.php:75
+msgid "Popular"
+msgstr ""
+
+#: functions/functions.php:3090 functions/functions.php:3123
+#: functions/functions.php:3156 templates/search-form.php:96
+msgid "Name"
+msgstr ""
+
+#: functions/functions.php:3099 functions/functions.php:3132
+#: functions/functions.php:3172
+msgid "Type to find..."
+msgstr "아이디검색"
+
+#: functions/functions.php:3155 templates/search-form.php:95
+msgid "Date Register"
+msgstr "등록일"
+
+#: functions/functions.php:3157 templates/search-form.php:97
+msgid "ID"
+msgstr ""
+
+#: functions/functions.php:3201
+msgid "Next"
+msgstr "다음"
+
+#: functions/functions.php:3215
+msgid "Closed"
+msgstr "비공개"
+
+#: functions/functions.php:3217
+msgid "Answered"
+msgstr "종료"
+
+#: functions/functions.php:3219
+msgid "In Process"
+msgstr "진행중 게시글"
+
+#: functions/functions.php:3374
+msgid ""
+"Kindly fill the required fields, You need to fill all the required fields."
+msgstr ""
+
+#: functions/functions.php:3473 functions/functions.php:3476
+#: functions/functions.php:3479 functions/functions.php:3491
+msgid "Sign Up"
+msgstr "가입하기"
+
+#: functions/functions.php:3496 functions/functions.php:3505
+#: functions/functions.php:3612
+msgid "Have an account?"
+msgstr "가입했다면, "
+
+#: functions/functions.php:3496 functions/functions.php:3527
+#: functions/functions.php:3530 functions/functions.php:3533
+#: functions/functions.php:3545
+msgid "Sign In"
+msgstr "로그인"
+
+#: functions/functions.php:3505 functions/functions.php:3612
+msgid "Sign In Now"
+msgstr "로그인 하러가기"
+
+#: functions/functions.php:3550 functions/functions.php:3559
+#: functions/functions.php:3648 functions/functions.php:3662
+#: functions/functions.php:3694 functions/functions.php:3738
+msgid "Sign Up Here"
+msgstr "가입하러 가기"
+
+#: functions/functions.php:3559
+msgid "Don't have account,"
+msgstr "계정이 없다면,"
+
+#: functions/functions.php:3581 functions/functions.php:3584
+#: functions/functions.php:3587 functions/functions.php:3599
+msgid "Forget Password"
+msgstr "비밀번호 찾기"
+
+#: functions/functions.php:3648 functions/functions.php:3662
+#: functions/functions.php:3694 functions/functions.php:3738
+msgid "Need An Account,"
+msgstr "회원가입이 필요합니다."
+
+#: functions/functions.php:3751
+msgid "Please briefly explain why you feel this answer should be reported."
+msgstr "신고 접수 감사합니다. 양질의 온라인 공간을 만들기 위해 자세한 내용을 적을수록 더 좋은 공간이 될 것이라 확신합니다."
+
+#: functions/functions.php:3757
+msgid "Explain"
+msgstr "내용"
+
+#: functions/functions.php:3869
+msgid "Please wait will go to the PayPal now to pay a new payment."
+msgstr ""
+
+#: functions/functions.php:4104
+msgid "Thank you for your payment, Your question now is sticky"
+msgstr ""
+
+#: functions/functions.php:4106
+msgid "Thank you for your payment, Your points was added now"
+msgstr ""
+
+#: functions/functions.php:4108
+msgid "Thank you for your payment you can now add a new question"
+msgstr ""
+
+#: functions/functions.php:4115
+msgid "Instant Payment Notification - Received Payment"
+msgstr ""
+
+#: functions/functions.php:4121
+#, php-format
+msgid "Your transaction id %s, Please copy it."
+msgstr ""
+
+#: functions/functions.php:4134
+msgid "The payment was failed!"
+msgstr ""
+
+#: functions/functions.php:4142
+msgid "The payment was canceled!"
+msgstr ""
+
+#: functions/functions.php:4285
+msgid "No more comments"
+msgstr ""
+
+#: functions/functions.php:4286
+msgid "Load More Comments"
+msgstr ""
+"Up을 눌러서 개념발주를 응원하고 <br>\n"
+"Down을 눌러서 개선을 하는 기회를 찾아봅시다.<br>"
+
+#: functions/functions.php:4288
+msgid "No more answers"
+msgstr ""
+
+#: functions/functions.php:4289
+msgid "Load More Answers"
+msgstr ""
+"Up을 눌러서 개념발주를 응원하고 <br>\n"
+"Down을 눌러서 개선을 하는 기회를 찾아봅시다.<br>"
+
+#: functions/functions.php:4292
+msgid "No more questions"
+msgstr "더이상 컨텐츠가 없습니다."
+
+#: functions/functions.php:4293
+msgid "Load More Questions"
+msgstr "더보기"
+
+#: functions/functions.php:4295
+msgid "No more posts"
+msgstr ""
+
+#: functions/functions.php:4296
+msgid "Load More Posts"
+msgstr ""
+"Up을 눌러서 개념발주를 응원하고 <br>\n"
+"Down을 눌러서 개선을 하는 기회를 찾아봅시다.<br>"
+
+#: functions/functions.php:4485
+msgid "Old Questions"
+msgstr ""
+
+#: functions/functions.php:4485
+msgid "Old Entries"
+msgstr ""
+
+#: functions/functions.php:4488
+msgid "New Questions"
+msgstr ""
+
+#: functions/functions.php:4488
+msgid "New Entries"
+msgstr ""
+
+#: functions/functions.php:4509
+msgid "Share This Article"
+msgstr "공유하기"
+
+#: functions/functions.php:4516 functions/functions.php:4518
+#: functions/functions.php:4520 functions/functions.php:4522
+msgid "Share on"
+msgstr ""
+
+#: functions/functions.php:4516 shortcodes/profile.php:218
+msgid "Facebook"
+msgstr "비즈전용 Facebook"
+
+#: functions/functions.php:4518 shortcodes/profile.php:224
+msgid "Twitter"
+msgstr ""
+
+#: functions/functions.php:4520 shortcodes/profile.php:248
+msgid "Google plus"
+msgstr ""
+
+#: functions/functions.php:4522
+msgid "WhatsApp"
+msgstr ""
+
+#: functions/functions.php:4649
+msgid "Pay to make question sticky"
+msgstr ""
+
+#: functions/functions.php:4664
+msgid "Ask a new question"
+msgstr ""
+
+#: functions/functions.php:4674
+#, php-format
+msgid ""
+"Please pay by points to allow to be able to sticky the question %s For %s "
+"days."
+msgstr ""
+
+#: functions/functions.php:4674 functions/functions.php:4676
+msgid "points"
+msgstr ""
+
+#: functions/functions.php:4676
+#, php-format
+msgid "Please pay by points to allow to be able to add a question %s."
+msgstr ""
+
+#: functions/functions.php:4683 functions/functions.php:4809
+msgid "Process"
+msgstr ""
+
+#: functions/functions.php:4690 functions/questions.php:553
+#: shortcodes/question.php:878
+msgid "Sorry, you haven't enough points"
+msgstr ""
+
+#: functions/functions.php:4690 functions/questions.php:553
+#: shortcodes/question.php:878
+msgid "You can buy the points from here."
+msgstr ""
+
+#: functions/functions.php:4701
+msgid "Please enter your coupon."
+msgstr ""
+
+#: functions/functions.php:4724
+#, php-format
+msgid "Coupon \"%s\" applied successfully."
+msgstr ""
+
+#: functions/functions.php:4733
+msgid "Coupon does not exist!."
+msgstr ""
+
+#: functions/functions.php:4735
+#, php-format
+msgid "Coupon \"%s\" does not exist!."
+msgstr ""
+
+#: functions/functions.php:4745
+#, php-format
+msgid ""
+"Please make a payment to allow to be able to sticky the question %s For %s "
+"days."
+msgstr ""
+
+#: functions/functions.php:4747
+#, php-format
+msgid "Please make a payment to buy %s points %s."
+msgstr ""
+
+#: functions/functions.php:4749
+#, php-format
+msgid "Please make a payment to allow to be able to add a question %s."
+msgstr ""
+
+#: functions/functions.php:4767
+#, php-format
+msgid "Ask a free question? Add this coupon %s."
+msgstr ""
+
+#: functions/functions.php:4776
+msgid "Coupon code"
+msgstr ""
+
+#: functions/functions.php:4777
+msgid "Apply Coupon"
+msgstr ""
+
+#: functions/functions.php:4802
+msgid "Pay now"
+msgstr ""
+
+#: functions/menu.php:17
+msgid "WPQA - Custom Links"
+msgstr ""
+
+#: functions/menu.php:28
+msgid "Profile links"
+msgstr ""
+
+#: functions/menu.php:37
+msgid "View All"
+msgstr ""
+
+#: functions/menu.php:49
+msgid "Select All"
+msgstr ""
+
+#: functions/menu.php:52
+msgid "Add to Menu"
+msgstr ""
+
+#: functions/menu.php:80
+msgid "Login Pop Up"
+msgstr ""
+
+#: functions/menu.php:90
+msgid "Signup Pop Up"
+msgstr ""
+
+#: functions/menu.php:95
+msgid "Lost Password"
+msgstr ""
+
+#: functions/menu.php:100
+msgid "Lost Password Pop Up"
+msgstr ""
+
+#: functions/menu.php:105 functions/menu.php:175 functions/rewrite.php:1231
+#: templates/profile/head.php:34
+msgid "Polls"
+msgstr ""
+
+#: functions/menu.php:110
+msgid "Add Question"
+msgstr ""
+
+#: functions/menu.php:115
+msgid "Add Question Pop Up"
+msgstr ""
+
+#: functions/menu.php:120
+msgid "Add Post"
+msgstr ""
+
+#: functions/menu.php:125
+msgid "Add Post Pop Up"
+msgstr ""
+
+#: functions/menu.php:130
+msgid "Profile"
+msgstr ""
+
+#: functions/menu.php:135
+msgid "Edit Profile"
+msgstr "프로필 수정"
+
+#: functions/menu.php:145 functions/rewrite.php:1215
+#: templates/profile/head.php:236
+msgid "Following"
+msgstr "팔로잉"
+
+#: functions/menu.php:150 functions/rewrite.php:1217
+#: widgets/notifications.php:34
+msgid "Notifications"
+msgstr ""
+
+#: functions/menu.php:155 functions/rewrite.php:1219
+msgid "Activities"
+msgstr "활동"
+
+#: functions/menu.php:160 functions/messages.php:18 functions/messages.php:20
+#: functions/messages.php:21 functions/messages.php:22
+#: functions/messages.php:23 functions/rewrite.php:1221
+#: templates/profile/messages.php:13
+msgid "Messages"
+msgstr "비공개 메시지"
+
+#: functions/menu.php:180 functions/rewrite.php:1233
+#: templates/profile/head.php:38
+msgid "Asked Questions"
+msgstr "요청받은 문의사항"
+
+#: functions/menu.php:185 functions/rewrite.php:1237
+#: templates/profile/head.php:43
+msgid "Paid Questions"
+msgstr ""
+
+#: functions/menu.php:200 functions/rewrite.php:1239
+msgid "Followed"
+msgstr ""
+
+#: functions/menu.php:205 functions/rewrite.php:1241
+msgid "Favorites"
+msgstr ""
+
+#: functions/menu.php:220 functions/rewrite.php:1247
+#: templates/profile/head.php:53
+msgid "Followers Questions"
+msgstr ""
+
+#: functions/menu.php:225 functions/rewrite.php:1249
+#: templates/profile/head.php:55
+msgid "Followers Answers"
+msgstr ""
+
+#: functions/menu.php:230 functions/rewrite.php:1251
+#: templates/profile/head.php:57
+msgid "Followers Posts"
+msgstr ""
+
+#: functions/menu.php:235 functions/rewrite.php:1253
+#: templates/profile/head.php:59
+msgid "Followers Comments"
+msgstr ""
+
+#: functions/menu.php:240
+msgid "Logout"
+msgstr ""
+
+#: functions/messages.php:24 functions/post_type.php:58
+msgid "Add New"
+msgstr ""
+
+#: functions/messages.php:25
+msgid "Add New Message"
+msgstr ""
+
+#: functions/messages.php:26
+msgid "New Message"
+msgstr ""
+
+#: functions/messages.php:27
+msgid "Edit Message"
+msgstr ""
+
+#: functions/messages.php:28
+msgid "View Message"
+msgstr ""
+
+#: functions/messages.php:29
+msgid "View Messages"
+msgstr ""
+
+#: functions/messages.php:30
+msgid "All Messages"
+msgstr ""
+
+#: functions/messages.php:31
+msgid "Search Messages"
+msgstr ""
+
+#: functions/messages.php:32
+msgid "Parent Message:"
+msgstr ""
+
+#: functions/messages.php:33
+msgid "No Messages Found."
+msgstr ""
+
+#: functions/messages.php:34
+msgid "No Messages Found in Trash."
+msgstr ""
+
+#: functions/messages.php:68 functions/post_type.php:156
+msgid "Title"
+msgstr ""
+
+#: functions/messages.php:69
+msgid "Content"
+msgstr ""
+
+#: functions/messages.php:71
+msgid "To user"
+msgstr ""
+
+#: functions/messages.php:73
+msgid "User deleted?"
+msgstr ""
+
+#: functions/messages.php:101
+msgid "has deleted his inbox message."
+msgstr ""
+
+#: functions/messages.php:109
+msgid "has delete his sent message."
+msgstr ""
+
+#: functions/messages.php:113
+msgid "No one delete it"
+msgstr ""
+
+#: functions/messages.php:138 functions/messages.php:303
+msgid "Sorry, you do not have a permission to send message."
+msgstr ""
+
+#: functions/messages.php:140 functions/messages.php:143
+#: functions/messages.php:305 functions/messages.php:308
+msgid "You must login to send a message."
+msgstr ""
+
+#: functions/messages.php:152 functions/messages.php:310
+msgid "You can't send message for yourself."
+msgstr ""
+
+#: functions/messages.php:162 shortcodes/login.php:44 shortcodes/post.php:456
+#: shortcodes/question.php:1325 shortcodes/register.php:44
+msgid "Username"
+msgstr "아이디"
+
+#: functions/messages.php:165 shortcodes/post.php:459
+#: shortcodes/question.php:1328
+msgid "Please type your username."
+msgstr ""
+
+#: functions/messages.php:169 shortcodes/password.php:35
+#: shortcodes/post.php:463 shortcodes/profile.php:84
+#: shortcodes/question.php:1332 shortcodes/register.php:49
+msgid "E-Mail"
+msgstr "이메일"
+
+#: functions/messages.php:172 shortcodes/post.php:466
+#: shortcodes/question.php:1335
+msgid "Please type your E-Mail."
+msgstr ""
+
+#: functions/messages.php:176
+msgid "Message Title"
+msgstr "메시지 제목"
+
+#: functions/messages.php:182 shortcodes/post.php:517
+#: shortcodes/question.php:1532
+msgid "Details"
+msgstr "본문"
+
+#: functions/messages.php:194 shortcodes/question.php:1544
+msgid "Type the description thoroughly and in details."
+msgstr "성의 있는글은 좋은 답을 들을 가능성이 높습니다."
+
+#: functions/messages.php:212
+msgid "Send Your Message"
+msgstr "메시지 보내기"
+
+#: functions/messages.php:257
+msgid "The message has been sent successfully."
+msgstr "인메일과 이메일로 메시지를 보냈습니다. "
+
+#: functions/messages.php:259
+msgid "Has been sent successfully, The message is under review."
+msgstr ""
+
+#: functions/messages.php:312
+msgid "There are an error."
+msgstr ""
+
+#: functions/messages.php:316 shortcodes/post.php:146
+#: shortcodes/question.php:407
+msgid "There are required fields (username)."
+msgstr ""
+
+#: functions/messages.php:317 shortcodes/post.php:147
+#: shortcodes/question.php:408
+msgid "There are required fields (email)."
+msgstr "\"이메일\"이 빠졌습니다!"
+
+#: functions/messages.php:318 shortcodes/post.php:148
+#: shortcodes/question.php:409 shortcodes/register.php:165
+msgid "Please write correctly email."
+msgstr ""
+
+#: functions/messages.php:323 shortcodes/post.php:153 shortcodes/post.php:343
+#: shortcodes/question.php:414 shortcodes/question.php:1011
+msgid "There are required fields (title)."
+msgstr "\"제목\"이 빠졌습니다!"
+
+#: functions/messages.php:327 shortcodes/post.php:347
+#: shortcodes/question.php:433 shortcodes/question.php:1029
+msgid "There are required fields (content)."
+msgstr "\"본문\"이 빠졌습니다!"
+
+#: functions/messages.php:337 shortcodes/login.php:105 shortcodes/post.php:166
+#: shortcodes/question.php:443 shortcodes/register.php:141
+msgid "There are required fields (captcha)."
+msgstr ""
+
+#: functions/messages.php:341 functions/messages.php:346
+msgid "The captcha is incorrect, please try again."
+msgstr ""
+
+#: functions/messages.php:366
+msgid "Error in message."
+msgstr ""
+
+#: functions/messages.php:417
+msgid "RE:"
+msgstr ""
+
+#: functions/post_type.php:57 functions/post_type.php:177
+#: functions/post_type.php:260 widgets/questions_categories.php:68
+#: widgets/questions_categories.php:96
+msgid "Question"
+msgstr ""
+
+#: functions/post_type.php:59
+msgid "Add New Question"
+msgstr ""
+
+#: functions/post_type.php:60
+msgid "New Question"
+msgstr ""
+
+#: functions/post_type.php:61
+msgid "Edit Question"
+msgstr ""
+
+#: functions/post_type.php:62
+msgid "View Question"
+msgstr ""
+
+#: functions/post_type.php:63
+msgid "View Questions"
+msgstr ""
+
+#: functions/post_type.php:64
+msgid "All Questions"
+msgstr ""
+
+#: functions/post_type.php:65
+msgid "Search Questions"
+msgstr ""
+
+#: functions/post_type.php:66
+msgid "Parent Question:"
+msgstr ""
+
+#: functions/post_type.php:67
+msgid "No Questions Found."
+msgstr ""
+
+#: functions/post_type.php:68
+msgid "No Questions Found in Trash."
+msgstr ""
+
+#: functions/post_type.php:88 functions/post_type.php:89
+#: functions/post_type.php:92 functions/post_type.php:93
+msgid "Question Categories"
+msgstr ""
+
+#: functions/post_type.php:90
+msgid "Search Categories"
+msgstr ""
+
+#: functions/post_type.php:94
+msgid "Edit Category"
+msgstr ""
+
+#: functions/post_type.php:96 functions/post_type.php:97
+msgid "Add New Category"
+msgstr ""
+
+#: functions/post_type.php:114 functions/post_type.php:115
+#: functions/post_type.php:118 functions/post_type.php:119
+msgid "Question Tags"
+msgstr ""
+
+#: functions/post_type.php:116
+msgid "Search Tags"
+msgstr ""
+
+#: functions/post_type.php:117
+msgid "All Tags"
+msgstr ""
+
+#: functions/post_type.php:120
+msgid "Edit Tag"
+msgstr ""
+
+#: functions/post_type.php:122 functions/post_type.php:123
+msgid "Add New Tag"
+msgstr ""
+
+#: functions/post_type.php:157
+msgid "Type"
+msgstr ""
+
+#: functions/post_type.php:159 shortcodes/post.php:478
+#: shortcodes/question.php:1371
+msgid "Category"
+msgstr "카테고리"
+
+#: functions/post_type.php:160 shortcodes/post.php:486
+#: shortcodes/question.php:1378 widgets/tabs.php:79
+msgid "Tags"
+msgstr ""
+
+#: functions/post_type.php:175 functions/post_type.php:261
+msgid "Poll"
+msgstr ""
+
+#: functions/post_type.php:198
+msgid "Asked to"
+msgstr ""
+
+#: functions/post_type.php:206
+msgid "No category"
+msgstr ""
+
+#: functions/post_type.php:218
+msgid "No tags"
+msgstr ""
+
+#: functions/post_type.php:238
+#, php-format
+msgid "Updated. <a href=\"%s\">View question</a>"
+msgstr ""
+
+#: functions/post_type.php:262 functions/post_type.php:351
+msgid "Sticky"
+msgstr ""
+
+#: functions/post_type.php:323
+msgid "Delete post"
+msgstr ""
+
+#: functions/post_type.php:323
+msgid "Delete question"
+msgstr ""
+
+#: functions/post_type.php:360
+msgid "ON"
+msgstr ""
+
+#: functions/post_type.php:360
+msgid "OFF"
+msgstr ""
+
+#: functions/post_type.php:362 shortcodes/question.php:1628
+msgid "Stick this question"
+msgstr "상단고정"
+
+#: functions/questions.php:26
+msgid "New question"
+msgstr ""
+
+#: functions/questions.php:169 functions/questions.php:212
+msgid "Reports"
+msgstr ""
+
+#: functions/questions.php:262 functions/questions.php:342
+msgid "reports"
+msgstr ""
+
+#: functions/questions.php:279 functions/questions.php:331
+msgid "Link"
+msgstr ""
+
+#: functions/questions.php:317
+msgid "ago"
+msgstr ""
+
+#: functions/questions.php:325 includes/class-wpqa.php:201
+msgid "There are no reports yet."
+msgstr ""
+
+#: functions/questions.php:457
+msgid "This is a paid question."
+msgstr ""
+
+#: functions/questions.php:457
+msgid "Paid details"
+msgstr ""
+
+#: functions/questions.php:462
+msgid "This question will sticky to"
+msgstr ""
+
+#: functions/questions.php:472
+msgid "The transaction id"
+msgstr ""
+
+#: functions/questions.php:475
+msgid "This transaction is from PayPal sandbox."
+msgstr ""
+
+#: functions/questions.php:481
+msgid "The transaction id for sticky question"
+msgstr ""
+
+#: functions/questions.php:484
+msgid "This transaction is from PayPal sandbox for sticky question."
+msgstr ""
+
+#: functions/questions.php:519
+msgid "Bump your question"
+msgstr ""
+
+#: functions/questions.php:550
+msgid "You have just stickied the question by points."
+msgstr ""
+
+#: functions/questions.php:585
+msgid "Pay to sticky question"
+msgstr ""
+
+#: functions/questions.php:605
+msgid "Question bump points"
+msgstr ""
+
+#: functions/questions.php:606
+msgid "Bump"
+msgstr ""
+
+#: functions/questions.php:648
+msgid "Open the question"
+msgstr ""
+
+#: functions/questions.php:648
+msgid "Close the question"
+msgstr ""
+
+#: functions/questions.php:648
+msgid "Open"
+msgstr "공개하기"
+
+#: functions/questions.php:648
+msgid "Close"
+msgstr "숨기기"
+
+#: functions/rewrite.php:1235 templates/profile/head.php:40
+msgid "Waiting Questions"
+msgstr "미완료 게시글"
+
+#: includes/class-wpqa.php:69
+#, php-format
+msgid ""
+"This plugin can not be activated because it requires a WordPress version at "
+"least %1$s (or later). Please go to Dashboard &#9656; Updates to get the "
+"latest version of WordPress."
+msgstr ""
+
+#: includes/class-wpqa.php:69
+msgid "go back"
+msgstr ""
+
+#: includes/class-wpqa.php:153
+msgid "Please fill the required field."
+msgstr ""
+
+#: includes/class-wpqa.php:154
+msgid "Sorry, The minimum characters is"
+msgstr ""
+
+#: includes/class-wpqa.php:155
+msgid "Sorry, The maximum characters is"
+msgstr ""
+
+#: includes/class-wpqa.php:157
+msgid "Are you sure you want to delete the question?"
+msgstr ""
+
+#: includes/class-wpqa.php:158
+msgid "Are you sure you want to delete the post?"
+msgstr ""
+
+#: includes/class-wpqa.php:159
+msgid "Are you sure you want to delete the comment?"
+msgstr ""
+
+#: includes/class-wpqa.php:160
+msgid "Are you sure you want to delete the answer?"
+msgstr ""
+
+#: includes/class-wpqa.php:161
+msgid "Are you sure you want to delete the message?"
+msgstr ""
+
+#: includes/class-wpqa.php:162
+msgid "Are you sure you want to delete the image?"
+msgstr ""
+
+#: includes/class-wpqa.php:163
+msgid "Are you sure you want to delete the attachment?"
+msgstr ""
+
+#: includes/class-wpqa.php:164
+msgid "Sorry, you cannot vote your question."
+msgstr "자신에게 보팅할 수 없습니다."
+
+#: includes/class-wpqa.php:165
+msgid "Sorry, you cannot vote on the same question more than once."
+msgstr "보팅은 한번만 할수 있습니다."
+
+#: includes/class-wpqa.php:166
+msgid "Voting is available to members only."
+msgstr "보팅은 회원가입후 가능합니다."
+
+#: includes/class-wpqa.php:167
+msgid "Sorry, you cannot vote your answer."
+msgstr ""
+
+#: includes/class-wpqa.php:168
+msgid "Sorry, you cannot vote on the same answer more than once."
+msgstr ""
+
+#: includes/class-wpqa.php:169
+msgid "Sorry, you cannot poll on the same question more than once."
+msgstr ""
+
+#: includes/class-wpqa.php:173
+msgid "There are another one select this a best answer"
+msgstr ""
+
+#: includes/class-wpqa.php:174
+msgid "Follow the question"
+msgstr ""
+
+#: includes/class-wpqa.php:175
+msgid "Unfollow the question"
+msgstr ""
+
+#: includes/class-wpqa.php:180
+msgid "Thank you, your reported will be reviewed shortly."
+msgstr "접수 되었습니다."
+
+#: includes/class-wpqa.php:181
+msgid "Add this question to favorites"
+msgstr ""
+
+#: includes/class-wpqa.php:182
+msgid "Remove this question of my favorites"
+msgstr ""
+
+#: includes/class-wpqa.php:183
+msgid "Please fill the required fields (name)."
+msgstr "이름을 입력하세요"
+
+#: includes/class-wpqa.php:184
+msgid "Please fill the required fields (email)."
+msgstr "이메일을 입력하세요."
+
+#: includes/class-wpqa.php:185
+msgid "Please type a comment."
+msgstr "내용을 입력하세요."
+
+#: includes/class-wpqa.php:186
+msgid "Please enter a valid email address."
+msgstr "이메일 형식에 맞추세요."
+
+#: includes/class-wpqa.php:187 includes/class-wpqa.php:190
+msgid "Cancel reply."
+msgstr ""
+
+#: includes/class-wpqa.php:188 templates/profile/messages.php:101
+msgid "Block Message"
+msgstr ""
+
+#: includes/class-wpqa.php:189 templates/profile/messages.php:101
+msgid "Unblock Message"
+msgstr ""
+
+#: includes/class-wpqa.php:199
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: includes/class-wpqa.php:200
+msgid "If you press will delete report!"
+msgstr ""
+
+#: includes/class-wpqa.php:202
+msgid "If you press will delete the attachment!"
+msgstr ""
+
+#: shortcodes/comment.php:60
+msgid "Edit Comment"
+msgstr ""
+
+#: shortcodes/login.php:36 shortcodes/register.php:35
+msgid "or use"
+msgstr ""
+
+#: shortcodes/login.php:49 shortcodes/register.php:54
+msgid "Password"
+msgstr "비밀번호"
+
+#: shortcodes/login.php:59
+msgid "Remember Me!"
+msgstr "기억하기"
+
+#: shortcodes/login.php:62
+msgid "Forget Password?"
+msgstr "비밀번호 찾기"
+
+#: shortcodes/login.php:70
+msgid "Register"
+msgstr ""
+
+#: shortcodes/login.php:121
+#, php-format
+msgid "%s ERROR %s: please insert your name."
+msgstr "%s 오류  %s:  아이디를 입력하세요"
+
+#: shortcodes/login.php:123
+#, php-format
+msgid "%s ERROR %s: please insert your password."
+msgstr "%s 오류 %s: 패스워드를 입력하세요."
+
+#: shortcodes/login.php:198
+#, php-format
+msgid "Hello %s (not %s? <a href=\"%s\">Log out</a>)"
+msgstr "다시오셨군요! %s (님이 아니라면  %s? <a href=\"%s\">로그아웃</a>)"
+
+#: shortcodes/login.php:198
+#, php-format
+msgid ""
+"From your profile you can view your <a href=\"%s\">recent questions</a>, <a "
+"href=\"%s\">edit your password and profile details</a>."
+msgstr "<a href=\"%s\">쓴글보러가기</a>, <a href=\"%s\">프로필 편집하러가기</a>."
+
+#: shortcodes/password.php:28
+msgid ""
+"Lost your password? Please enter your email address. You will receive a link "
+"and will create a new password via email."
+msgstr "이메일을 입력하시면 초기화 링크를 보내 드립니다."
+
+#: shortcodes/password.php:46
+msgid "Reset"
+msgstr "초기화 하기"
+
+#: shortcodes/password.php:65 shortcodes/password.php:178
+#, php-format
+msgid ""
+"You are already logged in, If you want to change your password go to <a "
+"href='%s'>edit profile</a>."
+msgstr ""
+
+#: shortcodes/password.php:67
+#, php-format
+msgid "%s ERROR %s: please insert your email."
+msgstr "%s 오류 %s: 이메일을 입력하세요."
+
+#: shortcodes/password.php:69
+#, php-format
+msgid "%s ERROR %s: there is no user registered with that email address."
+msgstr ""
+
+#: shortcodes/password.php:90 shortcodes/password.php:166
+msgid "Reset your password"
+msgstr ""
+
+#: shortcodes/password.php:93
+msgid "Check your email please."
+msgstr ""
+
+#: shortcodes/password.php:168
+msgid "Check your email, Your password has been reset."
+msgstr ""
+
+#: shortcodes/password.php:172
+msgid ""
+"Your password reset link has expired or not valid, Please request a new link"
+msgstr ""
+
+#: shortcodes/password.php:172
+msgid "Reset Password"
+msgstr ""
+
+#: shortcodes/post.php:28
+msgid "Sorry, you do not have a permission to add a post."
+msgstr ""
+
+#: shortcodes/post.php:30
+msgid "You must login to add post."
+msgstr ""
+
+#: shortcodes/post.php:40
+msgid "You must login to edit post."
+msgstr ""
+
+#: shortcodes/post.php:52 shortcodes/post.php:55 shortcodes/post.php:338
+msgid "Sorry you can't edit this post."
+msgstr ""
+
+#: shortcodes/post.php:58
+msgid "Sorry no post has you select or not found."
+msgstr ""
+
+#: shortcodes/post.php:61
+msgid "Sorry, you do not have a permission to edit a post."
+msgstr ""
+
+#: shortcodes/post.php:99
+msgid "New post for review"
+msgstr ""
+
+#: shortcodes/post.php:102 shortcodes/post.php:302
+msgid "The post has added successfully, It's under review."
+msgstr ""
+
+#: shortcodes/post.php:154 shortcodes/post.php:344 shortcodes/question.php:416
+#: shortcodes/question.php:1013
+msgid "There are required fields (category)."
+msgstr "\"카테고리\"가 빠졌습니다!"
+
+#: shortcodes/post.php:156
+msgid "There are required fields (details)."
+msgstr "\"본문\"이 빠졌습니다!"
+
+#: shortcodes/post.php:209
+msgid "Error in post."
+msgstr ""
+
+#: shortcodes/post.php:341
+msgid "Sorry no post select or not found."
+msgstr ""
+
+#: shortcodes/post.php:471
+msgid "Post Title"
+msgstr ""
+
+#: shortcodes/post.php:474
+msgid "Please choose an appropriate title for the post."
+msgstr "타이틀을 입력하세요"
+
+#: shortcodes/post.php:481
+msgid "Please choose the appropriate section so easily search for your post."
+msgstr ""
+
+#: shortcodes/post.php:488 shortcodes/question.php:1380
+msgid "Please choose suitable Keywords Ex: "
+msgstr ""
+
+#: shortcodes/post.php:488
+msgid "post, video"
+msgstr ""
+
+#: shortcodes/post.php:551
+msgid "Publish Your Post"
+msgstr ""
+
+#: shortcodes/post.php:551
+msgid "Edit Your Post"
+msgstr ""
+
+#: shortcodes/profile.php:34
+msgid "Please login to edit profile."
+msgstr ""
+
+#: shortcodes/profile.php:81
+msgid "Basic Information"
+msgstr "프로필 페이지"
+
+#: shortcodes/profile.php:91
+msgid "Nickname"
+msgstr "아이디"
+
+#: shortcodes/profile.php:97
+msgid "First Name"
+msgstr "이름"
+
+#: shortcodes/profile.php:102
+msgid "Last Name"
+msgstr "성"
+
+#: shortcodes/profile.php:107
+msgid "Display name"
+msgstr "화면표시: 이름_제공가능한것_필요한것 /  예시) 조중현_사람_외주"
+
+#: shortcodes/profile.php:123
+msgid "Profile Picture"
+msgstr "프로필 사진"
+
+#: shortcodes/profile.php:143
+msgid "Cover Picture"
+msgstr ""
+
+#: shortcodes/profile.php:158
+msgid "Select a country&hellip;"
+msgstr "선택하세요"
+
+#: shortcodes/profile.php:168
+msgid "City"
+msgstr "현재 거주중 도시"
+
+#: shortcodes/profile.php:181
+msgid "Gender"
+msgstr "성별"
+
+#: shortcodes/profile.php:213
+msgid "Social Profiles"
+msgstr "SNS 프로필"
+
+#: shortcodes/profile.php:218 shortcodes/profile.php:224
+#: shortcodes/profile.php:230 shortcodes/profile.php:236
+#: shortcodes/profile.php:242 shortcodes/profile.php:248
+#: shortcodes/profile.php:254 shortcodes/profile.php:260
+msgid "(Put the full URL)"
+msgstr "(URL을 입력해주세요)"
+
+#: shortcodes/profile.php:230
+msgid "Youtube"
+msgstr "비즈전용 블로그"
+
+#: shortcodes/profile.php:236
+msgid "Vimeo"
+msgstr ""
+
+#: shortcodes/profile.php:242
+msgid "Linkedin"
+msgstr ""
+
+#: shortcodes/profile.php:254
+msgid "Instagram"
+msgstr ""
+
+#: shortcodes/profile.php:260
+msgid "Pinterest"
+msgstr ""
+
+#: shortcodes/profile.php:273
+msgid "About Me"
+msgstr "자기 소개"
+
+#: shortcodes/profile.php:277
+msgid "Add profile credential"
+msgstr "태그 입력(띄어쓰기로 구분)"
+
+#: shortcodes/profile.php:283
+msgid "Website"
+msgstr "웹사이트"
+
+#: shortcodes/profile.php:289
+msgid "Professional Bio"
+msgstr "자세한 내용"
+
+#: shortcodes/profile.php:297
+msgid "Show follow up email?"
+msgstr "이메일을 공개 여부 (누구나 이메일을 볼 수 있도록 노출됩니다.)"
+
+#: shortcodes/profile.php:304
+msgid "Show your private pages for all the users?"
+msgstr ""
+
+#: shortcodes/profile.php:304
+msgid "(Points, favorite and followed pages)"
+msgstr ""
+
+#: shortcodes/profile.php:311
+msgid "Received mail when user add a new question"
+msgstr ""
+
+#: shortcodes/profile.php:318
+msgid "Do you need to receive message from another users?"
+msgstr "개인 메시지 받기 여부 (이메일 노출 없이 웹사이트 내부 메시지를 통해 받을 수 있습니다)"
+
+#: shortcodes/profile.php:334
+msgid "Change password"
+msgstr "프로필 수정"
+
+#: shortcodes/profile.php:336
+msgid "New Password"
+msgstr "새로운 비밀번호"
+
+#: shortcodes/profile.php:341 shortcodes/register.php:59
+msgid "Confirm Password"
+msgstr "비밀번호 재확인"
+
+#: shortcodes/profile.php:358
+msgid "Save"
+msgstr "저장"
+
+#: shortcodes/profile.php:433
+msgid "There are required fields (Email)."
+msgstr "\"이메일\"이 빠졌습니다!"
+
+#: shortcodes/profile.php:436 shortcodes/register.php:131
+msgid "Password does not match."
+msgstr ""
+
+#: shortcodes/profile.php:439
+msgid "There are required fields (First name)."
+msgstr ""
+
+#: shortcodes/profile.php:442
+msgid "There are required fields (Last name)."
+msgstr ""
+
+#: shortcodes/profile.php:445
+msgid "There are required fields (Nickname)."
+msgstr ""
+
+#: shortcodes/profile.php:448
+msgid "There are required fields (Display name)."
+msgstr ""
+
+#: shortcodes/profile.php:451
+msgid "There are required fields (Profile picture)."
+msgstr ""
+
+#: shortcodes/profile.php:454
+msgid "There are required fields (Cover picture)."
+msgstr ""
+
+#: shortcodes/profile.php:457
+msgid "There are required fields (Country)."
+msgstr ""
+
+#: shortcodes/profile.php:460
+msgid "There are required fields (City)."
+msgstr ""
+
+#: shortcodes/profile.php:463
+msgid "There are required fields (Profile credential)."
+msgstr ""
+
+#: shortcodes/profile.php:466
+msgid "There are required fields (Phone)."
+msgstr ""
+
+#: shortcodes/profile.php:469
+msgid "There are required fields (Gender)."
+msgstr ""
+
+#: shortcodes/profile.php:472
+msgid "There are required fields (Age)."
+msgstr ""
+
+#: shortcodes/profile.php:492 shortcodes/profile.php:532
+msgid "Error type, Please upload: jpg,jpeg,png"
+msgstr ""
+
+#: shortcodes/profile.php:495 shortcodes/profile.php:535
+#, php-format
+msgid "Error size, The maximum size is %s MB."
+msgstr ""
+
+#: shortcodes/profile.php:517 shortcodes/profile.php:557
+msgid "Error in upload the image : "
+msgstr ""
+
+#: shortcodes/profile.php:571 shortcodes/profile.php:586
+msgid "Profile has been updated."
+msgstr "프로필 업데이트"
+
+#: shortcodes/question.php:47 shortcodes/question.php:118
+#: shortcodes/question.php:166
+msgid "Select a Category"
+msgstr "선택해주세요"
+
+#: shortcodes/question.php:232
+msgid "New question for review"
+msgstr ""
+
+#: shortcodes/question.php:235 shortcodes/question.php:293
+msgid "The question has added successfully, It's under review."
+msgstr ""
+
+#: shortcodes/question.php:324 shortcodes/question.php:957
+msgid "Has been Edited successfully, The question is under review."
+msgstr ""
+
+#: shortcodes/question.php:388
+msgid "Sorry, you do not have a permission to add a question."
+msgstr "권한이 없습니다"
+
+#: shortcodes/question.php:390 shortcodes/question.php:393
+#: shortcodes/question.php:396 shortcodes/question.php:856
+#: shortcodes/question.php:859
+msgid "You must login to ask question."
+msgstr "글을 쓰려면 로그인을 해야합니다."
+
+#: shortcodes/question.php:399
+msgid "You need to pay first."
+msgstr ""
+
+#: shortcodes/question.php:404 shortcodes/question.php:907
+#, php-format
+msgid ""
+"Sorry do not have the minimum points Please do answer questions, even "
+"gaining points (The minimum points = %s)."
+msgstr ""
+
+#: shortcodes/question.php:422 shortcodes/question.php:429
+#: shortcodes/question.php:1019 shortcodes/question.php:1026
+msgid "Please enter at least two values in poll."
+msgstr ""
+
+#: shortcodes/question.php:425 shortcodes/question.php:1022
+msgid "Please enter values in poll."
+msgstr ""
+
+#: shortcodes/question.php:458 shortcodes/register.php:157
+msgid "There are required fields (Agree of the terms)."
+msgstr ""
+
+#: shortcodes/question.php:494
+msgid "Error in question."
+msgstr ""
+
+#: shortcodes/question.php:851
+msgid "Sorry, you do not have a permission to add a question"
+msgstr "권한이 없습니다"
+
+#: shortcodes/question.php:851
+msgid "You must login to ask question"
+msgstr "글을 쓰려면 로그인을 해야합니다."
+
+#: shortcodes/question.php:875
+msgid "You have just bought to ask question by points."
+msgstr ""
+
+#: shortcodes/question.php:903
+#, php-format
+msgid "Will lose %s points when add a new question."
+msgstr ""
+
+#: shortcodes/question.php:918
+msgid "You must login to edit question."
+msgstr ""
+
+#: shortcodes/question.php:931 shortcodes/question.php:934
+#: shortcodes/question.php:995
+msgid "Sorry you can't edit this question."
+msgstr ""
+
+#: shortcodes/question.php:937
+msgid "Sorry no question has you select or not found."
+msgstr ""
+
+#: shortcodes/question.php:940
+msgid "Sorry, you do not have a permission to edit a question."
+msgstr ""
+
+#: shortcodes/question.php:998
+msgid "Sorry no question select or not found."
+msgstr ""
+
+#: shortcodes/question.php:1318
+#, php-format
+msgid "Ask %s a question"
+msgstr "%s페이지에 공개적으로 글 남기기"
+
+#: shortcodes/question.php:1360
+msgid "Question Title"
+msgstr "제목"
+
+#: shortcodes/question.php:1363
+msgid ""
+"Please choose an appropriate title for the question so it can be answered "
+"easier."
+msgstr " "
+
+#: shortcodes/question.php:1374
+msgid ""
+"Please choose the appropriate section so question can be searched easier."
+msgstr " "
+
+#: shortcodes/question.php:1380
+msgid "question, poll"
+msgstr ""
+
+#: shortcodes/question.php:1391
+msgid "This question is a poll?"
+msgstr ""
+
+#: shortcodes/question.php:1391
+msgid "If you want to be doing a poll click here."
+msgstr ""
+
+#: shortcodes/question.php:1403
+msgid "Image poll?"
+msgstr ""
+
+#: shortcodes/question.php:1477
+msgid "Add More Answers"
+msgstr ""
+
+#: shortcodes/question.php:1500
+msgid "Add Field"
+msgstr ""
+
+#: shortcodes/question.php:1583
+msgid "Get notification by email when someone answers this question."
+msgstr "이메일로 알람받기."
+
+#: shortcodes/question.php:1590
+msgid "This question is a private question?"
+msgstr ""
+
+#: shortcodes/question.php:1597
+msgid "Ask Anonymously"
+msgstr ""
+
+#: shortcodes/question.php:1599
+msgid "asks"
+msgstr ""
+
+#: shortcodes/question.php:1603
+msgid "Anonymous asks"
+msgstr ""
+
+#: shortcodes/question.php:1616
+#, php-format
+msgid ""
+"By posting your question, you agree to the <a target='%s' href='%s'>terms of "
+"service</a>."
+msgstr ""
+
+#: shortcodes/question.php:1650
+msgid "Publish Your Question"
+msgstr "완료"
+
+#: shortcodes/question.php:1650
+msgid "Edit Your Question"
+msgstr "글 수정하기"
+
+#: shortcodes/register.php:73
+#, php-format
+msgid ""
+"By registering, you agree to the <a target='%s' href='%s'>terms of "
+"service</a>."
+msgstr ""
+
+#: shortcodes/register.php:116
+msgid "Please enter your name."
+msgstr ""
+
+#: shortcodes/register.php:119
+msgid "Please enter your name without any spaces."
+msgstr ""
+
+#: shortcodes/register.php:122
+msgid "Please enter your email."
+msgstr ""
+
+#: shortcodes/register.php:125
+msgid "Please enter your password."
+msgstr ""
+
+#: shortcodes/register.php:128
+msgid "Please rewrite password."
+msgstr ""
+
+#: shortcodes/register.php:161
+msgid "This username is already registered."
+msgstr ""
+
+#: shortcodes/register.php:167
+msgid "This email is already registered."
+msgstr ""
+
+#: shortcodes/register.php:179
+msgid "Error:"
+msgstr ""
+
+#: shortcodes/register.php:179
+msgid "Sorry, You can not register, Please contact the webmaster"
+msgstr ""
+
+#: shortcodes/register.php:228
+msgid "Check your email please to activate your membership."
+msgstr "이메일을 확인해주세요."
+
+#: templates/buy-points.php:52
+msgid "Sorry, this page is not available."
+msgstr ""
+
+#: templates/profile/content.php:114
+msgid "You have stickied your question by points."
+msgstr ""
+
+#: templates/profile/content.php:116
+msgid "You have bought to ask question by points."
+msgstr ""
+
+#: templates/profile/content.php:118
+msgid "You have bought a new points."
+msgstr ""
+
+#: templates/profile/content.php:120
+msgid "Voted your question."
+msgstr ""
+
+#: templates/profile/content.php:122
+msgid "Voted your answer."
+msgstr ""
+
+#: templates/profile/content.php:124
+msgid "User followed You."
+msgstr ""
+
+#: templates/profile/content.php:126
+msgid "User unfollowed You."
+msgstr ""
+
+#: templates/profile/content.php:128
+msgid "Discount points to bump question."
+msgstr ""
+
+#: templates/profile/content.php:130
+msgid "Chosen your answer best answer."
+msgstr ""
+
+#: templates/profile/content.php:132
+msgid "Canceled your answer best answer."
+msgstr ""
+
+#: templates/profile/content.php:134
+msgid "You have answered the question."
+msgstr ""
+
+#: templates/profile/content.php:138
+msgid "Deleted your question."
+msgstr ""
+
+#: templates/profile/content.php:140
+msgid "Added a new post."
+msgstr ""
+
+#: templates/profile/content.php:142
+msgid "Gift of the site."
+msgstr ""
+
+#: templates/profile/content.php:144
+msgid "You have charged points for Add a question."
+msgstr ""
+
+#: templates/profile/content.php:150
+msgid "Your point back because the best answer was selected."
+msgstr ""
+
+#: templates/profile/content.php:152
+msgid "Your point removed because the best answer was removed."
+msgstr ""
+
+#: templates/profile/content.php:154
+msgid "Your comment was removed."
+msgstr ""
+
+#: templates/profile/content.php:156
+msgid "Deleted your best answer."
+msgstr ""
+
+#: templates/profile/content.php:158
+msgid "Deleted your follow user."
+msgstr ""
+
+#: templates/profile/content.php:183
+msgid "Still no points yet."
+msgstr "캐쉬가 없습니다."
+
+#: templates/profile/content.php:183
+msgid "Still no notifications yet."
+msgstr ""
+
+#: templates/profile/content.php:183
+msgid "Still no activities yet."
+msgstr ""
+
+#: templates/profile/content.php:232 templates/search.php:56
+msgid "Sorry it a private answer."
+msgstr ""
+
+#: templates/profile/content.php:240
+msgid "Still no best answers yet."
+msgstr "내용이 없습니다."
+
+#: templates/profile/content.php:240
+msgid "Still no answers yet"
+msgstr "내용이 없습니다."
+
+#: templates/profile/content.php:240
+msgid "Still no comments yet"
+msgstr ""
+
+#: templates/profile/content.php:248
+msgid "Sorry, this private page."
+msgstr ""
+
+#: templates/profile/content.php:250
+msgid "Sorry, this page not found."
+msgstr ""
+
+#: templates/profile/follow.php:52 templates/profile/head.php:255
+msgid "Author doesn't have any followers yet."
+msgstr "팔로잉이 없습니다."
+
+#: templates/profile/follow.php:52 templates/profile/head.php:225
+msgid "Author doesn't follow anyone."
+msgstr "팔로우가 없습니다."
+
+#: templates/profile/head.php:26
+msgid "About"
+msgstr ""
+
+#: templates/profile/head.php:45
+msgid "Favorite Questions"
+msgstr ""
+
+#: templates/profile/head.php:47
+msgid "followed Questions"
+msgstr ""
+
+#: templates/profile/head.php:253
+msgid "Members"
+msgstr ""
+
+#: templates/profile/messages.php:16
+msgid "inbox"
+msgstr ""
+
+#: templates/profile/messages.php:17
+msgid "Sent"
+msgstr ""
+
+#: templates/profile/messages.php:77
+msgid "Added a message on"
+msgstr " "
+
+#: templates/profile/messages.php:86
+msgid "View the message"
+msgstr ""
+
+#: templates/search-form.php:52
+msgid "Hit enter to search"
+msgstr "더 파고들기"
+
+#: templates/search-form.php:63
+msgid "Select kind of search"
+msgstr ""
+
+#: templates/search-form.php:71
+msgid "Question categories"
+msgstr ""
+
+#: templates/search-form.php:73
+msgid "Question tags"
+msgstr ""
+
+#: templates/search-form.php:79
+msgid "Post categories"
+msgstr ""
+
+#: templates/search-form.php:81
+msgid "Post tags"
+msgstr ""
+
+#: templates/search-form.php:83 widgets/stats.php:18 widgets/users.php:30
+msgid "Users"
+msgstr "유저"
+
+#: templates/search.php:96
+msgid "Search results"
+msgstr ""
+
+#: widgets/activities.php:34
+msgid "Activities log"
+msgstr ""
+
+#: widgets/buttons.php:30
+msgid "Add A New Post"
+msgstr ""
+
+#: widgets/buttons.php:40
+msgid "Create A New Account"
+msgstr ""
+
+#: widgets/buttons.php:45
+msgid "Ask A Question"
+msgstr "글쓰기"
+
+#: widgets/questions_categories.php:37
+msgid "Questions Categories"
+msgstr ""
+
+#: widgets/related_questions.php:99
+msgid "Related Questions"
+msgstr ""
+
+#: widgets/stats.php:33
+msgid "Stats"
+msgstr ""
+
+#: widgets/tabs.php:75
+msgid "No answers"
+msgstr ""
+
+#: widgets/tabs.php:75
+msgid "No comments"
+msgstr ""
+
+#: widgets/tabs.php:75
+msgid "Most voted"
+msgstr ""
+
+#: widgets/tabs.php:75
+msgid "Most visited"
+msgstr ""
+
+#: widgets/tabs.php:75
+msgid "Most rated"
+msgstr ""
+
+#: widgets/tabs.php:75
+msgid "Rand"
+msgstr ""
+
+#: widgets/tabs.php:75
+msgid "Recent"
+msgstr "최근댓글"

@@ -1,0 +1,319 @@
+/* Boxed style */
+.discy-boxed .mobile-bar > .discy-container {
+	width: auto;
+}
+.discy-boxed .mobile-bar-content {
+	padding-left: 0;
+	padding-right: 0;
+	border-left: none;
+	border-right: none;
+}
+.discy-boxed.page-no-breadcrumbs .question-sticky-ribbon,.discy-boxed .question-sticky-ribbon {
+	top: -2px;
+}
+.discy-boxed .question-2-columns .question-sticky-ribbon {
+	right: 2px;
+}
+.discy-boxed .profile-no-breadcrumbs {
+	float: left;
+	margin-bottom: 20px;
+}
+.discy-boxed .mobile-bar-search div.search-results {
+	margin-right: 15px;
+	margin-left: 15px;
+}
+.discy-boxed .mobile-bar-content > .discy-container {
+	width: 1170px;
+}
+.discy-boxed .hide-main-inner,.discy-boxed .hide-sidebar {
+	display: none;
+}
+.discy-boxed .discy-main-inner {
+	margin-right: 10px;
+	margin-top: 30px;
+	border: none;
+	padding: 0;
+}
+.discy-boxed aside.sidebar {
+	width: 269px;
+}
+.discy-boxed .inner-sidebar {
+	width: 100%;
+	border-left: none;
+	border-right: none;
+	margin-top: 10px;
+}
+.discy-boxed .sidebar .widget.widget_ask,.discy-boxed .nav_menu_sidebar .widget.widget_ask {
+	border: none;
+	padding: 0;
+}
+.discy-boxed .sidebar .widget.widget-no-divider {
+	margin: 0 0 15px;
+	padding-bottom: 20px;
+}
+.discy-boxed .widget.tabs-wrap.widget-tabs .widget-wrap {
+	margin: 0 -20px -20px -20px;
+	padding-bottom: 20px;
+}
+.discy-boxed .widget-title-tabs {
+	margin-left: -21px;
+}
+.discy-boxed .article-post,.discy-boxed .question-articles .article-post {
+	margin-bottom: 10px;
+}
+.discy-boxed .article-post:not(.post-with-columns),.discy-boxed .question-articles .article-post:not(.post-with-columns),.discy-boxed .user-area:not(.user-cover),.discy-boxed .page-section,.discy-boxed .wpqa-login-template,.discy-boxed .wpqa-signup-template,.discy-boxed .wpqa-lost-password-template,.discy-boxed .wpqa-add-post-template,.discy-boxed .wpqa-edit-question-template,.discy-boxed .wpqa-edit-post-template,.discy-boxed .wpqa-edit-comment-template,.discy-boxed .wpqa-add-question-template,.discy-boxed .wpqa-search-template,.discy-boxed .main-search,.discy-boxed .user-area-content,.discy-boxed .section-page-div,.discy-boxed .discy-main-inner .category-description,.discy-boxed .page-navigation-single,.discy-boxed.single-post .related-post,.discy-boxed.single-post #comments,.discy-boxed.single-post #respond,.discy-boxed.wpqa-search .no-results,.discy-boxed.wpqa-search .page-content.commentslist,.discy-boxed.page-template-template-home .page-content.commentslist,.discy-boxed.page-template-template-comments .page-content.commentslist,.discy-boxed.tax-question-category .page-content.commentslist,.discy-boxed .post-with-columns .single-inner-content {
+	padding: 30px;
+}
+.discy-boxed #section-following,.discy-boxed #section-followers,.discy-boxed.wpqa-search .tagcloud.row,.discy-boxed.wpqa-search .row.cats-sections,.discy-boxed.wpqa-search .section-all-search .user-section.row,.discy-boxed #wrap .article-post.post-style-3,.discy-boxed #wrap .main_center .article-post.post-style-3 {
+	padding-right: 15px;
+	padding-left: 15px;
+}
+.discy-boxed #section-messages .answers-tabs {
+	border-top: none;
+}
+.discy-boxed .section-page-div.user-notifications.user-profile-area > div > ul > li:first-child,.discy-boxed .widget.tabs-wrap.widget-tabs {
+	padding-top: 20px;
+}
+.discy-boxed.wpqa-search .tagcloud.row,.discy-boxed.wpqa-search .row.cats-sections,.discy-boxed.wpqa-search .section-all-search .user-section.row,.discy-boxed .question-articles .question-has-comments #respond,.discy-boxed.wpqa-points .user-stats {
+	padding-top: 30px;
+}
+.discy-boxed .user-area-content .user-area:not(.user-cover) {
+	padding: 0 !important;
+	border: none !important;
+}
+.discy-boxed .question-articles .question-adv-comments > #respond,.discy-boxed .user-area:not(.user-cover),.discy-boxed.single_page_no .post-articles > *:last-child,.discy-boxed.page-template-template-faqs .article-post,.discy-boxed.page-template-template-badges .page-section,.discy-boxed .articles-no-pagination > *:not(.alert-message):last-child {
+	padding-bottom: 30px !important;
+}
+.discy-boxed .question-articles .question-adv-comments > #respond,.discy-boxed .article-post:not(.post-with-columns),.discy-boxed .question-articles .article-post:not(.post-with-columns),.discy-boxed .menu-tabs > ul,.discy-boxed .categories-home,.discy-boxed .inner-tabs,.discy-boxed .ask-box-question,.discy-boxed .user-area:not(.user-cover),.discy-boxed .user-follower,.discy-boxed .main_center .discy-main-inner .menu-tabs > ul,.discy-boxed .main_center .discy-main-inner .question-articles #comments,.discy-boxed .main_center .discy-main-inner .categories-home {
+	padding-left: 0;
+	padding-right: 0;
+}
+.discy-boxed .answers-tabs {
+	margin-right: -31px;
+	margin-left: -31px;
+}
+.discy-boxed.wpqa-edit .page-section,.discy-boxed.wpqa-edit .page-sections .page-section:last-child {
+	padding-bottom: 10px;
+}
+.discy-boxed .author-image-pop-2 {
+	padding: 0;
+}
+.discy-boxed .menu-tabs > ul {
+	margin-bottom: 10px;
+}
+.discy-boxed .menu-tabs > ul > li > a {
+	padding-bottom: 10px;
+}
+.discy-boxed.wpqa-profile .menu-tabs > ul > li > a {
+	padding-bottom: 5px;
+}
+.discy-boxed .menu-tabs > ul > li > a:before {
+	display: none;
+}
+.discy-boxed .flexMenu-popup {
+	top: 25px;
+}
+.discy-boxed .profile-setting {
+	margin-top: -8px;
+}
+.discy-boxed .categories-home .search-filter-form {
+	float: right;
+	margin-top: 0 !important;
+}
+.discy-boxed .categories-home {
+	margin-top: -2px;
+}
+.discy-boxed .article-post.post-style-3 {
+	border: none;
+}
+.discy-boxed .row-tabs > .col9,.discy-boxed .pagination-nav,.discy-boxed .page-navigation {
+	margin-top: 10px;
+}
+.discy-boxed .main-pagination {
+	margin-top: 15px;
+}
+.discy-boxed .section-post-with-columns .post-articles.question-articles.row {
+	margin-right: -5px;
+	margin-left: -5px;
+}
+.discy-boxed .post-with-columns.article-question {
+	margin-right: 0;
+	margin-left: 0;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom: 0;
+}
+/* Left Sidebar */
+.discy-boxed .main_left .discy-main-inner {
+	float: right;
+	border-left: none;
+	margin-left: 10px;
+}
+/* Full Width center */
+.discy-boxed .main_center .discy-main-inner {
+	padding-right: 200px;
+	padding-left: 200px;
+}
+.discy-boxed .main_center .post-img,.discy-boxed .question-articles .question-adv-comments > #respond,.discy-boxed .main_center .discy-main-inner .question-articles #comments,.discy-boxed .main_center .discy-main-inner .question-articles #respond,.discy-boxed .main_center .discy-main-inner .question-adv-comments {
+	margin-right: -30px;
+	margin-left: -30px;
+}
+.discy-boxed .widget.tabs-wrap.widget-tabs,.discy-boxed .ask-box-question,.discy-boxed.page-template-template-users .article-post .main-pagination {
+	margin-top: 0;
+}
+.discy-boxed .discy-main-inner .category-description,.discy-boxed .section-page-div.user-notifications.user-profile-area > div > ul > li,.discy-boxed #section-following,.discy-boxed #section-followers,.discy-boxed .article-post:not(.post-with-columns),.discy-boxed .question-articles .article-post:not(.post-with-columns),.discy-boxed .menu-tabs > ul,.discy-boxed .categories-home,.discy-boxed .inner-tabs,.discy-boxed .ask-box-question,.discy-boxed .breadcrumbs,.discy-boxed .user-area:not(.user-cover),.discy-boxed .page-navigation-single,.discy-boxed .related-post,.discy-boxed #comments,.discy-boxed #respond,.discy-boxed .user-follower,.discy-boxed .page-section,.discy-boxed .main-search,.discy-boxed .main_left .discy-main-inner,.discy-boxed .main_full .discy-main-inner,.discy-boxed .menu_left .discy-main-inner,.discy-boxed .main_center .breadcrumbs,.discy-boxed .main_center .discy-main-inner .article-post:not(.post-with-columns),.discy-boxed .main_center .discy-main-inner .post-comments,.discy-boxed .main_center .discy-main-inner .user-area:not(.user-cover),.discy-boxed .main_center .discy-main-inner .related-post,.discy-boxed .main_center .discy-main-inner #comments,.discy-boxed .main_center .discy-main-inner .discy-ad-inside,.discy-boxed .main_center .discy-main-inner .page-navigation-single,.discy-boxed .main_center .discy-main-inner .category-description,.discy-boxed .main_center .discy-main-inner .page-section,.discy-boxed .main_center .discy-main-inner .menu-tabs > ul,.discy-boxed .main_center .discy-main-inner .user-stats,.discy-boxed .main_center .discy-main-inner .user-follower,.discy-boxed .main_center .discy-main-inner .pagination.comments-pagination,.discy-boxed.page-template-template-home .main_center .discy-main-inner .commentlist,.discy-boxed.page-template-template-comments .main_center .discy-main-inner .commentlist,.discy-boxed.page-template-template-search .main_center .discy-main-inner .commentlist,.discy-boxed .main_center .discy-main-inner .categories-home,.discy-boxed .main_center .discy-main-inner .answers-tabs,.discy-boxed.wpqa-search .tagcloud.row,.discy-boxed.wpqa-search .row.cats-sections,.discy-boxed.wpqa-search .section-all-search .user-section.row,.discy-boxed .main_center .discy-main-inner #respond,.discy-boxed .main_center .discy-main-inner .question-articles #comments li.comment,.discy-boxed .main_center .discy-main-inner .ask-box-question,.discy-boxed.wpqa-points .user-stats {
+	margin-right: 0;
+}
+.discy-boxed #section-messages > *:last-child,.discy-boxed.wpqa-profile .commentlist,.discy-boxed .user-follower,.discy-boxed .categories-home,.discy-boxed .question-articles #comments {
+	margin-bottom: 0;
+}
+.discy-boxed .discy-main-inner,.discy-boxed .user-area-content,.discy-boxed .page-sections .page-section:last-child,.discy-boxed .sidebar:not(.footer-sidebar) .widget:last-child,.discy-boxed.page-template-template-users .article-post .main-pagination,.discy-boxed .buy-points-section ul li:last-child,.discy-boxed.wpqa-points .user-stats {
+	margin-bottom: 30px;
+}
+.discy-boxed .main_center .breadcrumbs,.discy-boxed .discy-main-inner .category-description,.discy-boxed #section-following,.discy-boxed #section-followers,.discy-boxed .section-page-div.user-notifications.user-profile-area > div > ul > li,.discy-boxed .main_center .discy-main-inner .article-post:not(.post-with-columns),.discy-boxed .main_center .discy-main-inner .post-comments,.discy-boxed .main_center .discy-main-inner .user-area:not(.user-cover),.discy-boxed .main_center .discy-main-inner .related-post,.discy-boxed .main_center .discy-main-inner #comments,.discy-boxed .main_center .discy-main-inner .discy-ad-inside,.discy-boxed .main_center .discy-main-inner .page-navigation-single,.discy-boxed .main_center .discy-main-inner .category-description,.discy-boxed .main_center .discy-main-inner .page-section,.discy-boxed .main_center .discy-main-inner .menu-tabs > ul,.discy-boxed .categories-home,.discy-boxed .main_center .discy-main-inner .user-stats,.discy-boxed .main_center .discy-main-inner .user-follower,.discy-boxed .main_center .discy-main-inner .pagination.comments-pagination,.discy-boxed.page-template-template-home .main_center .discy-main-inner .commentlist,.discy-boxed.page-template-template-comments .main_center .discy-main-inner .commentlist,.discy-boxed.page-template-template-search .main_center .discy-main-inner .commentlist,.discy-boxed .main_center .discy-main-inner .categories-home,.discy-boxed .main_center .discy-main-inner .answers-tabs,.discy-boxed .article-post:not(.post-with-columns),.discy-boxed .question-articles .article-post:not(.post-with-columns),.discy-boxed .menu-tabs > ul,.discy-boxed .inner-tabs,.discy-boxed .ask-box-question,.discy-boxed .breadcrumbs,.discy-boxed .user-area:not(.user-cover),.discy-boxed .page-navigation-single,.discy-boxed .related-post,.discy-boxed #comments,.discy-boxed #respond,.discy-boxed .user-follower,.discy-boxed .page-section,.discy-boxed .main-search,.discy-boxed.wpqa-search .tagcloud.row,.discy-boxed.wpqa-search .row.cats-sections,.discy-boxed.wpqa-search .section-all-search .user-section.row,.discy-boxed .main_center .discy-main-inner #respond,.discy-boxed .main_center .discy-main-inner .question-articles #comments li.comment,.discy-boxed .main_center .discy-main-inner .ask-box-question,.discy-boxed.wpqa-points .user-stats {
+	margin-left: 0;
+}
+.discy-boxed .answers-tabs,.discy-boxed .article-post:not(.post-with-columns),.discy-boxed .question-articles .article-post:not(.post-with-columns),.discy-boxed .user-area:not(.user-cover),.discy-boxed .main_center .discy-main-inner .article-post:not(.post-with-columns),.discy-boxed .main_center .discy-main-inner .post-comments,.discy-boxed .main_center .discy-main-inner .user-area:not(.user-cover),.discy-boxed .main_center .discy-main-inner .related-post,.discy-boxed .main_center .discy-main-inner #comments,.discy-boxed .main_center .discy-main-inner #respond,.discy-boxed .question-articles .question-adv-comments > #respond,.discy-boxed .main_center .discy-main-inner .discy-ad-inside,.discy-boxed .main_center .discy-main-inner .page-navigation-single,.discy-boxed .main_center .discy-main-inner .category-description,.discy-boxed .main_center .discy-main-inner .user-stats,.discy-boxed .main_center .discy-main-inner .user-follower,.discy-boxed .main_center .discy-main-inner .pagination.comments-pagination,.discy-boxed.page-template-template-home .main_center .discy-main-inner .commentlist,.discy-boxed.page-template-template-comments .main_center .discy-main-inner .commentlist,.discy-boxed.page-template-template-search .main_center .discy-main-inner .commentlist,.discy-boxed .main_center .discy-main-inner .answers-tabs,.discy-boxed .main_center .discy-main-inner .question-adv-comments,.discy-boxed .main_center .discy-main-inner .ask-box-question,.discy-boxed .main_center .discy-main-inner .question-articles #respond,.discy-boxed .main_center .discy-main-inner .page-section {
+	padding-right: 30px;
+}
+.discy-boxed .main_center .discy-main-inner .article-post:not(.post-with-columns),.discy-boxed .main_center .discy-main-inner .post-comments,.discy-boxed .main_center .discy-main-inner .user-area:not(.user-cover),.discy-boxed .main_center .discy-main-inner .related-post,.discy-boxed .main_center .discy-main-inner #comments,.discy-boxed .main_center .discy-main-inner #respond,.discy-boxed .question-articles .question-adv-comments > #respond,.discy-boxed .main_center .discy-main-inner .discy-ad-inside,.discy-boxed .main_center .discy-main-inner .page-navigation-single,.discy-boxed .main_center .discy-main-inner .category-description,.discy-boxed .main_center .discy-main-inner .user-stats,.discy-boxed .main_center .discy-main-inner .user-follower,.discy-boxed .main_center .discy-main-inner .pagination.comments-pagination,.discy-boxed.page-template-template-home .main_center .discy-main-inner .commentlist,.discy-boxed.page-template-template-comments .main_center .discy-main-inner .commentlist,.discy-boxed.page-template-template-search .main_center .discy-main-inner .commentlist,.discy-boxed .main_center .discy-main-inner .answers-tabs,.discy-boxed .main_center .discy-main-inner .question-adv-comments,.discy-boxed .main_center .discy-main-inner .ask-box-question,.discy-boxed .answers-tabs,.discy-boxed .article-post:not(.post-with-columns),.discy-boxed .question-articles .article-post:not(.post-with-columns),.discy-boxed .user-area:not(.user-cover),.discy-boxed .main_center .discy-main-inner .question-articles #respond,.discy-boxed .main_center .discy-main-inner .page-section {
+	padding-left: 30px;
+}
+.discy-boxed.wpqa-profile .commentlist,.discy-boxed .user-follower,.discy-boxed .main_full .discy-main-inner,.discy-boxed .menu_left .discy-main-inner,.discy-boxed .main_center .discy-main-inner,.discy-boxed.page-template-template-badges .page-section,.discy-boxed.page-template-template-contact .menu_left .discy-main-inner,.discy-boxed #section-followers,.discy-boxed #section-following {
+	padding-bottom: 0;
+}
+.discy-boxed .users-widget .user-section .col12:last-child .post-section.user-area:not(.user-cover),.discy-boxed .question-articles .question-adv-comments > #respond {
+	padding-bottom: 0 !important;
+}
+.discy-boxed .sidebar .widget,.discy-boxed .breadcrumbs,.discy-boxed .ask-box-question,.discy-boxed .author-image-pop-2 .post-section.user-area:not(.user-cover) {
+	padding: 20px;
+}
+.discy-boxed .breadcrumbs,.discy-boxed .ask-box-question {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.discy-boxed .breadcrumbs {
+	padding-right: 15px;
+}
+.discy-boxed .sidebar .widget,.discy-boxed .breadcrumbs,.discy-boxed .ask-box-question,.discy-boxed .page-section,.discy-boxed .widget.tabs-wrap.widget-tabs {
+	margin-bottom: 15px;
+}
+.discy-boxed .sidebar .widget,.discy-boxed .breadcrumbs,.discy-boxed .article-post:not(.post-with-columns),.discy-boxed .question-articles .article-post:not(.post-with-columns),.discy-boxed .user-area:not(.user-cover),.discy-boxed .page-section,.discy-boxed .wpqa-login-template,.discy-boxed .wpqa-signup-template,.discy-boxed .wpqa-lost-password-template,.discy-boxed .wpqa-add-post-template,.discy-boxed .wpqa-edit-question-template,.discy-boxed .wpqa-edit-post-template,.discy-boxed .wpqa-edit-comment-template,.discy-boxed .wpqa-add-question-template,.discy-boxed .wpqa-search-template,.discy-boxed .main-search,.discy-boxed .user-area-content,.discy-boxed .section-page-div,.discy-boxed .discy-main-inner .category-description,.discy-boxed .ask-box-question,.discy-boxed .post-with-columns .single-inner-content {
+	border: 1px solid rgba(255, 255, 255, 0.60);
+}
+.discy-boxed .question-adv-comments.question-has-comments {
+	border-top: none;
+}
+.discy-boxed .sidebar:not(.footer-sidebar) .widget:last-child,.discy-boxed .sidebar .widget.widget-no-divider,.discy-boxed .article-post:not(.post-with-columns),.discy-boxed .question-articles .article-post:not(.post-with-columns),.discy-boxed .user-area:not(.user-cover),.discy-boxed .page-section,.discy-boxed .wpqa-login-template,.discy-boxed .wpqa-signup-template,.discy-boxed .wpqa-lost-password-template,.discy-boxed .wpqa-add-post-template,.discy-boxed .wpqa-edit-question-template,.discy-boxed .wpqa-edit-post-template,.discy-boxed .wpqa-edit-comment-template,.discy-boxed .wpqa-add-question-template,.discy-boxed .wpqa-search-template,.discy-boxed .main-search,.discy-boxed .user-area-content,.discy-boxed .section-page-div,.discy-boxed .discy-main-inner .category-description,.discy-boxed .post-with-columns .single-inner-content {
+	border-bottom: 1px solid rgba(255, 255, 255, 0.60);
+}
+.discy-boxed.wpqa-profile .commentlist,.discy-boxed .user-follower,.discy-boxed .ask-box-question,.discy-boxed #comments,.discy-boxed #respond,.discy-boxed .question-articles #comments,.discy-boxed .page-navigation-single,.discy-boxed .related-post,.discy-boxed .post-with-columns.article-question,.discy-boxed.wpqa-points .user-stats {
+	border-bottom: none;
+}
+.discy-boxed .question-articles .question-has-comments #respond {
+	border-top: 1px solid #e4e6e6;
+}
+.discy-boxed .menu-tabs > ul,.discy-boxed .categories-home,.discy-boxed .users-widget .user-section .col12:last-child .post-section.user-area:not(.user-cover) {
+	border-bottom: none !important;
+}
+.discy-boxed main.discy-main-wrap,.discy-boxed .inner-sidebar,.discy-boxed .discy-main-inner,.discy-boxed .sidebar .widget.widget_ask,.discy-boxed .nav_menu_sidebar .widget.widget_ask {
+	background: transparent;
+}
+.discy-boxed .sidebar .widget,.discy-boxed .breadcrumbs,.discy-boxed .sidebar .widget.widget-no-divider,.discy-boxed .article-post:not(.post-with-columns),.discy-boxed .question-articles .article-post:not(.post-with-columns),.discy-boxed .user-area:not(.user-cover),.discy-boxed .page-section,.discy-boxed .wpqa-login-template,.discy-boxed .wpqa-signup-template,.discy-boxed .wpqa-lost-password-template,.discy-boxed .wpqa-add-post-template,.discy-boxed .wpqa-edit-question-template,.discy-boxed .wpqa-edit-post-template,.discy-boxed .wpqa-edit-comment-template,.discy-boxed .wpqa-add-question-template,.discy-boxed .wpqa-search-template,.discy-boxed .main-search,.discy-boxed .user-area-content,.discy-boxed .section-page-div,.discy-boxed .discy-main-inner .category-description,.discy-boxed .page-navigation-single,.discy-boxed.single-post .related-post,.discy-boxed.single-post #comments,.discy-boxed.single-post #respond,.discy-boxed .ask-box-question,.discy-boxed.wpqa-search .no-results,.discy-boxed.wpqa-search .page-content.commentslist,.discy-boxed.page-template-template-home .page-content.commentslist,.discy-boxed.page-template-template-comments .page-content.commentslist,.discy-boxed.tax-question-category .page-content.commentslist,.discy-boxed.wpqa-search .tagcloud.row,.discy-boxed.wpqa-search .row.cats-sections,.discy-boxed.wpqa-search .section-all-search .user-section.row,.discy-boxed .post-with-columns .single-inner-content,.discy-boxed.wpqa-points .user-stats {
+	background-color: #FFF;
+}
+.discy-boxed .article-post:not(.post-with-columns),.discy-boxed .question-articles .article-post:not(.post-with-columns),.discy-boxed .user-area:not(.user-cover),.discy-boxed .page-section,.discy-boxed .wpqa-login-template,.discy-boxed .wpqa-signup-template,.discy-boxed .wpqa-lost-password-template,.discy-boxed .wpqa-add-post-template,.discy-boxed .wpqa-edit-question-template,.discy-boxed .wpqa-edit-post-template,.discy-boxed .wpqa-edit-comment-template,.discy-boxed .wpqa-add-question-template,.discy-boxed .wpqa-search-template,.discy-boxed .main-search,.discy-boxed .user-area-content,.discy-boxed .section-page-div,.discy-boxed .discy-main-inner .category-description,.discy-boxed .page-navigation-single,.discy-boxed.single-post .related-post,.discy-boxed.single-post #comments,.discy-boxed.single-post #respond,.discy-boxed .ask-box-question,.discy-boxed.wpqa-search .no-results,.discy-boxed.wpqa-search .page-content.commentslist,.discy-boxed.page-template-template-home .page-content.commentslist,.discy-boxed.page-template-template-comments .page-content.commentslist,.discy-boxed.tax-question-category .page-content.commentslist,.discy-boxed.wpqa-search .tagcloud.row,.discy-boxed.wpqa-search .row.cats-sections,.discy-boxed.wpqa-search .section-all-search .user-section.row,.discy-boxed .post-with-columns .single-inner-content,.discy-boxed.wpqa-points .user-stats {
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+}
+/* Boxed style 2 */
+.discy-boxed-2 .discy-main-inner {
+	width: 681px;
+}
+.discy-boxed-2 .article-post:not(.post-with-columns),.discy-boxed-2 .question-articles .article-post:not(.post-with-columns),.discy-boxed-2 .sidebar .widget,.discy-boxed-2 .breadcrumbs,.discy-boxed-2 .main-search,.discy-boxed-2 .ask-box-question,.discy-boxed-2 .sidebar .widget.widget-no-divider,.discy-boxed-2 .widget.tabs-wrap.widget-tabs,.discy-boxed-2 .page-section,.discy-boxed-2 .post-with-columns.article-question .single-inner-content {
+	margin-bottom: 20px;
+}
+.discy-boxed-2 .main_full .discy-main-inner {
+	width: 100%;
+}
+.discy-boxed-2 .section-post-with-columns .post-articles.question-articles.row {
+	margin-right: -10px;
+	margin-left: -10px;
+}
+.discy-boxed-2 .post-with-columns.article-question {
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-bottom: 0;
+}
+.discy-boxed-2 .question-sticky-ribbon,.discy-boxed-2.page-no-breadcrumbs .question-sticky-ribbon {
+	top: 0;
+}
+.discy-boxed-2 .question-2-columns .question-sticky-ribbon {
+	right: 9px;
+}
+/* Boxed style 3 */
+.discy-boxed-3 .main_sidebar .discy-main-inner,.discy-boxed-3 .discy-main-inner {
+	width: calc(66.66666667% - 10px) !important;
+}
+.discy-boxed-3 main.discy-main-wrap,.discy-boxed-3 .main_full .discy-main-inner,.discy-boxed-3 .main_center .discy-main-inner,.discy-boxed-3 .menu_left .discy-main-inner {
+	width: 100% !important;
+}
+.discy-boxed-3 main.discy-main-wrap,.discy-boxed-3 .main_full .discy-main-inner,.discy-boxed-3 .main_center .discy-main-inner,.discy-boxed-3 .menu_left .discy-main-inner {
+	margin-right: 0;
+	margin-left: 0;
+}
+.discy-boxed-3 aside.sidebar {
+	width: calc(33.3333% - 20px);
+	margin-left: 20px;
+}
+.discy-boxed-3 .article-post:not(.post-with-columns),.discy-boxed-3 .question-articles .article-post:not(.post-with-columns),.discy-boxed-3 .page-section,.discy-boxed-3 .post-with-columns.article-question .single-inner-content {
+	margin-bottom: 30px;
+}
+.discy-boxed-3 .main_left aside.sidebar {
+	margin-right: 20px;
+	margin-left: 0;
+}
+.discy-boxed-3 .menu-tabs {
+	text-align: center;
+}
+.discy-boxed-3 .section-post-with-columns .post-articles.question-articles.row {
+	margin-right: -15px;
+	margin-left: -15px;
+}
+.discy-boxed-3 .post-with-columns.article-question {
+	margin-bottom: 0;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+.discy-boxed-3 .question-2-columns .question-sticky-ribbon {
+	right: 12px;
+}
+/* Boxed style 4 */
+.discy-boxed-4 .question-sticky-ribbon,.discy-boxed-4.page-no-breadcrumbs .question-sticky-ribbon {
+	top: 0;
+}
+.discy-boxed-4 .question-2-columns .question-sticky-ribbon {
+	right: 14px;
+}
+/* Boxed style mix */
+.discy-boxed-mix .sidebar .widget,.discy-boxed-mix .breadcrumbs,.discy-boxed-mix .sidebar .widget.widget-no-divider,.discy-boxed-mix .article-post:not(.post-with-columns),.discy-boxed-mix .question-articles .article-post:not(.post-with-columns),.discy-boxed-mix .user-area:not(.user-cover),.discy-boxed-mix .page-section,.discy-boxed-mix .wpqa-login-template,.discy-boxed-mix .wpqa-signup-template,.discy-boxed-mix .wpqa-lost-password-template,.discy-boxed-mix .wpqa-add-post-template,.discy-boxed-mix .wpqa-edit-question-template,.discy-boxed-mix .wpqa-edit-post-template,.discy-boxed-mix .wpqa-edit-comment-template,.discy-boxed-mix .wpqa-add-question-template,.discy-boxed-mix .wpqa-search-template,.discy-boxed-mix .main-search,.discy-boxed-mix .user-area-content,.discy-boxed-mix .section-page-div,.discy-boxed-mix .discy-main-inner .category-description,.discy-boxed-mix .page-navigation-single,.discy-boxed-mix.single-post .related-post,.discy-boxed-mix.single-post #comments,.discy-boxed-mix.single-post #respond,.discy-boxed-mix .ask-box-question,.discy-boxed-mix.wpqa-search .no-results,.discy-boxed-mix.wpqa-search .page-content.commentslist,.discy-boxed-mix.wpqa-search .tagcloud.row,.discy-boxed-mix.wpqa-search .row.cats-sections,.discy-boxed-mix.wpqa-search .section-all-search .user-section.row,.discy-boxed-mix .discy-main-inner .user-notifications.user-profile-area,.discy-boxed-mix .post-with-columns .single-inner-content,.discy-boxed-mix.wpqa-points .user-stats {
+	border: 1px solid #e1e3e3;
+}
+.discy-boxed-mix.wpqa-messages .answers-tabs,.discy-boxed-mix .question-adv-comments .answers-tabs {
+	border-left: 1px solid #e1e3e3;
+	border-right: 1px solid #e1e3e3;
+}
+.discy-boxed-mix .main_center .question-adv-comments .answers-tabs {
+	border-left: none;
+	border-right: none;
+}
+.discy-boxed-mix .sidebar:not(.footer-sidebar) .widget:last-child,.discy-boxed-mix .sidebar .widget.widget-no-divider,.discy-boxed-mix .article-post:not(.post-with-columns),.discy-boxed-mix .question-articles .article-post:not(.post-with-columns),.discy-boxed-mix .user-area:not(.user-cover),.discy-boxed-mix .page-section,.discy-boxed-mix .wpqa-login-template,.discy-boxed-mix .wpqa-signup-template,.discy-boxed-mix .wpqa-lost-password-template,.discy-boxed-mix .wpqa-add-post-template,.discy-boxed-mix .wpqa-edit-question-template,.discy-boxed-mix .wpqa-edit-post-template,.discy-boxed-mix .wpqa-edit-comment-template,.discy-boxed-mix .wpqa-add-question-template,.discy-boxed-mix .wpqa-search-template,.discy-boxed-mix .main-search,.discy-boxed-mix .user-area-content,.discy-boxed-mix .section-page-div,.discy-boxed-mix .discy-main-inner .category-description,.discy-boxed-mix #comments,.discy-boxed #respond,.discy-boxed-mix .question-articles #comments,.discy-boxed-mix .page-navigation-single,.discy-boxed-mix .related-post,.discy-boxed-mix .post-with-columns .single-inner-content,.discy-boxed-mix .post-with-columns:last-child .single-inner-content {
+	border-bottom: 1px solid #e1e3e3;
+}
+.single.discy-boxed-mix .article-post:not(.post-with-columns),.single.discy-boxed-mix .article-post:not(.post-with-columns):last-child,.discy-boxed-mix.page-template-template-contact .article-post,.discy-boxed-mix.page-template-template-faqs .article-post,.discy-boxed-mix.page-template-template-categories .article-post,.discy-boxed-mix.page-template-template-tags .article-post,.discy-boxed-mix.page-template-template-users .article-post,.discy-boxed-mix .user-area:not(.user-cover),.discy-boxed-mix.single_page_no .post-articles > *:last-child,.discy-boxed-mix .page-sections .page-section:last-child,.discy-boxed-mix .articles-no-pagination > *:not(.alert-message):not(.article-post):last-child {
+	border-bottom: 1px solid #e4e6e6 !important;
+}
+.discy-boxed-mix .question-articles.articles-no-pagination > *:not(.alert-message):last-child {
+	border-bottom: none !important;
+}

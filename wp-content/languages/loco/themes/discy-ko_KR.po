@@ -1,0 +1,7799 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: discy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-13 15:00+0200\n"
+"PO-Revision-Date: 2019-04-10 13:23+0000\n"
+"Last-Translator: 관리자 <chowin21@gmail.com>\n"
+"Language-Team: 한국어\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__;esc_attr__;esc_attr_e;"
+"esc_html__;esc_html_e;_n:1,2;_n_noop:1,2;_nx:1,2;_nx_noop:1,2;_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: admin/author.php:11 admin/options.php:3761 admin/options.php:5094
+msgid "Author Setting"
+msgstr ""
+
+#: admin/author.php:24
+msgid "Your avatar"
+msgstr ""
+
+#: admin/author.php:32
+msgid "Your cover"
+msgstr ""
+
+#: admin/author.php:40
+msgid "Add profile credential"
+msgstr ""
+
+#: admin/author.php:46 admin/options.php:3893 admin/options.php:4448
+msgid "Country"
+msgstr ""
+
+#: admin/author.php:48
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: admin/author.php:54 admin/options.php:4449
+msgid "City"
+msgstr ""
+
+#: admin/author.php:60 admin/options.php:3894 admin/options.php:4452
+msgid "Age"
+msgstr ""
+
+#: admin/author.php:67 admin/options.php:3892 admin/options.php:4450
+msgid "Phone"
+msgstr ""
+
+#: admin/author.php:73
+msgid "Other"
+msgstr ""
+
+#: admin/author.php:74
+msgid "Male"
+msgstr ""
+
+#: admin/author.php:74
+msgid "Female"
+msgstr ""
+
+#: admin/author.php:77 admin/options.php:4451
+msgid "Gender"
+msgstr ""
+
+#: admin/author.php:84
+msgid "Check if you need this user is verified user."
+msgstr ""
+
+#: admin/author.php:90
+msgid "Show follow up email?"
+msgstr ""
+
+#: admin/author.php:96
+msgid ""
+"Show your private pages for all the users? (Points, favorite and followed "
+"pages)."
+msgstr ""
+
+#: admin/author.php:104
+msgid "Received email when any one add a new question"
+msgstr ""
+
+#: admin/author.php:113
+msgid "Do you need to receive message from another users?"
+msgstr ""
+
+#: admin/author.php:121
+msgid "Do you need this user blocked to send messages?"
+msgstr ""
+
+#: admin/author.php:130
+msgid "Add or remove points for the user"
+msgstr ""
+
+#: admin/author.php:134
+msgid "Add"
+msgstr ""
+
+#: admin/author.php:134 admin/functions/main_functions.php:340
+#: admin/includes/fields.php:39 admin/includes/fields.php:676
+msgid "Remove"
+msgstr ""
+
+#: admin/author.php:138
+msgid "The points"
+msgstr ""
+
+#: admin/author.php:145
+msgid "The reason"
+msgstr ""
+
+#: admin/author.php:154
+msgid "Check if you need this user choose or remove the best answer"
+msgstr ""
+
+#: admin/author.php:173
+msgid "Social Networking"
+msgstr ""
+
+#: admin/author.php:178 admin/options.php:4636 admin/options.php:6442
+#: admin/widgets/facebook.php:28
+msgid "Facebook"
+msgstr ""
+
+#: admin/author.php:184 admin/options.php:4637 admin/options.php:6443
+#: admin/widgets.php:504 admin/widgets/twitter.php:38
+msgid "Twitter"
+msgstr ""
+
+#: admin/author.php:190
+msgid "Google +"
+msgstr ""
+
+#: admin/author.php:196 admin/options.php:4640 admin/options.php:6445
+msgid "Linkedin"
+msgstr ""
+
+#: admin/author.php:202 admin/options.php:4643 admin/options.php:6453
+#: admin/widgets.php:534
+msgid "Pinterest"
+msgstr ""
+
+#: admin/author.php:208 admin/options.php:4642 admin/options.php:6452
+#: admin/widgets.php:540
+msgid "Instagram"
+msgstr ""
+
+#: admin/author.php:214 admin/meta.php:2340 admin/meta.php:3183
+#: admin/options.php:4638 admin/options.php:6447 admin/widgets.php:669
+msgid "Youtube"
+msgstr ""
+
+#: admin/author.php:220 admin/meta.php:2341 admin/meta.php:3184
+#: admin/options.php:4639 admin/options.php:6448 admin/widgets.php:669
+msgid "Vimeo"
+msgstr ""
+
+#: admin/author.php:232 admin/meta.php:3558 admin/meta.php:3565
+#: admin/meta.php:3918 admin/options.php:1669 admin/options.php:6635
+#: admin/terms.php:610 theme-parts/content.php:219
+msgid "Advertising"
+msgstr ""
+
+#: admin/author.php:238 admin/meta.php:3926 admin/terms.php:615
+msgid "Advertising after header 1"
+msgstr ""
+
+#: admin/author.php:242 admin/author.php:278 admin/author.php:314
+#: admin/author.php:350 admin/meta.php:3930 admin/meta.php:3971
+#: admin/meta.php:4012 admin/options.php:6663 admin/options.php:6704
+#: admin/options.php:6745 admin/options.php:6800 admin/options.php:6855
+#: admin/terms.php:619 admin/terms.php:655 admin/terms.php:691
+#: admin/widgets.php:18 admin/widgets.php:52 admin/widgets.php:86
+msgid "Advertising type"
+msgstr ""
+
+#: admin/author.php:246 admin/author.php:282 admin/author.php:318
+#: admin/author.php:354 admin/meta.php:3934 admin/meta.php:3975
+#: admin/meta.php:4016 admin/options.php:6667 admin/options.php:6708
+#: admin/options.php:6749 admin/options.php:6804 admin/options.php:6859
+#: admin/terms.php:623 admin/terms.php:659 admin/terms.php:695
+#: admin/widgets.php:22 admin/widgets.php:56 admin/widgets.php:90
+#: admin/widgets.php:125 admin/widgets.php:151 admin/widgets.php:177
+#: admin/widgets.php:203 admin/widgets.php:238 admin/widgets.php:264
+#: admin/widgets.php:290 admin/widgets.php:316
+msgid "Display code"
+msgstr ""
+
+#: admin/author.php:246 admin/author.php:282 admin/author.php:318
+#: admin/author.php:354 admin/meta.php:3934 admin/meta.php:3975
+#: admin/meta.php:4016 admin/options.php:352 admin/options.php:6667
+#: admin/options.php:6708 admin/options.php:6749 admin/options.php:6804
+#: admin/options.php:6859 admin/terms.php:90 admin/terms.php:623
+#: admin/terms.php:659 admin/terms.php:695 admin/widgets.php:22
+#: admin/widgets.php:56 admin/widgets.php:90 admin/widgets.php:125
+#: admin/widgets.php:151 admin/widgets.php:177 admin/widgets.php:203
+#: admin/widgets.php:238 admin/widgets.php:264 admin/widgets.php:290
+#: admin/widgets.php:316
+msgid "Custom Image"
+msgstr ""
+
+#: admin/author.php:250 admin/author.php:286 admin/author.php:322
+#: admin/author.php:358 admin/meta.php:3146 admin/meta.php:3938
+#: admin/meta.php:3979 admin/meta.php:4020 admin/options.php:6671
+#: admin/options.php:6712 admin/options.php:6753 admin/options.php:6808
+#: admin/options.php:6863 admin/terms.php:627 admin/terms.php:663
+#: admin/terms.php:699 admin/widgets.php:25 admin/widgets.php:59
+#: admin/widgets.php:93 admin/widgets.php:128 admin/widgets.php:154
+#: admin/widgets.php:180 admin/widgets.php:206 admin/widgets.php:241
+#: admin/widgets.php:267 admin/widgets.php:293 admin/widgets.php:319
+msgid "Image URL"
+msgstr ""
+
+#: admin/author.php:251 admin/author.php:287 admin/author.php:323
+#: admin/author.php:359 admin/meta.php:3215 admin/meta.php:3939
+#: admin/meta.php:3980 admin/meta.php:4021 admin/options.php:6672
+#: admin/options.php:6713 admin/options.php:6754 admin/options.php:6809
+#: admin/options.php:6864 admin/terms.php:628 admin/terms.php:664
+#: admin/terms.php:700
+msgid "Upload a image, or enter URL to an image if it is already uploaded."
+msgstr ""
+
+#: admin/author.php:258 admin/author.php:294 admin/author.php:330
+#: admin/author.php:366 admin/meta.php:3946 admin/meta.php:3987
+#: admin/meta.php:4028 admin/options.php:6679 admin/options.php:6720
+#: admin/options.php:6761 admin/options.php:6816 admin/options.php:6871
+#: admin/terms.php:635 admin/terms.php:671 admin/terms.php:707
+#: admin/widgets.php:31 admin/widgets.php:65 admin/widgets.php:99
+#: admin/widgets.php:134 admin/widgets.php:160 admin/widgets.php:186
+#: admin/widgets.php:212 admin/widgets.php:247 admin/widgets.php:273
+#: admin/widgets.php:299 admin/widgets.php:325
+msgid "Advertising url"
+msgstr ""
+
+#: admin/author.php:266 admin/author.php:302 admin/meta.php:3954
+#: admin/meta.php:3995 admin/meta.php:4036 admin/terms.php:643
+#: admin/terms.php:679 admin/widgets.php:37 admin/widgets.php:71
+#: admin/widgets.php:105 admin/widgets.php:140 admin/widgets.php:166
+#: admin/widgets.php:192 admin/widgets.php:218 admin/widgets.php:253
+#: admin/widgets.php:279 admin/widgets.php:305 admin/widgets.php:331
+msgid "Advertising Code html ( Ex: Google ads)"
+msgstr ""
+
+#: admin/author.php:274 admin/meta.php:4008 admin/options.php:6740
+#: admin/terms.php:651
+msgid "Advertising after content"
+msgstr ""
+
+#: admin/author.php:309 admin/options.php:6781 admin/terms.php:686
+msgid "Between questions or posts"
+msgstr ""
+
+#: admin/author.php:338 admin/author.php:374 admin/options.php:6687
+#: admin/options.php:6728 admin/options.php:6769 admin/options.php:6824
+#: admin/options.php:6879 admin/terms.php:715
+msgid "Advertising Code html (Ex: Google ads)"
+msgstr ""
+
+#: admin/author.php:345 admin/options.php:6836
+msgid "Between comments or answers"
+msgstr ""
+
+#: admin/functions/main_functions.php:227
+msgid "Sorry, no results."
+msgstr ""
+
+#: admin/functions/main_functions.php:333
+msgid "Click OK to reset. Any theme settings will be lost."
+msgstr ""
+
+#: admin/functions/main_functions.php:334
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: admin/functions/main_functions.php:335
+msgid "If you press will delete report!"
+msgstr ""
+
+#: admin/functions/main_functions.php:336
+msgid "If you press will delete the attachment!"
+msgstr ""
+
+#: admin/functions/main_functions.php:337
+msgid "Choose Image"
+msgstr ""
+
+#: admin/functions/main_functions.php:338
+#: admin/functions/main_functions.php:1276 admin/includes/fields.php:673
+#: theme-parts/content.php:190
+msgid "Edit"
+msgstr "수정"
+
+#: admin/functions/main_functions.php:339 admin/includes/fields.php:37
+#: admin/includes/fields.php:660
+msgid "Upload"
+msgstr ""
+
+#: admin/functions/main_functions.php:341
+#: admin/functions/main_functions.php:2480 admin/meta.php:133
+#: admin/meta.php:1279 admin/meta.php:1774 admin/options.php:442
+#: admin/options.php:3838 admin/options.php:3862 admin/options.php:5603
+#: admin/options.php:5991 admin/options.php:6019 admin/widgets.php:1568
+#: admin/widgets.php:1634 admin/widgets.php:1642 comments.php:65
+#: functions.php:932 includes/header-code.php:185
+msgid "Answers"
+msgstr "개의 댓글"
+
+#: admin/functions/main_functions.php:342
+msgid "Add answer"
+msgstr ""
+
+#: admin/functions/main_functions.php:343
+msgid "No answers yet."
+msgstr ""
+
+#: admin/functions/main_functions.php:346 admin/includes/fields.php:724
+#: admin/includes/fields.php:736 admin/includes/fields.php:748
+#: admin/includes/fields.php:760 admin/includes/fields.php:772
+#: admin/includes/fields.php:784 admin/includes/fields.php:796
+#: admin/includes/fields.php:911 admin/includes/fields.php:994
+msgid "ON"
+msgstr ""
+
+#: admin/functions/main_functions.php:347 admin/includes/fields.php:724
+#: admin/includes/fields.php:736 admin/includes/fields.php:748
+#: admin/includes/fields.php:760 admin/includes/fields.php:772
+#: admin/includes/fields.php:784 admin/includes/fields.php:796
+#: admin/includes/fields.php:911 admin/includes/fields.php:994
+msgid "OFF"
+msgstr ""
+
+#: admin/functions/main_functions.php:348 admin/includes/fields.php:726
+msgid "Select ON to add a question."
+msgstr ""
+
+#: admin/functions/main_functions.php:349 admin/includes/fields.php:738
+msgid "Select ON to show questions."
+msgstr ""
+
+#: admin/functions/main_functions.php:350 admin/includes/fields.php:750
+msgid "Select ON to add an answer."
+msgstr ""
+
+#: admin/functions/main_functions.php:351 admin/includes/fields.php:762
+msgid "Select ON to show answers."
+msgstr ""
+
+#: admin/functions/main_functions.php:352 admin/includes/fields.php:774
+msgid "Select ON to add a post."
+msgstr ""
+
+#: admin/functions/main_functions.php:353 admin/includes/fields.php:786
+msgid "Select ON to send message."
+msgstr ""
+
+#: admin/functions/main_functions.php:354 admin/includes/fields.php:798
+msgid "Select ON to can upload files."
+msgstr ""
+
+#: admin/functions/main_functions.php:390 theme-parts/content.php:199
+msgid "Read"
+msgstr ""
+
+#: admin/functions/main_functions.php:390
+#: admin/functions/main_functions.php:1205 theme-parts/content.php:199
+msgid "Read more"
+msgstr ""
+
+#: admin/functions/main_functions.php:1087
+msgid "Best Answer"
+msgstr "채택글"
+
+#: admin/functions/main_functions.php:1123
+#: admin/functions/main_functions.php:1126
+msgid "Replied to"
+msgstr ""
+
+#: admin/functions/main_functions.php:1123
+msgid "Added an"
+msgstr " "
+
+#: admin/functions/main_functions.php:1124
+#, php-format
+msgid "answer on %1$s at %2$s"
+msgstr "댓글시간: %1$s %2$s"
+
+#: admin/functions/main_functions.php:1126
+msgid "Added a"
+msgstr ""
+
+#: admin/functions/main_functions.php:1127
+#, php-format
+msgid "comment on %1$s at %2$s"
+msgstr ""
+
+#: admin/functions/main_functions.php:1136
+msgid "This answer was edited."
+msgstr ""
+
+#: admin/functions/main_functions.php:1138
+msgid "This comment was edited."
+msgstr ""
+
+#: admin/functions/main_functions.php:1145
+msgid "Your answer is awaiting moderation."
+msgstr "게시글을 관리자가 심사중입니다. 바로글을 쓰기 원한다면 인증이 필요합니다."
+
+#: admin/functions/main_functions.php:1147
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: admin/functions/main_functions.php:1223 admin/meta.php:2203
+#: admin/meta.php:2209 admin/options.php:5867
+#: theme-parts/content-question.php:373 theme-parts/content-question.php:380
+msgid "Attachment"
+msgstr ""
+
+#: admin/functions/main_functions.php:1231
+msgid "Like"
+msgstr ""
+
+#: admin/functions/main_functions.php:1235
+msgid "Dislike"
+msgstr ""
+
+#: admin/functions/main_functions.php:1243
+msgid "Reply"
+msgstr "댓글달기"
+
+#: admin/functions/main_functions.php:1243
+msgid "Login to Reply"
+msgstr ""
+
+#: admin/functions/main_functions.php:1253 theme-parts/content-question.php:538
+msgid "Share"
+msgstr ""
+
+#: admin/functions/main_functions.php:1261
+msgid "Cancel the best answer"
+msgstr "채택 취소하기"
+
+#: admin/functions/main_functions.php:1265
+msgid "Select as best answer"
+msgstr "베스트 피드백 선택하기"
+
+#: admin/functions/main_functions.php:1279 admin/meta.php:2203
+#: admin/meta.php:2209 admin/options.php:1614 admin/options.php:2667
+#: admin/options.php:5726 theme-parts/content.php:193
+msgid "Delete"
+msgstr "수정"
+
+#: admin/functions/main_functions.php:1283
+msgid "Report"
+msgstr ""
+
+#: admin/functions/main_functions.php:2277 admin/widgets/adv-120x240.php:49
+#: admin/widgets/adv-120x240.php:58 admin/widgets/adv-120x240.php:67
+#: admin/widgets/adv-120x240.php:76 admin/widgets/adv-120x600.php:32
+#: admin/widgets/adv-125x125.php:49 admin/widgets/adv-125x125.php:58
+#: admin/widgets/adv-125x125.php:67 admin/widgets/adv-125x125.php:76
+#: admin/widgets/adv-234x60.php:32 admin/widgets/adv-250x250.php:32
+msgid "Adv"
+msgstr ""
+
+#: admin/functions/main_functions.php:2476 admin/meta.php:131
+msgid "Recent Questions"
+msgstr ""
+
+#: admin/functions/main_functions.php:2478 admin/meta.php:132
+#: admin/meta.php:1429 admin/widgets.php:942 admin/widgets.php:1407
+msgid "Most Answered"
+msgstr ""
+
+#: admin/functions/main_functions.php:2482 admin/meta.php:134
+msgid "No Answers"
+msgstr "대기중글"
+
+#: admin/functions/main_functions.php:2484 admin/meta.php:135
+msgid "Most Visited"
+msgstr ""
+
+#: admin/functions/main_functions.php:2486 admin/meta.php:136
+msgid "Most Voted"
+msgstr ""
+
+#: admin/functions/main_functions.php:2488 admin/meta.php:1087
+#: admin/meta.php:1430 admin/widgets.php:942 admin/widgets.php:1281
+#: admin/widgets.php:1407
+msgid "Random"
+msgstr ""
+
+#: admin/functions/main_functions.php:2490 admin/meta.php:140
+msgid "New Questions"
+msgstr ""
+
+#: admin/functions/main_functions.php:2492 admin/meta.php:141
+#: admin/meta.php:1436
+msgid "Sticky Questions"
+msgstr ""
+
+#: admin/functions/main_functions.php:2494 admin/options.php:440
+#: admin/options.php:3861 includes/header-code.php:187
+msgid "Polls"
+msgstr ""
+
+#: admin/functions/main_functions.php:2496 admin/meta.php:138
+msgid "Recent Posts"
+msgstr ""
+
+#: admin/functions/main_functions.php:2498 admin/meta.php:139
+msgid "Question Bump"
+msgstr ""
+
+#: admin/functions/main_functions.php:2500 admin/meta.php:144
+msgid "Recent Questions With Time"
+msgstr ""
+
+#: admin/functions/main_functions.php:2502 admin/meta.php:145
+msgid "Most Answered With Time"
+msgstr ""
+
+#: admin/functions/main_functions.php:2504 admin/meta.php:146
+msgid "Answers With Time"
+msgstr ""
+
+#: admin/functions/main_functions.php:2506 admin/meta.php:147
+msgid "No Answers With Time"
+msgstr ""
+
+#: admin/functions/main_functions.php:2508 admin/meta.php:148
+msgid "Most Visited With Time"
+msgstr ""
+
+#: admin/functions/main_functions.php:2510 admin/meta.php:149
+msgid "Most Voted With Time"
+msgstr ""
+
+#: admin/functions/main_functions.php:2512
+msgid "Random With Time"
+msgstr ""
+
+#: admin/functions/main_functions.php:2514 admin/meta.php:153
+msgid "New Questions With Time"
+msgstr "모든글보기"
+
+#: admin/functions/main_functions.php:2516 admin/meta.php:154
+msgid "Sticky Questions With Time"
+msgstr ""
+
+#: admin/functions/main_functions.php:2518
+msgid "Polls With Time"
+msgstr ""
+
+#: admin/functions/main_functions.php:2520 admin/meta.php:151
+msgid "Recent Posts With Time"
+msgstr ""
+
+#: admin/functions/main_functions.php:2522 admin/meta.php:152
+msgid "Question Bump With Time"
+msgstr ""
+
+#: admin/functions/main_functions.php:2530 admin/functions/meta_setting.php:21
+#: admin/includes/fields.php:285 admin/includes/fields.php:300
+#: admin/includes/fields.php:954
+msgid "Show All Categories"
+msgstr ""
+
+#: admin/functions/meta_setting.php:10
+msgid "Page settings"
+msgstr ""
+
+#: admin/functions/nav_menu.php:8
+msgid "You can use WP menu builder to build menus"
+msgstr ""
+
+#: admin/functions/register_post.php:150
+msgid "Author"
+msgstr ""
+
+#: admin/functions/register_post.php:151
+msgid "Format"
+msgstr ""
+
+#: admin/functions/register_post.php:192
+msgid "views"
+msgstr ""
+
+#: admin/functions/widget_functions.php:27
+msgid "First footer widget area"
+msgstr ""
+
+#: admin/functions/widget_functions.php:34
+msgid "Second footer widget area"
+msgstr ""
+
+#: admin/functions/widget_functions.php:41
+msgid "Third footer widget area"
+msgstr ""
+
+#: admin/functions/widget_functions.php:48
+msgid "Fourth footer widget area"
+msgstr ""
+
+#: admin/functions/widget_functions.php:55
+msgid "Fifth footer widget area"
+msgstr ""
+
+#: admin/functions/widget_functions.php:62 admin/meta.php:3615
+#: admin/options.php:6071 admin/options.php:6119 admin/options.php:6131
+#: admin/options.php:6166 includes/footer-code.php:33
+msgid "Sidebar"
+msgstr ""
+
+#: admin/functions/widget_functions.php:69 admin/options.php:6179
+msgid "Sidebar 2"
+msgstr ""
+
+#: admin/includes/admin_options.php:101
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s. Max input vars limitation will truncate POST "
+"data such as options. See: %3$sIncreasing max input vars limit.%4$s"
+msgstr ""
+
+#: admin/includes/admin_options.php:107 admin/includes/admin_options.php:127
+#: includes/header-code.php:240 includes/slider.php:93
+msgid "Type Search Words"
+msgstr "검색 키워드"
+
+#: admin/includes/admin_options.php:110 admin/includes/admin_options.php:141
+msgid "Save Options"
+msgstr ""
+
+#: admin/includes/admin_options.php:132
+msgid "Saved"
+msgstr ""
+
+#: admin/includes/admin_options.php:133
+msgid "Reseted"
+msgstr ""
+
+#: admin/includes/admin_options.php:144
+msgid "Restore Defaults"
+msgstr ""
+
+#: admin/includes/fields.php:34
+msgid "No file chosen"
+msgstr ""
+
+#: admin/includes/fields.php:42
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: admin/includes/fields.php:66
+msgid "View File"
+msgstr ""
+
+#: admin/includes/fields.php:552
+msgid "+ Add new element"
+msgstr ""
+
+#: admin/includes/fields.php:703
+msgid "Add new group"
+msgstr ""
+
+#: admin/includes/fields.php:1050
+msgid "Size"
+msgstr ""
+
+#: admin/includes/options_sanitization.php:218
+msgid "No Repeat"
+msgstr ""
+
+#: admin/includes/options_sanitization.php:219
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: admin/includes/options_sanitization.php:220
+msgid "Repeat Vertically"
+msgstr ""
+
+#: admin/includes/options_sanitization.php:221
+msgid "Repeat All"
+msgstr ""
+
+#: admin/includes/options_sanitization.php:234
+msgid "Top Left"
+msgstr ""
+
+#: admin/includes/options_sanitization.php:235
+msgid "Top Center"
+msgstr ""
+
+#: admin/includes/options_sanitization.php:236
+msgid "Top Right"
+msgstr ""
+
+#: admin/includes/options_sanitization.php:237
+msgid "Middle Left"
+msgstr ""
+
+#: admin/includes/options_sanitization.php:238
+msgid "Middle Center"
+msgstr ""
+
+#: admin/includes/options_sanitization.php:239
+msgid "Middle Right"
+msgstr ""
+
+#: admin/includes/options_sanitization.php:240
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/includes/options_sanitization.php:241
+msgid "Bottom Center"
+msgstr ""
+
+#: admin/includes/options_sanitization.php:242
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/includes/options_sanitization.php:255
+msgid "Scroll Normally"
+msgstr ""
+
+#: admin/includes/options_sanitization.php:256
+msgid "Fixed in Place"
+msgstr ""
+
+#: admin/includes/options_sanitization.php:330
+msgid "Style"
+msgstr ""
+
+#: admin/includes/options_sanitization.php:331 admin/meta.php:1791
+#: admin/options.php:334 admin/options.php:3907
+msgid "Normal"
+msgstr ""
+
+#: admin/includes/options_sanitization.php:332
+msgid "Italic"
+msgstr ""
+
+#: admin/includes/options_sanitization.php:333
+msgid "Bold"
+msgstr ""
+
+#: admin/includes/options_sanitization.php:334
+msgid "Bold Italic"
+msgstr ""
+
+#: admin/meta.php:24
+msgid "Select a page:"
+msgstr ""
+
+#: admin/meta.php:62 admin/meta.php:3724 admin/meta.php:3740
+#: admin/meta.php:3753 admin/options.php:2712 admin/terms.php:320
+msgid "Author by"
+msgstr ""
+
+#: admin/meta.php:63 admin/meta.php:84 admin/meta.php:3725 admin/meta.php:3741
+#: admin/meta.php:3754 admin/options.php:958 admin/options.php:1649
+#: admin/options.php:2713 admin/terms.php:214 admin/terms.php:321
+msgid "Date meta"
+msgstr ""
+
+#: admin/meta.php:64 admin/meta.php:3742 admin/options.php:2715
+#: admin/terms.php:322
+msgid "Category question"
+msgstr ""
+
+#: admin/meta.php:65 admin/meta.php:3727 admin/meta.php:3743
+#: admin/options.php:2716 admin/terms.php:323
+msgid "Answer meta"
+msgstr ""
+
+#: admin/meta.php:66 admin/meta.php:86 admin/meta.php:3728 admin/meta.php:3744
+#: admin/meta.php:3756 admin/options.php:960 admin/options.php:1651
+#: admin/options.php:2717 admin/terms.php:216 admin/terms.php:324
+msgid "Views stats"
+msgstr ""
+
+#: admin/meta.php:67 admin/options.php:2718 admin/terms.php:325
+msgid "Bump question meta"
+msgstr ""
+
+#: admin/meta.php:81 admin/options.php:955 admin/options.php:1646
+#: admin/terms.php:211
+msgid "Category post - Work at 1 column only"
+msgstr ""
+
+#: admin/meta.php:82 admin/meta.php:3752 admin/options.php:956
+#: admin/options.php:1647 admin/terms.php:212
+msgid "Title post"
+msgstr ""
+
+#: admin/meta.php:83 admin/options.php:957 admin/options.php:1648
+#: admin/terms.php:213
+msgid "Author by - Work at 1 column only"
+msgstr ""
+
+#: admin/meta.php:85 admin/meta.php:3755 admin/options.php:959
+#: admin/options.php:1650 admin/terms.php:215
+msgid "Comment meta"
+msgstr ""
+
+#: admin/meta.php:97
+msgid "Home settings"
+msgstr ""
+
+#: admin/meta.php:109
+msgid "Show the ask question box?"
+msgstr ""
+
+#: admin/meta.php:116
+msgid "Show the tabs at the left menu?"
+msgstr ""
+
+#: admin/meta.php:123
+msgid "Choose the categories show"
+msgstr ""
+
+#: admin/meta.php:137
+msgid "Random Questions"
+msgstr ""
+
+#: admin/meta.php:142 admin/meta.php:1437
+msgid "Poll Questions"
+msgstr ""
+
+#: admin/meta.php:150
+msgid "Random Questions With Time"
+msgstr ""
+
+#: admin/meta.php:155
+msgid "Poll Questions With Time"
+msgstr ""
+
+#: admin/meta.php:159
+msgid "Select the tabs you want to show"
+msgstr ""
+
+#: admin/meta.php:168
+msgid "Show the categories filter?"
+msgstr ""
+
+#: admin/meta.php:181 admin/meta.php:1103 admin/meta.php:1473
+msgid "Display by"
+msgstr ""
+
+#: admin/meta.php:185 admin/meta.php:1107 admin/meta.php:1477
+msgid "Lasts"
+msgstr ""
+
+#: admin/meta.php:186 admin/meta.php:195 admin/meta.php:1108
+#: admin/meta.php:1117 admin/meta.php:1478 admin/meta.php:1487
+msgid "Single category"
+msgstr ""
+
+#: admin/meta.php:187 admin/meta.php:1109 admin/meta.php:1479
+msgid "Multiple categories"
+msgstr ""
+
+#: admin/meta.php:188 admin/meta.php:1110 admin/meta.php:1480
+msgid "Exclude categories"
+msgstr ""
+
+#: admin/meta.php:189 admin/meta.php:1481 admin/widgets.php:1187
+#: admin/widgets.php:1493
+msgid "Custom questions"
+msgstr ""
+
+#: admin/meta.php:203 admin/meta.php:1495 admin/meta.php:1855
+#: admin/options.php:5992 admin/options.php:6020
+msgid "Question categories"
+msgstr ""
+
+#: admin/meta.php:204 admin/meta.php:1496
+msgid "Select the question categories."
+msgstr ""
+
+#: admin/meta.php:212 admin/meta.php:1504
+msgid "Question exclude categories"
+msgstr ""
+
+#: admin/meta.php:213 admin/meta.php:1505
+msgid "Select the question exclude categories."
+msgstr ""
+
+#: admin/meta.php:221 admin/meta.php:1513
+msgid "Question ids"
+msgstr ""
+
+#: admin/meta.php:222 admin/meta.php:1514
+msgid "Type the question ids."
+msgstr ""
+
+#: admin/meta.php:235 admin/meta.php:1217 admin/meta.php:1348
+#: admin/meta.php:1541 admin/options.php:1426 admin/options.php:2970
+#: admin/terms.php:256 admin/terms.php:425
+msgid "Pagination style"
+msgstr ""
+
+#: admin/meta.php:236 admin/meta.php:1218 admin/meta.php:1349
+#: admin/meta.php:1542 admin/options.php:1427 admin/options.php:2971
+#: admin/terms.php:257 admin/terms.php:426
+msgid "Choose pagination style from here."
+msgstr ""
+
+#: admin/meta.php:239 admin/meta.php:1221 admin/meta.php:1352
+#: admin/meta.php:1545 admin/options.php:1430 admin/options.php:2974
+#: admin/terms.php:260 admin/terms.php:429
+msgid "Standard"
+msgstr ""
+
+#: admin/meta.php:240 admin/meta.php:1222 admin/meta.php:1353
+#: admin/meta.php:1546 admin/options.php:1431 admin/options.php:2975
+#: admin/terms.php:261 admin/terms.php:430
+msgid "Pagination"
+msgstr ""
+
+#: admin/meta.php:241 admin/meta.php:1223 admin/meta.php:1354
+#: admin/meta.php:1547 admin/options.php:1432 admin/options.php:2976
+#: admin/terms.php:262 admin/terms.php:431
+msgid "Load more"
+msgstr ""
+
+#: admin/meta.php:242 admin/meta.php:1224 admin/meta.php:1355
+#: admin/meta.php:1548 admin/options.php:1433 admin/options.php:2977
+#: admin/terms.php:263 admin/terms.php:432
+msgid "Infinite scroll"
+msgstr ""
+
+#: admin/meta.php:243 admin/meta.php:1225 admin/meta.php:1356
+#: admin/meta.php:1549 admin/meta.php:2707 admin/meta.php:2734
+#: admin/meta.php:2943 admin/meta.php:3033 admin/options.php:1107
+#: admin/options.php:1134 admin/options.php:1434 admin/options.php:1957
+#: admin/options.php:2978 admin/options.php:3201 admin/options.php:5190
+#: admin/options.php:6270 admin/terms.php:264 admin/terms.php:433
+#: admin/terms.php:538
+msgid "None"
+msgstr ""
+
+#: admin/meta.php:250
+msgid "Items per page"
+msgstr ""
+
+#: admin/meta.php:251
+msgid "Put the items per page."
+msgstr ""
+
+#: admin/meta.php:258 admin/meta.php:1092 admin/meta.php:1317
+#: admin/meta.php:1462 admin/meta.php:1798 admin/meta.php:1872
+#: admin/meta.php:1958 admin/widgets.php:791
+msgid "Order"
+msgstr ""
+
+#: admin/meta.php:263 admin/meta.php:1097 admin/meta.php:1322
+#: admin/meta.php:1467 admin/meta.php:1803 admin/meta.php:1877
+#: admin/meta.php:1963 admin/widgets.php:793
+msgid "Descending"
+msgstr ""
+
+#: admin/meta.php:264 admin/meta.php:1098 admin/meta.php:1323
+#: admin/meta.php:1468 admin/meta.php:1804 admin/meta.php:1878
+#: admin/meta.php:1964 admin/widgets.php:793
+msgid "Ascending"
+msgstr ""
+
+#: admin/meta.php:277
+msgid "Time frame for the tabs"
+msgstr ""
+
+#: admin/meta.php:281
+msgid "Specific date for recent questions tab."
+msgstr ""
+
+#: admin/meta.php:282
+msgid "Select the specific date for recent questions tab."
+msgstr ""
+
+#: admin/meta.php:288 admin/meta.php:309 admin/meta.php:330 admin/meta.php:351
+#: admin/meta.php:372 admin/meta.php:393 admin/meta.php:414 admin/meta.php:435
+#: admin/meta.php:456 admin/meta.php:477 admin/meta.php:498 admin/meta.php:519
+#: admin/meta.php:1065 admin/meta.php:1291 admin/meta.php:1448
+#: admin/widgets.php:709 admin/widgets.php:1051 admin/widgets.php:1146
+#: admin/widgets.php:1452 admin/widgets.php:1520 admin/widgets.php:1578
+msgid "All The Time"
+msgstr ""
+
+#: admin/meta.php:289 admin/meta.php:310 admin/meta.php:331 admin/meta.php:352
+#: admin/meta.php:373 admin/meta.php:394 admin/meta.php:415 admin/meta.php:436
+#: admin/meta.php:457 admin/meta.php:478 admin/meta.php:499 admin/meta.php:520
+#: admin/meta.php:1066 admin/meta.php:1292 admin/meta.php:1449
+#: admin/widgets.php:710 admin/widgets.php:1052 admin/widgets.php:1147
+#: admin/widgets.php:1453 admin/widgets.php:1521 admin/widgets.php:1579
+msgid "Last 24 Hours"
+msgstr ""
+
+#: admin/meta.php:290 admin/meta.php:311 admin/meta.php:332 admin/meta.php:353
+#: admin/meta.php:374 admin/meta.php:395 admin/meta.php:416 admin/meta.php:437
+#: admin/meta.php:458 admin/meta.php:479 admin/meta.php:500 admin/meta.php:521
+#: admin/meta.php:1067 admin/meta.php:1293 admin/meta.php:1450
+#: admin/widgets.php:711 admin/widgets.php:1053 admin/widgets.php:1148
+#: admin/widgets.php:1454 admin/widgets.php:1522 admin/widgets.php:1580
+msgid "Last 2 Days"
+msgstr ""
+
+#: admin/meta.php:291 admin/meta.php:312 admin/meta.php:333 admin/meta.php:354
+#: admin/meta.php:375 admin/meta.php:396 admin/meta.php:417 admin/meta.php:438
+#: admin/meta.php:459 admin/meta.php:480 admin/meta.php:501 admin/meta.php:522
+#: admin/meta.php:1068 admin/meta.php:1294 admin/meta.php:1451
+#: admin/widgets.php:712 admin/widgets.php:1054 admin/widgets.php:1149
+#: admin/widgets.php:1455 admin/widgets.php:1523 admin/widgets.php:1581
+msgid "Last 3 Days"
+msgstr ""
+
+#: admin/meta.php:292 admin/meta.php:313 admin/meta.php:334 admin/meta.php:355
+#: admin/meta.php:376 admin/meta.php:397 admin/meta.php:418 admin/meta.php:439
+#: admin/meta.php:460 admin/meta.php:481 admin/meta.php:502 admin/meta.php:523
+#: admin/meta.php:1069 admin/meta.php:1295 admin/meta.php:1452
+#: admin/widgets.php:713 admin/widgets.php:1055 admin/widgets.php:1150
+#: admin/widgets.php:1456 admin/widgets.php:1524 admin/widgets.php:1582
+msgid "Last 4 Days"
+msgstr ""
+
+#: admin/meta.php:293 admin/meta.php:314 admin/meta.php:335 admin/meta.php:356
+#: admin/meta.php:377 admin/meta.php:398 admin/meta.php:419 admin/meta.php:440
+#: admin/meta.php:461 admin/meta.php:482 admin/meta.php:503 admin/meta.php:524
+#: admin/meta.php:1070 admin/meta.php:1296 admin/meta.php:1453
+#: admin/widgets.php:714 admin/widgets.php:1056 admin/widgets.php:1151
+#: admin/widgets.php:1457 admin/widgets.php:1525 admin/widgets.php:1583
+msgid "Last 5 Days"
+msgstr ""
+
+#: admin/meta.php:294 admin/meta.php:315 admin/meta.php:336 admin/meta.php:357
+#: admin/meta.php:378 admin/meta.php:399 admin/meta.php:420 admin/meta.php:441
+#: admin/meta.php:462 admin/meta.php:483 admin/meta.php:504 admin/meta.php:525
+#: admin/meta.php:1071 admin/meta.php:1297 admin/meta.php:1454
+#: admin/widgets.php:715 admin/widgets.php:1057 admin/widgets.php:1152
+#: admin/widgets.php:1458 admin/widgets.php:1526 admin/widgets.php:1584
+msgid "Last 6 Days"
+msgstr ""
+
+#: admin/meta.php:295 admin/meta.php:316 admin/meta.php:337 admin/meta.php:358
+#: admin/meta.php:379 admin/meta.php:400 admin/meta.php:421 admin/meta.php:442
+#: admin/meta.php:463 admin/meta.php:484 admin/meta.php:505 admin/meta.php:526
+#: admin/meta.php:1072 admin/meta.php:1298 admin/meta.php:1455
+#: admin/widgets.php:716 admin/widgets.php:1058 admin/widgets.php:1153
+#: admin/widgets.php:1459 admin/widgets.php:1527 admin/widgets.php:1585
+msgid "Last Week"
+msgstr ""
+
+#: admin/meta.php:296 admin/meta.php:317 admin/meta.php:338 admin/meta.php:359
+#: admin/meta.php:380 admin/meta.php:401 admin/meta.php:422 admin/meta.php:443
+#: admin/meta.php:464 admin/meta.php:485 admin/meta.php:506 admin/meta.php:527
+#: admin/meta.php:1073 admin/meta.php:1299 admin/meta.php:1456
+#: admin/widgets.php:717 admin/widgets.php:1059 admin/widgets.php:1154
+#: admin/widgets.php:1460 admin/widgets.php:1528 admin/widgets.php:1586
+msgid "Last Month"
+msgstr ""
+
+#: admin/meta.php:297 admin/meta.php:318 admin/meta.php:339 admin/meta.php:360
+#: admin/meta.php:381 admin/meta.php:402 admin/meta.php:423 admin/meta.php:444
+#: admin/meta.php:465 admin/meta.php:486 admin/meta.php:507 admin/meta.php:528
+#: admin/meta.php:1074 admin/meta.php:1300 admin/meta.php:1457
+#: admin/widgets.php:718 admin/widgets.php:1060 admin/widgets.php:1155
+#: admin/widgets.php:1461 admin/widgets.php:1529 admin/widgets.php:1587
+msgid "Last Year"
+msgstr ""
+
+#: admin/meta.php:302
+msgid "Specific date for most answered tab."
+msgstr ""
+
+#: admin/meta.php:303
+msgid "Select the specific date for most answered tab."
+msgstr ""
+
+#: admin/meta.php:323
+msgid "Specific date for question bump tab."
+msgstr ""
+
+#: admin/meta.php:324
+msgid "Select the specific date for question bump tab."
+msgstr ""
+
+#: admin/meta.php:344
+msgid "Specific date for answers tab."
+msgstr ""
+
+#: admin/meta.php:345
+msgid "Select the specific date for answers tab."
+msgstr ""
+
+#: admin/meta.php:365
+msgid "Specific date for most visited tab."
+msgstr ""
+
+#: admin/meta.php:366
+msgid "Select the specific date for most visited tab."
+msgstr ""
+
+#: admin/meta.php:386
+msgid "Specific date for most voted tab."
+msgstr ""
+
+#: admin/meta.php:387
+msgid "Select the specific date for most voted tab."
+msgstr ""
+
+#: admin/meta.php:407
+msgid "Specific date for no answers tab."
+msgstr ""
+
+#: admin/meta.php:408
+msgid "Select the specific date for no answers tab."
+msgstr ""
+
+#: admin/meta.php:428
+msgid "Specific date for recent posts tab."
+msgstr ""
+
+#: admin/meta.php:429
+msgid "Select the specific date for recent posts tab."
+msgstr ""
+
+#: admin/meta.php:449
+msgid "Specific date for random questions tab."
+msgstr ""
+
+#: admin/meta.php:450
+msgid "Select the specific date for random questions tab."
+msgstr ""
+
+#: admin/meta.php:470
+msgid "Specific date for new questions tab."
+msgstr ""
+
+#: admin/meta.php:471
+msgid "Select the specific date for new questions tab."
+msgstr ""
+
+#: admin/meta.php:491
+msgid "Specific date for sticky questions tab."
+msgstr ""
+
+#: admin/meta.php:492
+msgid "Select the specific date for sticky questions tab."
+msgstr ""
+
+#: admin/meta.php:512
+msgid "Specific date for poll questions tab."
+msgstr ""
+
+#: admin/meta.php:513
+msgid "Select the specific date for poll questions tab."
+msgstr ""
+
+#: admin/meta.php:541
+msgid "Custom setting for the slugs"
+msgstr ""
+
+#: admin/meta.php:545
+msgid "Recent questions slug"
+msgstr ""
+
+#: admin/meta.php:553
+msgid "Most answered slug"
+msgstr ""
+
+#: admin/meta.php:561
+msgid "Question bump slug"
+msgstr ""
+
+#: admin/meta.php:569
+msgid "New questions slug"
+msgstr ""
+
+#: admin/meta.php:577
+msgid "Question sticky slug"
+msgstr ""
+
+#: admin/meta.php:585
+msgid "Question polls slug"
+msgstr ""
+
+#: admin/meta.php:593
+msgid "Answers slug"
+msgstr ""
+
+#: admin/meta.php:601
+msgid "Most visited slug"
+msgstr ""
+
+#: admin/meta.php:609
+msgid "Most voted slug"
+msgstr ""
+
+#: admin/meta.php:617
+msgid "Random slug"
+msgstr ""
+
+#: admin/meta.php:625
+msgid "No answers slug"
+msgstr ""
+
+#: admin/meta.php:633
+msgid "Recent posts slug"
+msgstr ""
+
+#: admin/meta.php:641
+msgid "Recent questions with time slug"
+msgstr ""
+
+#: admin/meta.php:649
+msgid "Most answered with time slug"
+msgstr ""
+
+#: admin/meta.php:657
+msgid "Question bump with time slug"
+msgstr ""
+
+#: admin/meta.php:665
+msgid "New questions with time slug"
+msgstr ""
+
+#: admin/meta.php:673
+msgid "Question sticky with time slug"
+msgstr ""
+
+#: admin/meta.php:681
+msgid "Question polls with time slug"
+msgstr ""
+
+#: admin/meta.php:689
+msgid "Answers with time slug"
+msgstr ""
+
+#: admin/meta.php:697
+msgid "Most visited with time slug"
+msgstr ""
+
+#: admin/meta.php:705
+msgid "Most voted with time slug"
+msgstr ""
+
+#: admin/meta.php:713
+msgid "Random with time slug"
+msgstr ""
+
+#: admin/meta.php:721
+msgid "No answers with time slug"
+msgstr ""
+
+#: admin/meta.php:729
+msgid "Recent posts with time slug"
+msgstr ""
+
+#: admin/meta.php:743
+msgid "Custom setting for the questions"
+msgstr ""
+
+#: admin/meta.php:747
+msgid "Choose a custom setting for the questions"
+msgstr ""
+
+#: admin/meta.php:759 admin/meta.php:1556 admin/terms.php:288
+#: admin/widgets.php:817 admin/widgets.php:912 admin/widgets.php:1379
+msgid "Question style"
+msgstr ""
+
+#: admin/meta.php:760 admin/meta.php:1557
+msgid "Choose question style from here."
+msgstr ""
+
+#: admin/meta.php:763 admin/meta.php:908 admin/meta.php:1164
+#: admin/meta.php:1560 admin/options.php:886 admin/options.php:1347
+#: admin/options.php:2761 admin/options.php:5103 admin/terms.php:162
+#: admin/terms.php:293
+msgid "1 column"
+msgstr ""
+
+#: admin/meta.php:764 admin/meta.php:1561 admin/options.php:2762
+#: admin/terms.php:294
+msgid "2 columns"
+msgstr ""
+
+#: admin/meta.php:764 admin/meta.php:1561 admin/options.php:2762
+#: admin/terms.php:294
+msgid "Works with sidebar, full width, and left menu only."
+msgstr ""
+
+#: admin/meta.php:771 admin/meta.php:1568 admin/options.php:2768
+#: admin/terms.php:330
+msgid "Active the author image in questions loop?"
+msgstr ""
+
+#: admin/meta.php:772 admin/meta.php:1569 admin/options.php:2769
+msgid "Author image in questions loop enable or disable."
+msgstr ""
+
+#: admin/meta.php:779 admin/meta.php:1576 admin/options.php:2776
+#: admin/terms.php:337
+msgid "Active the vote in loop?"
+msgstr ""
+
+#: admin/meta.php:780 admin/meta.php:1577 admin/options.php:2777
+msgid "Vote in loop enable or disable."
+msgstr ""
+
+#: admin/meta.php:787 admin/meta.php:1584 admin/options.php:2784
+#: admin/terms.php:344
+msgid "Select ON to hide the dislike at questions loop"
+msgstr ""
+
+#: admin/meta.php:788 admin/meta.php:1029 admin/meta.php:1386
+#: admin/meta.php:1585 admin/meta.php:3688 admin/options.php:2785
+#: admin/options.php:3036 admin/options.php:5798
+msgid "If you put it ON the dislike will not show."
+msgstr ""
+
+#: admin/meta.php:795 admin/meta.php:1592 admin/options.php:2792
+#: admin/terms.php:351
+msgid "Select ON to show the poll in questions loop"
+msgstr ""
+
+#: admin/meta.php:801 admin/meta.php:1598 admin/options.php:2798
+#: admin/terms.php:357
+msgid "Select ON to hide the excerpt in questions"
+msgstr ""
+
+#: admin/meta.php:813 admin/meta.php:1610 admin/options.php:2810
+#: admin/terms.php:369
+msgid "Excerpt question"
+msgstr ""
+
+#: admin/meta.php:814
+msgid "Put here the excerpt questopn."
+msgstr ""
+
+#: admin/meta.php:821 admin/meta.php:1618 admin/options.php:2818
+#: admin/terms.php:378
+msgid "Select ON to active the read more button in questions"
+msgstr ""
+
+#: admin/meta.php:827 admin/meta.php:1624 admin/options.php:2739
+#: admin/terms.php:384
+msgid "Active the follow button at questions loop"
+msgstr ""
+
+#: admin/meta.php:828 admin/meta.php:1625 admin/options.php:2740
+#: admin/terms.php:385
+msgid "Select ON if you want to activate the follow button at questions loop."
+msgstr ""
+
+#: admin/meta.php:840 admin/meta.php:1637 admin/options.php:2942
+#: admin/terms.php:397
+msgid "Tags at loop enable or disable"
+msgstr ""
+
+#: admin/meta.php:847 admin/meta.php:1644 admin/options.php:2949
+#: admin/terms.php:404
+msgid ""
+"Active the answer at loop by best answer, most voted, last answer or first "
+"answer"
+msgstr ""
+
+#: admin/meta.php:853 admin/meta.php:1650 admin/options.php:2955
+#: admin/terms.php:410
+msgid "Answer type"
+msgstr ""
+
+#: admin/meta.php:854 admin/meta.php:1651 admin/options.php:2956
+#: admin/terms.php:411
+msgid "Choose what's the answer you need to show from here."
+msgstr ""
+
+#: admin/meta.php:858 admin/meta.php:1655 admin/options.php:2960
+#: admin/terms.php:415
+msgid "Best answer"
+msgstr "뽑힌글 "
+
+#: admin/meta.php:859 admin/meta.php:1432 admin/meta.php:1656
+#: admin/options.php:2961 admin/terms.php:416 admin/widgets.php:1407
+msgid "Most voted"
+msgstr ""
+
+#: admin/meta.php:860 admin/meta.php:1657 admin/options.php:2962
+#: admin/terms.php:417
+msgid "Last answer"
+msgstr ""
+
+#: admin/meta.php:861 admin/meta.php:1658 admin/options.php:2963
+#: admin/terms.php:418
+msgid "First answer"
+msgstr ""
+
+#: admin/meta.php:868 admin/meta.php:953 admin/meta.php:1232
+#: admin/meta.php:1665 admin/meta.php:3761 admin/options.php:943
+#: admin/options.php:1634 admin/options.php:2699 admin/terms.php:199
+#: admin/terms.php:308
+msgid "Select the meta options"
+msgstr ""
+
+#: admin/meta.php:888
+msgid "Custom setting for the posts"
+msgstr ""
+
+#: admin/meta.php:892 admin/options.php:895
+msgid "Choose a custom setting for the posts"
+msgstr ""
+
+#: admin/meta.php:904 admin/meta.php:1160 admin/options.php:882
+#: admin/options.php:1343 admin/options.php:5098 admin/terms.php:157
+#: admin/widgets.php:904 admin/widgets.php:1253
+msgid "Post style"
+msgstr ""
+
+#: admin/meta.php:905 admin/meta.php:1161 admin/options.php:883
+#: admin/options.php:1344 admin/options.php:5099 admin/terms.php:158
+#: admin/terms.php:289
+msgid "Choose post style from here."
+msgstr ""
+
+#: admin/meta.php:909 admin/meta.php:1165 admin/options.php:887
+#: admin/options.php:1348 admin/options.php:5104 admin/terms.php:163
+msgid "List style"
+msgstr ""
+
+#: admin/meta.php:910 admin/meta.php:1166 admin/meta.php:1787
+#: admin/options.php:888 admin/options.php:1349 admin/options.php:3903
+#: admin/options.php:5105 admin/terms.php:164
+msgid "Columns"
+msgstr ""
+
+#: admin/meta.php:917 admin/meta.php:1173 admin/options.php:907
+#: admin/options.php:1390 admin/terms.php:178
+msgid "Hide the featured image in the loop"
+msgstr ""
+
+#: admin/meta.php:918 admin/meta.php:1174 admin/options.php:908
+#: admin/options.php:1391 admin/terms.php:179
+msgid "Select ON to hide the featured image in the loop."
+msgstr ""
+
+#: admin/meta.php:927 admin/meta.php:932 admin/meta.php:1183
+#: admin/meta.php:1188 admin/meta.php:2289 admin/meta.php:2679
+#: admin/options.php:917 admin/options.php:922 admin/options.php:1079
+#: admin/options.php:1400 admin/options.php:1405 admin/options.php:5115
+#: admin/options.php:5120 admin/terms.php:188 admin/terms.php:193
+#: theme-parts/content.php:3
+msgid "Image"
+msgstr ""
+
+#: admin/meta.php:928 admin/meta.php:933 admin/meta.php:1184
+#: admin/meta.php:1189 admin/options.php:918 admin/options.php:923
+#: admin/options.php:1401 admin/options.php:1406 admin/options.php:5116
+#: admin/options.php:5121 admin/terms.php:189 admin/terms.php:194
+#: theme-parts/content.php:3
+msgid "Meta and title"
+msgstr ""
+
+#: admin/meta.php:938 admin/meta.php:1194 admin/options.php:928
+#: admin/options.php:1411 admin/terms.php:221
+msgid "Read more enable or disable"
+msgstr ""
+
+#: admin/meta.php:945 admin/meta.php:1201 admin/options.php:935
+#: admin/options.php:1418 admin/terms.php:248 admin/widgets.php:993
+#: admin/widgets.php:1326
+msgid "Excerpt post"
+msgstr ""
+
+#: admin/meta.php:946 admin/meta.php:1202 admin/options.php:936
+#: admin/options.php:1419 admin/terms.php:249
+msgid "Put here the excerpt post."
+msgstr ""
+
+#: admin/meta.php:961 admin/meta.php:1240 admin/meta.php:3788
+#: admin/options.php:965 admin/options.php:1762 admin/options.php:3115
+#: admin/terms.php:228
+msgid "Select the share options"
+msgstr ""
+
+#: admin/meta.php:983
+msgid "Custom setting for the answers"
+msgstr ""
+
+#: admin/meta.php:987 admin/meta.php:1079 admin/meta.php:1305
+#: admin/meta.php:1765 admin/meta.php:1861 admin/meta.php:1935
+#: admin/widgets.php:784 admin/widgets.php:940 admin/widgets.php:1279
+#: admin/widgets.php:1405
+msgid "Order by"
+msgstr ""
+
+#: admin/meta.php:988
+msgid "Select the answers order by."
+msgstr ""
+
+#: admin/meta.php:993 admin/meta.php:1085 admin/meta.php:1428
+#: admin/options.php:5775 admin/widgets.php:942 admin/widgets.php:1281
+#: admin/widgets.php:1407 comments.php:78
+msgid "Recent"
+msgstr ""
+
+#: admin/meta.php:994 admin/options.php:5774 comments.php:76
+msgid "Oldest"
+msgstr ""
+
+#: admin/meta.php:995 admin/options.php:5773 comments.php:74
+msgid "Voted"
+msgstr ""
+
+#: admin/meta.php:1000
+msgid "Choose a custom setting for the answers"
+msgstr ""
+
+#: admin/meta.php:1012
+msgid "Active the author image in answers?"
+msgstr ""
+
+#: admin/meta.php:1013
+msgid "Author image in answers enable or disable."
+msgstr ""
+
+#: admin/meta.php:1020 admin/meta.php:1377 admin/options.php:5789
+msgid "Select ON to active the vote at answers"
+msgstr ""
+
+#: admin/meta.php:1021 admin/meta.php:1378 admin/options.php:5790
+msgid "Select ON to enable the vote at the answers."
+msgstr ""
+
+#: admin/meta.php:1028 admin/meta.php:1385 admin/options.php:5797
+msgid "Select ON to hide the dislike at answers"
+msgstr ""
+
+#: admin/meta.php:1047
+msgid "Blog setting"
+msgstr ""
+
+#: admin/meta.php:1059 admin/meta.php:1285 admin/meta.php:1442
+#: admin/widgets.php:703 admin/widgets.php:1045 admin/widgets.php:1140
+#: admin/widgets.php:1446 admin/widgets.php:1514 admin/widgets.php:1572
+msgid "Specific date."
+msgstr ""
+
+#: admin/meta.php:1060 admin/meta.php:1286 admin/meta.php:1443
+#: admin/widgets.php:704 admin/widgets.php:1046 admin/widgets.php:1141
+#: admin/widgets.php:1447 admin/widgets.php:1515 admin/widgets.php:1573
+msgid "Select the specific date."
+msgstr ""
+
+#: admin/meta.php:1080
+msgid "Select the post order by."
+msgstr ""
+
+#: admin/meta.php:1086 admin/widgets.php:1281
+msgid "Most Commented"
+msgstr ""
+
+#: admin/meta.php:1111 admin/widgets.php:1089 admin/widgets.php:1362
+msgid "Custom posts"
+msgstr ""
+
+#: admin/meta.php:1124 admin/meta.php:1856 admin/options.php:5996
+#: admin/options.php:6024
+msgid "Post categories"
+msgstr ""
+
+#: admin/meta.php:1125
+msgid "Select the post categories."
+msgstr ""
+
+#: admin/meta.php:1132
+msgid "Post exclude categories"
+msgstr ""
+
+#: admin/meta.php:1133
+msgid "Select the post exclude categories."
+msgstr ""
+
+#: admin/meta.php:1140
+msgid "Post ids"
+msgstr ""
+
+#: admin/meta.php:1141
+msgid "Type the post ids."
+msgstr ""
+
+#: admin/meta.php:1148
+msgid "Choose a custom setting for this blog page"
+msgstr ""
+
+#: admin/meta.php:1209 admin/options.php:875
+msgid "Posts number"
+msgstr ""
+
+#: admin/meta.php:1210
+msgid "put the posts number"
+msgstr ""
+
+#: admin/meta.php:1261
+msgid "Comments settings"
+msgstr ""
+
+#: admin/meta.php:1273
+msgid "Comment type"
+msgstr ""
+
+#: admin/meta.php:1274
+msgid "Select the comment type."
+msgstr ""
+
+#: admin/meta.php:1280 admin/meta.php:1778 admin/meta.php:3559
+#: admin/meta.php:3567 admin/options.php:446 admin/options.php:1671
+#: admin/options.php:3870 admin/options.php:5602 admin/options.php:5995
+#: admin/options.php:6023 admin/widgets.php:1510 admin/widgets.php:1636
+#: admin/widgets.php:1644 comments.php:65 includes/header-code.php:199
+#: theme-parts/content.php:221
+msgid "Comments"
+msgstr ""
+
+#: admin/meta.php:1306
+msgid "Select the comments order by."
+msgstr ""
+
+#: admin/meta.php:1311
+msgid "Date"
+msgstr ""
+
+#: admin/meta.php:1312
+msgid "Voted - Work at answers only."
+msgstr ""
+
+#: admin/meta.php:1328
+msgid "Choose a custom setting for the comments"
+msgstr ""
+
+#: admin/meta.php:1340
+msgid "Comments per page"
+msgstr ""
+
+#: admin/meta.php:1341
+msgid "put the comments per page"
+msgstr ""
+
+#: admin/meta.php:1363
+msgid "Active the author image in comments?"
+msgstr ""
+
+#: admin/meta.php:1364
+msgid "Author image in comments enable or disable."
+msgstr ""
+
+#: admin/meta.php:1410 admin/options.php:2029
+msgid "Questions settings"
+msgstr ""
+
+#: admin/meta.php:1422
+msgid "Display questions by"
+msgstr ""
+
+#: admin/meta.php:1423
+msgid "Select the question display by."
+msgstr ""
+
+#: admin/meta.php:1431 admin/widgets.php:942 admin/widgets.php:1281
+#: admin/widgets.php:1407
+msgid "Most visited"
+msgstr ""
+
+#: admin/meta.php:1433
+msgid "No answers"
+msgstr ""
+
+#: admin/meta.php:1434
+msgid "Question bump"
+msgstr ""
+
+#: admin/meta.php:1435
+msgid "New Questions - Without Sticky"
+msgstr ""
+
+#: admin/meta.php:1521
+msgid "Choose a custom setting for this questions page"
+msgstr ""
+
+#: admin/meta.php:1533
+msgid "Questions per page"
+msgstr ""
+
+#: admin/meta.php:1534
+msgid "put the questions per page"
+msgstr ""
+
+#: admin/meta.php:1611 admin/options.php:2811 admin/terms.php:370
+msgid "Put here the excerpt question."
+msgstr ""
+
+#: admin/meta.php:1684
+msgid "FAQs settings"
+msgstr ""
+
+#: admin/meta.php:1698
+msgid "Add new faq"
+msgstr ""
+
+#: admin/meta.php:1705 admin/meta.php:2274 admin/meta.php:2717
+#: admin/options.php:1117 admin/widgets.php:12 admin/widgets.php:46
+#: admin/widgets.php:80 admin/widgets.php:114 admin/widgets.php:227
+#: admin/widgets.php:340 admin/widgets.php:349 admin/widgets.php:363
+#: admin/widgets.php:412 admin/widgets.php:433 admin/widgets.php:454
+#: admin/widgets.php:463 admin/widgets.php:472 admin/widgets.php:492
+#: admin/widgets.php:577 admin/widgets.php:616 admin/widgets.php:655
+#: admin/widgets.php:690 admin/widgets.php:765 admin/widgets.php:805
+#: admin/widgets.php:891 admin/widgets.php:1201 admin/widgets.php:1623
+#: admin/widgets.php:1669
+msgid "Title"
+msgstr ""
+
+#: admin/meta.php:1710
+msgid "Content"
+msgstr ""
+
+#: admin/meta.php:1721
+msgid "Users settings"
+msgstr ""
+
+#: admin/meta.php:1733
+msgid "Show search at users page"
+msgstr ""
+
+#: admin/meta.php:1734
+msgid "Show search at users page from the breadcrumb"
+msgstr ""
+
+#: admin/meta.php:1741
+msgid "Show filter at users page"
+msgstr ""
+
+#: admin/meta.php:1742
+msgid "Show filter at users page from the breadcrumb"
+msgstr ""
+
+#: admin/meta.php:1749
+msgid "Users per page"
+msgstr ""
+
+#: admin/meta.php:1750
+msgid "Put the users per page."
+msgstr ""
+
+#: admin/meta.php:1757 admin/widgets.php:777
+msgid "Choose the user groups show"
+msgstr ""
+
+#: admin/meta.php:1770
+msgid "Register"
+msgstr ""
+
+#: admin/meta.php:1771 admin/meta.php:1867 admin/meta.php:1941
+#: admin/options.php:6499
+msgid "Name"
+msgstr ""
+
+#: admin/meta.php:1772
+msgid "ID"
+msgstr ""
+
+#: admin/meta.php:1773 admin/options.php:439 admin/options.php:441
+#: admin/options.php:3837 admin/options.php:3860 admin/options.php:5990
+#: admin/options.php:6018 admin/widgets.php:1633 admin/widgets.php:1641
+#: includes/header-code.php:183 theme-parts/content-none.php:2
+#: theme-parts/loop.php:254
+msgid "Questions"
+msgstr ""
+
+#: admin/meta.php:1775 admin/options.php:453 admin/options.php:3839
+#: admin/options.php:3863 admin/widgets.php:1637 admin/widgets.php:1645
+#: includes/header-code.php:168
+msgid "Best Answers"
+msgstr "뽑힌글 "
+
+#: admin/meta.php:1776 admin/options.php:454 admin/options.php:3381
+#: admin/options.php:3840 admin/options.php:5397 admin/options.php:5480
+#: includes/header-code.php:170 template-badges.php:41 template-badges.php:88
+#: theme-parts/content-question.php:490
+msgid "Points"
+msgstr "캐쉬"
+
+#: admin/meta.php:1777 admin/options.php:445 admin/options.php:3869
+#: admin/options.php:5994 admin/options.php:6022 admin/widgets.php:1635
+#: admin/widgets.php:1643 includes/header-code.php:197
+#: theme-parts/content-none.php:2
+msgid "Posts"
+msgstr ""
+
+#: admin/meta.php:1783
+msgid "Users style"
+msgstr ""
+
+#: admin/meta.php:1784
+msgid "Choose the users style."
+msgstr ""
+
+#: admin/meta.php:1788 admin/options.php:3904
+msgid "Simple with follow"
+msgstr ""
+
+#: admin/meta.php:1789 admin/options.php:325 admin/options.php:3905
+msgid "Small"
+msgstr ""
+
+#: admin/meta.php:1790 admin/options.php:3906
+msgid "Grid"
+msgstr ""
+
+#: admin/meta.php:1814
+msgid "Categories settings"
+msgstr ""
+
+#: admin/meta.php:1826
+msgid "Show search at categories page"
+msgstr ""
+
+#: admin/meta.php:1827
+msgid "Show search at categories page from the breadcrumb"
+msgstr ""
+
+#: admin/meta.php:1834
+msgid "Show filter at categories page"
+msgstr ""
+
+#: admin/meta.php:1835
+msgid "Show filter at categories page from the breadcrumb"
+msgstr ""
+
+#: admin/meta.php:1842
+msgid "Categories per page"
+msgstr ""
+
+#: admin/meta.php:1843
+msgid "Put the categories per page."
+msgstr ""
+
+#: admin/meta.php:1850
+msgid "Categories type"
+msgstr ""
+
+#: admin/meta.php:1866 admin/meta.php:1940
+msgid "Popular"
+msgstr ""
+
+#: admin/meta.php:1888
+msgid "Tags settings"
+msgstr ""
+
+#: admin/meta.php:1900
+msgid "Show search at tags page"
+msgstr ""
+
+#: admin/meta.php:1901
+msgid "Show search at tags page from the breadcrumb"
+msgstr ""
+
+#: admin/meta.php:1908
+msgid "Show filter at tags page"
+msgstr ""
+
+#: admin/meta.php:1909
+msgid "Show filter at tags page from the breadcrumb"
+msgstr ""
+
+#: admin/meta.php:1916
+msgid "Tags per page"
+msgstr ""
+
+#: admin/meta.php:1917
+msgid "Put the tags per page."
+msgstr ""
+
+#: admin/meta.php:1924
+msgid "Tags type"
+msgstr ""
+
+#: admin/meta.php:1929 admin/options.php:5993 admin/options.php:6021
+msgid "Question tags"
+msgstr ""
+
+#: admin/meta.php:1930 admin/options.php:5997 admin/options.php:6025
+msgid "Post tags"
+msgstr ""
+
+#: admin/meta.php:1946
+msgid "Tags style"
+msgstr ""
+
+#: admin/meta.php:1947 admin/options.php:6048
+msgid "Choose the tags style."
+msgstr ""
+
+#: admin/meta.php:1950 admin/options.php:6051
+msgid "Advanced"
+msgstr ""
+
+#: admin/meta.php:1951 admin/options.php:334 admin/options.php:6052
+msgid "Simple"
+msgstr ""
+
+#: admin/meta.php:1974
+msgid "Sitemaps settings"
+msgstr ""
+
+#: admin/meta.php:1986
+msgid "Choose sections show"
+msgstr ""
+
+#: admin/meta.php:2002
+msgid "Toggle or accordion?"
+msgstr ""
+
+#: admin/meta.php:2006
+msgid "Toggle"
+msgstr ""
+
+#: admin/meta.php:2007
+msgid "Accordion"
+msgstr ""
+
+#: admin/meta.php:2018
+msgid "Landing settings"
+msgstr ""
+
+#: admin/meta.php:2030
+msgid "Custom logo for the landing page"
+msgstr ""
+
+#: admin/meta.php:2031
+msgid "Click ON to set the custom logo for the landing page."
+msgstr ""
+
+#: admin/meta.php:2043
+msgid "Logo for the landing page"
+msgstr ""
+
+#: admin/meta.php:2050
+msgid "Logo retina for the landing popup"
+msgstr ""
+
+#: admin/meta.php:2056 admin/options.php:375 admin/options.php:4177
+#: admin/options.php:4270 admin/options.php:4363 admin/terms.php:111
+msgid "Logo height"
+msgstr ""
+
+#: admin/meta.php:2066 admin/options.php:386 admin/options.php:4187
+#: admin/options.php:4280 admin/options.php:4373 admin/terms.php:122
+msgid "Logo width"
+msgstr ""
+
+#: admin/meta.php:2082
+msgid ""
+"Add from here the page to work when the landing page was selected at home "
+"page and the user already logged."
+msgstr ""
+
+#: admin/meta.php:2089 admin/options.php:4077
+msgid "Page style"
+msgstr ""
+
+#: admin/meta.php:2090 admin/options.php:4078
+msgid "Choose page style from here."
+msgstr ""
+
+#: admin/meta.php:2101 admin/meta.php:2480 admin/options.php:638
+#: admin/options.php:4089
+msgid "Upload the background"
+msgstr ""
+
+#: admin/meta.php:2102 admin/options.php:4090
+msgid "Upload the background for the un register page"
+msgstr ""
+
+#: admin/meta.php:2113 admin/meta.php:2490 admin/meta.php:2683
+#: admin/options.php:648 admin/options.php:1083 admin/options.php:4101
+msgid "Choose the background opacity"
+msgstr ""
+
+#: admin/meta.php:2114 admin/meta.php:2491 admin/options.php:649
+#: admin/options.php:4102
+msgid "Choose from here the background opacity"
+msgstr ""
+
+#: admin/meta.php:2124 admin/options.php:4112
+msgid "Choose from here what's menu will show for the un register users."
+msgstr ""
+
+#: admin/meta.php:2131 admin/meta.php:2501 admin/options.php:659
+#: admin/options.php:4119
+msgid "The headline"
+msgstr ""
+
+#: admin/meta.php:2132 admin/meta.php:2502 admin/options.php:660
+#: admin/options.php:4120
+msgid "Type from here the headline"
+msgstr ""
+
+#: admin/meta.php:2139 admin/meta.php:2509 admin/options.php:667
+#: admin/options.php:4127
+msgid "The paragraph"
+msgstr ""
+
+#: admin/meta.php:2140 admin/meta.php:2510 admin/options.php:668
+#: admin/options.php:4128
+msgid "Type from here the paragraph"
+msgstr ""
+
+#: admin/meta.php:2156
+msgid "Question settings"
+msgstr ""
+
+#: admin/meta.php:2176 admin/meta.php:2181 theme-parts/content-question.php:88
+#: theme-parts/content-question.php:92
+msgid "Anonymous"
+msgstr ""
+
+#: admin/meta.php:2196
+msgid "This question has been asked to"
+msgstr ""
+
+#: admin/meta.php:2228
+msgid "Stats of Users"
+msgstr ""
+
+#: admin/meta.php:2236
+msgid "Has vote for"
+msgstr ""
+
+#: admin/meta.php:2239
+msgid "Unregistered user Has vote for"
+msgstr ""
+
+#: admin/meta.php:2252
+msgid "This question is a poll?"
+msgstr ""
+
+#: admin/meta.php:2264
+msgid "Poll title"
+msgstr ""
+
+#: admin/meta.php:2265
+msgid "Put here the poll title if you need to add custom title."
+msgstr ""
+
+#: admin/meta.php:2297
+msgid "Add a new option to poll"
+msgstr ""
+
+#: admin/meta.php:2319
+msgid "Choose from here the question category."
+msgstr ""
+
+#: admin/meta.php:2321
+msgid "Select a Category"
+msgstr ""
+
+#: admin/meta.php:2329
+msgid "Video description"
+msgstr ""
+
+#: admin/meta.php:2330
+msgid "Do you need a video to description the problem better?"
+msgstr ""
+
+#: admin/meta.php:2336 admin/meta.php:3179
+msgid "Video type"
+msgstr ""
+
+#: admin/meta.php:2342 admin/meta.php:3185 admin/widgets.php:669
+msgid "Dialymotion"
+msgstr ""
+
+#: admin/meta.php:2346
+msgid "Choose from here the video type."
+msgstr ""
+
+#: admin/meta.php:2350 admin/meta.php:3205
+msgid "Video ID"
+msgstr ""
+
+#: admin/meta.php:2351
+msgid ""
+"Put here the video id : https://www.youtube.com/watch?v=sdUUx5FdySs Ex: "
+"\"sdUUx5FdySs\"."
+msgstr ""
+
+#: admin/meta.php:2360
+msgid "Custom featured image size"
+msgstr ""
+
+#: admin/meta.php:2361
+msgid "Click ON to set the custom featured image size."
+msgstr ""
+
+#: admin/meta.php:2373 admin/meta.php:3081 admin/options.php:1711
+msgid "Featured image width"
+msgstr ""
+
+#: admin/meta.php:2383 admin/meta.php:3091 admin/options.php:1720
+msgid "Featured image height"
+msgstr ""
+
+#: admin/meta.php:2401
+msgid "Notification by e-mail"
+msgstr ""
+
+#: admin/meta.php:2402
+msgid "Get notification by email when someone answers this question"
+msgstr ""
+
+#: admin/meta.php:2408
+msgid "Private question?"
+msgstr ""
+
+#: admin/meta.php:2409
+msgid "This question is a private question?"
+msgstr ""
+
+#: admin/meta.php:2422 admin/options.php:298 admin/options.php:577
+msgid "Call to action"
+msgstr ""
+
+#: admin/meta.php:2433
+msgid "Custom call to action"
+msgstr ""
+
+#: admin/meta.php:2445 admin/options.php:583
+msgid "Active the call to action"
+msgstr ""
+
+#: admin/meta.php:2446 admin/options.php:584
+msgid "Select ON to enable the call to action for the unlogged users."
+msgstr ""
+
+#: admin/meta.php:2459 admin/options.php:617
+msgid "Action skin"
+msgstr ""
+
+#: admin/meta.php:2460 admin/options.php:618
+msgid "Choose the action skin."
+msgstr ""
+
+#: admin/meta.php:2464 admin/options.php:343 admin/options.php:622
+#: admin/options.php:7257
+msgid "Light"
+msgstr ""
+
+#: admin/meta.php:2464 admin/options.php:343 admin/options.php:622
+#: admin/options.php:7257
+msgid "Dark"
+msgstr ""
+
+#: admin/meta.php:2464 admin/options.php:343 admin/options.php:622
+msgid "Colored"
+msgstr ""
+
+#: admin/meta.php:2468 admin/options.php:626
+msgid "Action style"
+msgstr ""
+
+#: admin/meta.php:2469 admin/options.php:627
+msgid "Choose action style from here."
+msgstr ""
+
+#: admin/meta.php:2517 admin/options.php:675
+msgid "Action button"
+msgstr ""
+
+#: admin/meta.php:2518 admin/options.php:676
+msgid "Choose action button style from here."
+msgstr ""
+
+#: admin/meta.php:2521 admin/meta.php:2756 admin/options.php:679
+#: admin/options.php:1156 admin/widgets.php:373 includes/call-action.php:73
+#: includes/slider.php:75
+msgid "Create A New Account"
+msgstr "계정 만들기"
+
+#: admin/meta.php:2522 admin/meta.php:2708 admin/meta.php:2757
+#: admin/options.php:680 admin/options.php:1108 admin/options.php:1157
+#: admin/options.php:1264 admin/widgets.php:374 includes/call-action.php:68
+#: includes/slider.php:70
+msgid "Login"
+msgstr ""
+
+#: admin/meta.php:2523 admin/meta.php:2746 admin/meta.php:2758
+#: admin/options.php:681 admin/options.php:1146 admin/options.php:1158
+#: admin/widgets.php:375 includes/call-action.php:58 includes/slider.php:60
+msgid "Ask A Question"
+msgstr "글쓰기"
+
+#: admin/meta.php:2524 admin/meta.php:2759 admin/options.php:682
+#: admin/options.php:1159 admin/widgets.php:376
+msgid "Add A Post"
+msgstr ""
+
+#: admin/meta.php:2525 admin/meta.php:2760 admin/options.php:683
+#: admin/options.php:1160 admin/options.php:3946 admin/options.php:3961
+#: admin/options.php:3976 admin/widgets.php:377
+msgid "Custom link"
+msgstr ""
+
+#: admin/meta.php:2532 admin/options.php:690
+msgid "The call to action works for unlogged, logged users or both"
+msgstr ""
+
+#: admin/meta.php:2533 admin/options.php:691
+msgid "Choose the call to action works for for unlogged, logged users or both."
+msgstr ""
+
+#: admin/meta.php:2536 admin/meta.php:2635 admin/options.php:694
+#: admin/options.php:1035 admin/options.php:5024
+msgid "Unlogged users"
+msgstr ""
+
+#: admin/meta.php:2537 admin/meta.php:2636 admin/options.php:695
+#: admin/options.php:1036
+msgid "Logged users"
+msgstr ""
+
+#: admin/meta.php:2538 admin/meta.php:2637 admin/options.php:696
+#: admin/options.php:1037
+msgid "Both"
+msgstr ""
+
+#: admin/meta.php:2551 admin/meta.php:2783 admin/options.php:709
+#: admin/options.php:1183 admin/options.php:2573 admin/options.php:4006
+#: admin/options.php:4756 admin/widgets.php:387
+msgid "Open the page in same page or a new page?"
+msgstr ""
+
+#: admin/meta.php:2555 admin/meta.php:2787 admin/options.php:713
+#: admin/options.php:1187 admin/options.php:2577 admin/options.php:3946
+#: admin/options.php:3961 admin/options.php:3976 admin/options.php:4010
+#: admin/options.php:4760 admin/widgets.php:391
+msgid "Same page"
+msgstr ""
+
+#: admin/meta.php:2555 admin/meta.php:2787 admin/options.php:713
+#: admin/options.php:1187 admin/options.php:2577 admin/options.php:4010
+#: admin/options.php:4760 admin/widgets.php:391
+msgid "New page"
+msgstr ""
+
+#: admin/meta.php:2559 admin/meta.php:2790 admin/options.php:717
+#: admin/options.php:1190 admin/widgets.php:394
+msgid "Type the button link"
+msgstr ""
+
+#: admin/meta.php:2565 admin/meta.php:2795 admin/options.php:723
+#: admin/options.php:1195 admin/widgets.php:399
+msgid "Type the button text"
+msgstr ""
+
+#: admin/meta.php:2595 admin/options.php:301 admin/options.php:992
+msgid "Slider"
+msgstr ""
+
+#: admin/meta.php:2606 admin/meta.php:2648 admin/options.php:1048
+msgid "Custom slider"
+msgstr ""
+
+#: admin/meta.php:2618 admin/options.php:998
+msgid "Active the slider or not"
+msgstr ""
+
+#: admin/meta.php:2619 admin/options.php:782 admin/options.php:999
+msgid "Select ON to enable the posts area."
+msgstr ""
+
+#: admin/meta.php:2632 admin/options.php:1032
+msgid "Slider works for unlogged, logged users or both"
+msgstr ""
+
+#: admin/meta.php:2644 admin/options.php:1044
+msgid ""
+"Choose the slider works with theme or add your custom slide by put the code "
+"or shortcodes"
+msgstr ""
+
+#: admin/meta.php:2647 admin/options.php:1047
+msgid "Theme slider"
+msgstr ""
+
+#: admin/meta.php:2661 admin/options.php:1061
+msgid "Slider height"
+msgstr ""
+
+#: admin/meta.php:2674 admin/options.php:1074 admin/options.php:5402
+#: admin/options.php:5440 admin/options.php:5485
+msgid "Color"
+msgstr ""
+
+#: admin/meta.php:2694 admin/options.php:1094
+msgid "Align"
+msgstr ""
+
+#: admin/meta.php:2696 admin/options.php:1096
+msgid "Left"
+msgstr ""
+
+#: admin/meta.php:2697 admin/options.php:1097
+msgid "Center"
+msgstr ""
+
+#: admin/meta.php:2698 admin/options.php:1098
+msgid "Right"
+msgstr ""
+
+#: admin/meta.php:2705 admin/options.php:1105
+msgid "Login or Signup"
+msgstr ""
+
+#: admin/meta.php:2709 admin/options.php:1109 admin/options.php:1265
+msgid "Signup"
+msgstr ""
+
+#: admin/meta.php:2722 admin/options.php:1122
+msgid "Second title"
+msgstr ""
+
+#: admin/meta.php:2727 admin/options.php:1127
+msgid "Paragraph"
+msgstr ""
+
+#: admin/meta.php:2732 admin/options.php:1132
+msgid "Button or Block"
+msgstr ""
+
+#: admin/meta.php:2735 admin/options.php:1135
+msgid "button"
+msgstr ""
+
+#: admin/meta.php:2736 admin/meta.php:2743 admin/options.php:1136
+#: admin/options.php:1143
+msgid "Block"
+msgstr ""
+
+#: admin/meta.php:2745 admin/options.php:1145 includes/header-code.php:272
+#: includes/mobile-menu.php:50 includes/slider.php:99
+msgid "Search"
+msgstr ""
+
+#: admin/meta.php:2754 admin/options.php:1154 admin/widgets.php:371
+msgid "Button"
+msgstr ""
+
+#: admin/meta.php:2768 admin/options.php:1168
+msgid "Button style"
+msgstr ""
+
+#: admin/meta.php:2770 admin/options.php:1170 admin/options.php:3065
+#: admin/options.php:4150 admin/options.php:4243 admin/options.php:4336
+#: admin/widgets.php:819 admin/widgets.php:907 admin/widgets.php:915
+#: admin/widgets.php:1255 admin/widgets.php:1381
+msgid "Style 1"
+msgstr ""
+
+#: admin/meta.php:2771 admin/options.php:1171 admin/options.php:3066
+#: admin/options.php:4151 admin/options.php:4244 admin/options.php:4337
+#: admin/widgets.php:819 admin/widgets.php:907 admin/widgets.php:915
+#: admin/widgets.php:1255 admin/widgets.php:1381
+msgid "Style 2"
+msgstr ""
+
+#: admin/meta.php:2772 admin/options.php:1172
+msgid "Style 3"
+msgstr ""
+
+#: admin/meta.php:2809 admin/meta.php:3160 admin/options.php:1209
+msgid "Add new slide"
+msgstr ""
+
+#: admin/meta.php:2824 admin/options.php:1223
+msgid "Add your custom slide or shortcode"
+msgstr ""
+
+#: admin/meta.php:2846
+msgid "Pages Options"
+msgstr ""
+
+#: admin/meta.php:2858
+msgid "Active this page for unlogged users?"
+msgstr ""
+
+#: admin/meta.php:2859
+msgid "Select ON to active this page for unlogged users"
+msgstr ""
+
+#: admin/meta.php:2868 admin/options.php:6098
+msgid "Sidebar layout"
+msgstr ""
+
+#: admin/meta.php:2884
+msgid "Select your sidebar"
+msgstr ""
+
+#: admin/meta.php:2894
+msgid "Select your sidebar 2 if you active it for the left menu"
+msgstr ""
+
+#: admin/meta.php:2901
+msgid "Select a menu:"
+msgstr ""
+
+#: admin/meta.php:2903
+msgid "Select your menu"
+msgstr ""
+
+#: admin/meta.php:2912 admin/options.php:1926 admin/options.php:3170
+#: admin/options.php:5159 admin/options.php:6241 admin/terms.php:508
+msgid "Choose Your Skin"
+msgstr ""
+
+#: admin/meta.php:2930 admin/options.php:1944 admin/options.php:3188
+#: admin/options.php:5177 admin/options.php:6258 admin/terms.php:526
+msgid "Primary Color"
+msgstr ""
+
+#: admin/meta.php:2936 admin/options.php:1950 admin/options.php:3194
+#: admin/options.php:5183 admin/options.php:6264 admin/terms.php:531
+msgid "Background Type"
+msgstr ""
+
+#: admin/meta.php:2942 admin/options.php:1956 admin/options.php:3200
+#: admin/options.php:5102 admin/options.php:5189 admin/terms.php:161
+#: admin/terms.php:292 admin/terms.php:537
+msgid "Default"
+msgstr ""
+
+#: admin/meta.php:2944 admin/options.php:1958 admin/options.php:3202
+#: admin/options.php:5191 admin/options.php:6271 admin/terms.php:539
+msgid "Patterns"
+msgstr ""
+
+#: admin/meta.php:2945 admin/meta.php:2992 admin/options.php:1959
+#: admin/options.php:2006 admin/options.php:3203 admin/options.php:3250
+#: admin/options.php:5192 admin/options.php:5239 admin/options.php:6272
+#: admin/options.php:6319 admin/terms.php:540 admin/terms.php:588
+msgid "Custom Background"
+msgstr ""
+
+#: admin/meta.php:2950 admin/options.php:1964 admin/options.php:3208
+#: admin/options.php:5197 admin/options.php:6277 admin/terms.php:545
+msgid "Background Color"
+msgstr ""
+
+#: admin/meta.php:2957 admin/options.php:1971 admin/options.php:3215
+#: admin/options.php:5204 admin/options.php:6284 admin/terms.php:553
+msgid "Choose Pattern"
+msgstr ""
+
+#: admin/meta.php:3001 admin/options.php:2015 admin/options.php:3259
+#: admin/options.php:5248 admin/options.php:6328 admin/terms.php:597
+msgid "Full Screen Background"
+msgstr ""
+
+#: admin/meta.php:3002 admin/options.php:2016 admin/options.php:3260
+#: admin/options.php:5249 admin/options.php:6329 admin/terms.php:598
+msgid "Select ON to Full Screen Background"
+msgstr ""
+
+#: admin/meta.php:3016
+msgid "Post head Options"
+msgstr ""
+
+#: admin/meta.php:3029
+msgid "head post"
+msgstr ""
+
+#: admin/meta.php:3034
+msgid "Featured Image"
+msgstr ""
+
+#: admin/meta.php:3035
+msgid "Image With Lightbox"
+msgstr ""
+
+#: admin/meta.php:3036
+msgid "Google Map"
+msgstr ""
+
+#: admin/meta.php:3037
+msgid "Slideshow"
+msgstr ""
+
+#: admin/meta.php:3038 admin/options.php:5805 admin/widgets/video.php:34
+msgid "Video"
+msgstr ""
+
+#: admin/meta.php:3046 admin/options.php:6451 admin/widgets.php:558
+msgid "Soundcloud"
+msgstr ""
+
+#: admin/meta.php:3047
+msgid "Audio"
+msgstr ""
+
+#: admin/meta.php:3050
+msgid "Choose from here the post type"
+msgstr ""
+
+#: admin/meta.php:3061 admin/options.php:1691
+msgid "Featured image style"
+msgstr ""
+
+#: admin/meta.php:3062 admin/options.php:1692
+msgid "Featured image style from here."
+msgstr ""
+
+#: admin/meta.php:3069 admin/options.php:1699
+msgid "Custom size"
+msgstr ""
+
+#: admin/meta.php:3113
+msgid "Google map"
+msgstr ""
+
+#: admin/meta.php:3114
+msgid "Put your google map html"
+msgstr ""
+
+#: admin/meta.php:3123
+msgid "Audio URL MP3"
+msgstr ""
+
+#: admin/meta.php:3124
+msgid "Put your audio URL MP3"
+msgstr ""
+
+#: admin/meta.php:3131
+msgid "Slideshow ?"
+msgstr ""
+
+#: admin/meta.php:3135
+msgid "Custom Slideshow"
+msgstr ""
+
+#: admin/meta.php:3136 admin/meta.php:3166
+msgid "Upload your images"
+msgstr ""
+
+#: admin/meta.php:3151
+msgid "Slide Link"
+msgstr ""
+
+#: admin/meta.php:3186 admin/widgets.php:669
+msgid "Facebook video"
+msgstr ""
+
+#: admin/meta.php:3187
+msgid "HTML 5"
+msgstr ""
+
+#: admin/meta.php:3188 admin/meta.php:3195
+msgid "Custom embed"
+msgstr ""
+
+#: admin/meta.php:3191
+msgid "Choose from here the video type"
+msgstr ""
+
+#: admin/meta.php:3196
+msgid "Put your Custom embed html"
+msgstr ""
+
+#: admin/meta.php:3207 admin/widgets.php:675
+msgid ""
+"Put here the video id : https://www.youtube.com/watch?v=JuyB7NO0EYY Ex: "
+"\"JuyB7NO0EYY\""
+msgstr ""
+
+#: admin/meta.php:3214
+msgid "Video Image"
+msgstr ""
+
+#: admin/meta.php:3222
+msgid "Mp4 video"
+msgstr ""
+
+#: admin/meta.php:3224
+msgid "Put here the mp4 video"
+msgstr ""
+
+#: admin/meta.php:3230
+msgid "M4v video"
+msgstr ""
+
+#: admin/meta.php:3232
+msgid "Put here the m4v video"
+msgstr ""
+
+#: admin/meta.php:3238
+msgid "Webm video"
+msgstr ""
+
+#: admin/meta.php:3240
+msgid "Put here the webm video"
+msgstr ""
+
+#: admin/meta.php:3246
+msgid "Ogv video"
+msgstr ""
+
+#: admin/meta.php:3248
+msgid "Put here the ogv video"
+msgstr ""
+
+#: admin/meta.php:3254
+msgid "Wmv video"
+msgstr ""
+
+#: admin/meta.php:3256
+msgid "Put here the wmv video"
+msgstr ""
+
+#: admin/meta.php:3262
+msgid "Flv video"
+msgstr ""
+
+#: admin/meta.php:3264
+msgid "Put here the flv video"
+msgstr ""
+
+#: admin/meta.php:3397
+msgid "Soundcloud embed"
+msgstr ""
+
+#: admin/meta.php:3399
+msgid "Put here the soundcloud embed"
+msgstr ""
+
+#: admin/meta.php:3405
+msgid "Soundcloud height"
+msgstr ""
+
+#: admin/meta.php:3407
+msgid "Put here the soundcloud height"
+msgstr ""
+
+#: admin/meta.php:3531
+msgid "Custom page settings"
+msgstr ""
+
+#: admin/meta.php:3540
+msgid "Custom sections"
+msgstr ""
+
+#: admin/meta.php:3544
+msgid "Choose a custom sections"
+msgstr ""
+
+#: admin/meta.php:3557 admin/meta.php:3563 admin/options.php:1667
+#: theme-parts/content.php:217
+msgid "About the author"
+msgstr ""
+
+#: admin/meta.php:3564 admin/options.php:1668 theme-parts/content.php:218
+msgid "Next and Previous articles"
+msgstr ""
+
+#: admin/meta.php:3566 admin/options.php:1670 theme-parts/content.php:220
+msgid "Related articles"
+msgstr ""
+
+#: admin/meta.php:3572 admin/options.php:1675
+msgid "Sort your sections"
+msgstr ""
+
+#: admin/meta.php:3594
+msgid "Custom page setting"
+msgstr ""
+
+#: admin/meta.php:3598
+msgid "Choose a custom page setting"
+msgstr ""
+
+#: admin/meta.php:3610 admin/options.php:6126
+msgid "Sticky sidebar"
+msgstr ""
+
+#: admin/meta.php:3616 admin/options.php:6132
+msgid "Sidemenu (If active it)"
+msgstr ""
+
+#: admin/meta.php:3617 admin/options.php:6133
+msgid "Sidebar & Sidemenu (If active them)"
+msgstr ""
+
+#: admin/meta.php:3618 admin/options.php:6134
+msgid "Not active"
+msgstr ""
+
+#: admin/meta.php:3623 admin/options.php:299 admin/options.php:747
+#: admin/options.php:753
+msgid "Breadcrumbs"
+msgstr ""
+
+#: admin/meta.php:3624 admin/options.php:754
+msgid "Select ON to enable the breadcrumbs."
+msgstr ""
+
+#: admin/meta.php:3632
+msgid "Hide the featured image in the single page"
+msgstr ""
+
+#: admin/meta.php:3633
+msgid "Select ON to hide the featured image in the single page."
+msgstr ""
+
+#: admin/meta.php:3641
+msgid "Title enable or disable"
+msgstr ""
+
+#: admin/meta.php:3648
+msgid "Title style"
+msgstr ""
+
+#: admin/meta.php:3649
+msgid "Choose title style from here."
+msgstr ""
+
+#: admin/meta.php:3661
+msgid "Title icon"
+msgstr ""
+
+#: admin/meta.php:3662
+msgid "Type the title icon from here like \"icon-mail\"."
+msgstr ""
+
+#: admin/meta.php:3671 admin/options.php:3019
+msgid "Active the author image in single?"
+msgstr ""
+
+#: admin/meta.php:3672 admin/options.php:3020
+msgid "Author image in single enable or disable."
+msgstr ""
+
+#: admin/meta.php:3679 admin/options.php:3027
+msgid "Active the vote in single?"
+msgstr ""
+
+#: admin/meta.php:3680 admin/options.php:3028
+msgid "Vote in single enable or disable."
+msgstr ""
+
+#: admin/meta.php:3687 admin/options.php:3035
+msgid "Select ON to hide the dislike at questions single"
+msgstr ""
+
+#: admin/meta.php:3695 admin/options.php:3043
+msgid "Active close and open questions"
+msgstr ""
+
+#: admin/meta.php:3696 admin/options.php:3044
+msgid "Select ON if you want active close and open questions."
+msgstr ""
+
+#: admin/meta.php:3705 admin/options.php:1735
+msgid "Tags enable or disable"
+msgstr ""
+
+#: admin/meta.php:3726 functions.php:919
+msgid "Asked to"
+msgstr ""
+
+#: admin/meta.php:3751
+msgid "Category post"
+msgstr ""
+
+#: admin/meta.php:3771 admin/options.php:2723
+msgid "Active user can add the questions at favorite"
+msgstr ""
+
+#: admin/meta.php:3772 admin/options.php:2724
+msgid "Select ON if you want the user can add the questions at favorite."
+msgstr ""
+
+#: admin/meta.php:3779 admin/options.php:2731
+msgid "Active user can follow the questions"
+msgstr ""
+
+#: admin/meta.php:3780 admin/options.php:2732
+msgid "Select ON if you want the user can follow the questions."
+msgstr ""
+
+#: admin/meta.php:3798
+msgid "Navigation enable or disable"
+msgstr ""
+
+#: admin/meta.php:3799
+msgid "Navigation ( next and previous ) enable or disable."
+msgstr ""
+
+#: admin/meta.php:3806 admin/options.php:3087
+msgid "Navigation question for the same category only?"
+msgstr ""
+
+#: admin/meta.php:3807 admin/options.php:3088
+msgid ""
+"Navigation question (next and previous questions) for the same category only?"
+msgstr ""
+
+#: admin/meta.php:3815 admin/options.php:3096
+msgid "Answers enable or disable"
+msgstr ""
+
+#: admin/meta.php:3816
+msgid "Answers enable or disable."
+msgstr ""
+
+#: admin/meta.php:3825 admin/options.php:1742
+msgid "Navigation post for the same category only?"
+msgstr ""
+
+#: admin/meta.php:3826 admin/options.php:1743
+msgid "Navigation post (next and previous posts) for the same category only?"
+msgstr ""
+
+#: admin/meta.php:3849
+msgid "Related posts"
+msgstr ""
+
+#: admin/meta.php:3853 admin/options.php:1801
+msgid "Related style"
+msgstr ""
+
+#: admin/meta.php:3854
+msgid "Choose related style from here."
+msgstr ""
+
+#: admin/meta.php:3865 admin/options.php:1813
+msgid "Related posts number"
+msgstr ""
+
+#: admin/meta.php:3866
+msgid "Type related posts number from here"
+msgstr ""
+
+#: admin/meta.php:3873 admin/options.php:1839 admin/widgets.php:870
+#: admin/widgets.php:1650
+msgid "Query type"
+msgstr ""
+
+#: admin/meta.php:3874 admin/options.php:1840
+msgid "Select what the related posts will show."
+msgstr ""
+
+#: admin/meta.php:3878 admin/options.php:1844 admin/widgets.php:873
+msgid "Posts in the same categories"
+msgstr ""
+
+#: admin/meta.php:3879 admin/options.php:1845 admin/widgets.php:874
+msgid ""
+"Posts in the same tags (If not find any tags will show by the same "
+"categories)"
+msgstr ""
+
+#: admin/meta.php:3880 admin/options.php:1846 admin/widgets.php:875
+msgid "Posts by the same author"
+msgstr ""
+
+#: admin/meta.php:3886
+msgid "Excerpt title in related"
+msgstr ""
+
+#: admin/meta.php:3887
+msgid "Type excerpt title in related from here."
+msgstr ""
+
+#: admin/meta.php:3894 admin/options.php:1860
+msgid "Comment in related enable or disable"
+msgstr ""
+
+#: admin/meta.php:3902 admin/options.php:1868
+msgid "Date in related enable or disable"
+msgstr ""
+
+#: admin/meta.php:3967
+msgid "Advertising inner single page sections"
+msgstr ""
+
+#: admin/meta.php:4050
+msgid "Custom CSS code"
+msgstr ""
+
+#: admin/meta.php:4061
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/meta.php:4062
+msgid "Put the Custom CSS."
+msgstr ""
+
+#: admin/options.php:68 admin/options.php:2035 admin/options.php:2049
+msgid "General settings"
+msgstr ""
+
+#: admin/options.php:79
+msgid "Active the lightbox at the site"
+msgstr ""
+
+#: admin/options.php:80
+msgid "Select ON if you want to active the lightbox at the site."
+msgstr ""
+
+#: admin/options.php:87
+msgid "Active the go up button at the site"
+msgstr ""
+
+#: admin/options.php:88
+msgid "Select ON if you want to active the go up button at the site."
+msgstr ""
+
+#: admin/options.php:95
+msgid "Active the add question button at the site"
+msgstr ""
+
+#: admin/options.php:96
+msgid ""
+"Select ON if you want to active the add question button at the site beside "
+"go to up button."
+msgstr ""
+
+#: admin/options.php:102
+msgid "Active the font awesome at the site"
+msgstr ""
+
+#: admin/options.php:103
+msgid "Select ON if you want to active the font awesome at the site."
+msgstr ""
+
+#: admin/options.php:110
+msgid "Enable loader"
+msgstr ""
+
+#: admin/options.php:111
+msgid "Select ON to enable loader."
+msgstr ""
+
+#: admin/options.php:117
+#, php-format
+msgid "Type the date format %s see this link %s."
+msgstr ""
+
+#: admin/options.php:118
+msgid "Type here your date format."
+msgstr ""
+
+#: admin/options.php:125
+#, php-format
+msgid "Type the time format %s see this link %s."
+msgstr ""
+
+#: admin/options.php:126
+msgid "Type here your time format."
+msgstr ""
+
+#: admin/options.php:133
+msgid "Excerpt type "
+msgstr ""
+
+#: admin/options.php:134
+msgid "Choose form here the excerpt type."
+msgstr ""
+
+#: admin/options.php:139
+msgid "Words"
+msgstr ""
+
+#: admin/options.php:140
+msgid "Characters"
+msgstr ""
+
+#: admin/options.php:145
+msgid "Hide the top bar for WordPress"
+msgstr ""
+
+#: admin/options.php:146
+msgid "Select ON if you want to hide the top bar for WordPress."
+msgstr ""
+
+#: admin/options.php:156
+msgid ""
+"Choose the groups you need not allowed for they to see the wp admin top bar."
+msgstr ""
+
+#: admin/options.php:165
+msgid "Do you need to redirect unlogged from wp admin?"
+msgstr ""
+
+#: admin/options.php:166
+msgid ""
+"Select ON if you want to redirect the unlogged from the wp admin to the "
+"theme login page."
+msgstr ""
+
+#: admin/options.php:173
+msgid "Do you need to redirect user from wp admin?"
+msgstr ""
+
+#: admin/options.php:174
+msgid "Select ON if you want to redirect the user from the wp admin."
+msgstr ""
+
+#: admin/options.php:181
+msgid "Choose the groups you need not allowed for they to see the wp admin."
+msgstr ""
+
+#: admin/options.php:190
+msgid "Enable SEO options"
+msgstr ""
+
+#: admin/options.php:191
+msgid "Select ON to enable SEO options."
+msgstr ""
+
+#: admin/options.php:198
+msgid "Facebook share image"
+msgstr ""
+
+#: admin/options.php:199
+msgid "This is the Facebook share image"
+msgstr ""
+
+#: admin/options.php:205
+msgid "Head code"
+msgstr ""
+
+#: admin/options.php:206
+msgid "Past your Google analytics code in the box"
+msgstr ""
+
+#: admin/options.php:212
+msgid "Footer code"
+msgstr ""
+
+#: admin/options.php:213
+msgid "Paste footer code in the box"
+msgstr ""
+
+#: admin/options.php:219
+msgid "SEO keywords"
+msgstr ""
+
+#: admin/options.php:220
+msgid "Paste your keywords in the box"
+msgstr ""
+
+#: admin/options.php:226
+msgid "WordPress login logo"
+msgstr ""
+
+#: admin/options.php:227
+msgid "This is the logo that appears on the default WordPress login page"
+msgstr ""
+
+#: admin/options.php:234
+msgid "WordPress login logo height"
+msgstr ""
+
+#: admin/options.php:244
+msgid "WordPress login logo width"
+msgstr ""
+
+#: admin/options.php:255
+msgid "Custom favicon"
+msgstr ""
+
+#: admin/options.php:256
+msgid ""
+"Upload the site's favicon here , You can create new favicon here favicon.cc"
+msgstr ""
+
+#: admin/options.php:263
+msgid "Custom favicon for iPhone"
+msgstr ""
+
+#: admin/options.php:264
+msgid "Upload your custom iPhone favicon"
+msgstr ""
+
+#: admin/options.php:270
+msgid "Custom iPhone retina favicon"
+msgstr ""
+
+#: admin/options.php:271
+msgid "Upload your custom iPhone retina favicon"
+msgstr ""
+
+#: admin/options.php:277
+msgid "Custom favicon for iPad"
+msgstr ""
+
+#: admin/options.php:278
+msgid "Upload your custom iPad favicon"
+msgstr ""
+
+#: admin/options.php:284
+msgid "Custom iPad retina favicon"
+msgstr ""
+
+#: admin/options.php:285
+msgid "Upload your custom iPad retina favicon"
+msgstr ""
+
+#: admin/options.php:297 admin/options.php:314
+msgid "Header setting"
+msgstr ""
+
+#: admin/options.php:300 admin/options.php:775
+msgid "Posts at header or footer"
+msgstr ""
+
+#: admin/options.php:305
+msgid "Header settings"
+msgstr ""
+
+#: admin/options.php:320
+msgid "Header height"
+msgstr ""
+
+#: admin/options.php:321
+msgid "Choose the header height."
+msgstr ""
+
+#: admin/options.php:325
+msgid "Large"
+msgstr ""
+
+#: admin/options.php:329
+msgid "Header style"
+msgstr ""
+
+#: admin/options.php:330
+msgid "Choose the header style."
+msgstr ""
+
+#: admin/options.php:338
+msgid "Header skin"
+msgstr ""
+
+#: admin/options.php:339
+msgid "Choose the header skin."
+msgstr ""
+
+#: admin/options.php:347 admin/terms.php:85
+msgid "Logo display"
+msgstr ""
+
+#: admin/options.php:348
+msgid "Choose the logo display."
+msgstr ""
+
+#: admin/options.php:352 admin/terms.php:90
+msgid "Display site title"
+msgstr ""
+
+#: admin/options.php:356 admin/terms.php:94
+msgid "Logo upload"
+msgstr ""
+
+#: admin/options.php:357
+msgid "Upload your custom logo."
+msgstr ""
+
+#: admin/options.php:366 admin/terms.php:103
+msgid "Logo retina upload"
+msgstr ""
+
+#: admin/options.php:367 admin/terms.php:104
+msgid "Upload your custom logo retina."
+msgstr ""
+
+#: admin/options.php:397
+msgid "Header search option"
+msgstr ""
+
+#: admin/options.php:398
+msgid "Select ON to enable header search."
+msgstr ""
+
+#: admin/options.php:405
+msgid "Activate the search bigger?"
+msgstr ""
+
+#: admin/options.php:406
+msgid "Select ON to enable header search more bigger."
+msgstr ""
+
+#: admin/options.php:413
+msgid "Header user login"
+msgstr ""
+
+#: admin/options.php:414
+msgid "Select ON to enable header user login."
+msgstr ""
+
+#: admin/options.php:427
+msgid "Header user login style"
+msgstr ""
+
+#: admin/options.php:428
+msgid "choose Header user login style."
+msgstr ""
+
+#: admin/options.php:436 includes/header-code.php:162
+msgid "User Profile"
+msgstr "유저 프로필"
+
+#: admin/options.php:437 admin/options.php:3757 admin/options.php:4427
+#: includes/header-code.php:164
+msgid "Edit Profile"
+msgstr "프로필 수정"
+
+#: admin/options.php:438 includes/header-code.php:177
+msgid "Messages"
+msgstr "메시지"
+
+#: admin/options.php:443 includes/header-code.php:193
+msgid "Followed"
+msgstr ""
+
+#: admin/options.php:444 includes/header-code.php:195
+msgid "Favorites"
+msgstr ""
+
+#: admin/options.php:447 admin/options.php:3871 includes/header-code.php:210
+msgid "Followers Questions"
+msgstr ""
+
+#: admin/options.php:448 admin/options.php:3872 includes/header-code.php:212
+msgid "Followers Answers"
+msgstr ""
+
+#: admin/options.php:449 admin/options.php:3873 includes/header-code.php:214
+msgid "Followers Posts"
+msgstr ""
+
+#: admin/options.php:450 admin/options.php:3874 includes/header-code.php:216
+msgid "Followers Comments"
+msgstr ""
+
+#: admin/options.php:451 admin/options.php:3866 includes/header-code.php:208
+msgid "Paid Questions"
+msgstr ""
+
+#: admin/options.php:452 admin/options.php:3864 includes/header-code.php:166
+msgid "Asked Questions"
+msgstr "미완료 게시글"
+
+#: admin/options.php:455 includes/header-code.php:189
+msgid "Following"
+msgstr ""
+
+#: admin/options.php:456 admin/options.php:3855 admin/widgets/counter.php:40
+#: admin/widgets/counter.php:41 admin/widgets/counter.php:42
+#: admin/widgets/counter.php:44 admin/widgets/counter.php:45
+#: admin/widgets/counter.php:46 admin/widgets/counter.php:47
+#: admin/widgets/counter.php:48 admin/widgets/counter.php:49
+#: admin/widgets/counter.php:50 includes/header-code.php:191
+#: theme-parts/content-question.php:494
+msgid "Followers"
+msgstr "팔로우"
+
+#: admin/options.php:457
+msgid "activity Log"
+msgstr "활동내역"
+
+#: admin/options.php:458 includes/header-code.php:204
+msgid "Notifications"
+msgstr ""
+
+#: admin/options.php:459 comments.php:204 includes/header-code.php:181
+msgid "Logout"
+msgstr "로그아웃"
+
+#: admin/options.php:463
+msgid "Select the pages show at the login area"
+msgstr ""
+
+#: admin/options.php:485
+msgid "Header messages"
+msgstr ""
+
+#: admin/options.php:486
+msgid "Select ON to enable header messages."
+msgstr ""
+
+#: admin/options.php:499
+msgid "Header messages style"
+msgstr ""
+
+#: admin/options.php:500
+msgid "choose Header messages style."
+msgstr ""
+
+#: admin/options.php:508
+msgid "Header messages number"
+msgstr ""
+
+#: admin/options.php:509
+msgid "Put the header messages number."
+msgstr ""
+
+#: admin/options.php:528
+msgid "Header notifications"
+msgstr ""
+
+#: admin/options.php:529
+msgid "Select ON to enable header notifications."
+msgstr ""
+
+#: admin/options.php:542
+msgid "Header notifications style"
+msgstr ""
+
+#: admin/options.php:543
+msgid "choose Header notifications style."
+msgstr ""
+
+#: admin/options.php:551
+msgid "Header notifications number"
+msgstr ""
+
+#: admin/options.php:552
+msgid "Put the header notifications number."
+msgstr ""
+
+#: admin/options.php:565
+msgid "Fixed header option"
+msgstr ""
+
+#: admin/options.php:566
+msgid "Select ON to enable fixed header."
+msgstr ""
+
+#: admin/options.php:597
+msgid ""
+"The call to action works at all the pages, custom pages, or home page only?"
+msgstr ""
+
+#: admin/options.php:600 admin/options.php:808 admin/options.php:1015
+msgid "Home page"
+msgstr ""
+
+#: admin/options.php:601 admin/options.php:809 admin/options.php:1016
+msgid "All pages"
+msgstr ""
+
+#: admin/options.php:602 admin/options.php:810 admin/options.php:1017
+msgid "Custom pages"
+msgstr ""
+
+#: admin/options.php:609 admin/options.php:817 admin/options.php:1024
+msgid "Page ids"
+msgstr ""
+
+#: admin/options.php:610 admin/options.php:818 admin/options.php:1025
+msgid "Type from here the page ids"
+msgstr ""
+
+#: admin/options.php:761
+msgid "Breadcrumbs separator"
+msgstr ""
+
+#: admin/options.php:762
+msgid "Add your breadcrumbs separator."
+msgstr ""
+
+#: admin/options.php:781
+msgid "Active the posts area or not"
+msgstr ""
+
+#: admin/options.php:794
+msgid "The posts area works after header or before footer?"
+msgstr ""
+
+#: admin/options.php:797
+msgid "After header"
+msgstr ""
+
+#: admin/options.php:798
+msgid "Before footer"
+msgstr ""
+
+#: admin/options.php:805
+msgid "The posts area works at all the pages, custom pages, or home page only?"
+msgstr ""
+
+#: admin/options.php:825
+msgid "The title"
+msgstr ""
+
+#: admin/options.php:826
+msgid "Type from here the title"
+msgstr ""
+
+#: admin/options.php:833 admin/widgets.php:1004
+msgid "Active the more post button"
+msgstr ""
+
+#: admin/options.php:834 admin/widgets.php:1005
+msgid "Select ON to enable the button."
+msgstr ""
+
+#: admin/options.php:847 admin/widgets.php:1016
+msgid "The text for the button"
+msgstr ""
+
+#: admin/options.php:848 admin/widgets.php:1017
+msgid "Type from here the text for the button"
+msgstr ""
+
+#: admin/options.php:855 admin/widgets.php:1023
+msgid "Blog page"
+msgstr ""
+
+#: admin/options.php:856 admin/widgets.php:1024
+msgid "Select the blog page"
+msgstr ""
+
+#: admin/options.php:863 admin/widgets.php:1030
+msgid "Type the blog link if you don't like a page"
+msgstr ""
+
+#: admin/options.php:1012
+msgid "Slider works at all the pages, custom pages, or home page only?"
+msgstr ""
+
+#: admin/options.php:1241
+msgid "Mobile setting"
+msgstr ""
+
+#: admin/options.php:1252
+msgid "Stop fixed header in mobile"
+msgstr ""
+
+#: admin/options.php:1253
+msgid "Select ON to stop fixed header in mobile."
+msgstr ""
+
+#: admin/options.php:1260
+msgid "Button at mobile for the unlogged case"
+msgstr ""
+
+#: admin/options.php:1261
+msgid ""
+"Choose button type at the mobile display for the unlogged case from here."
+msgstr ""
+
+#: admin/options.php:1272
+msgid "Choose the mobile menu skin"
+msgstr ""
+
+#: admin/options.php:1284
+msgid "Mobile bar enable or disable?"
+msgstr ""
+
+#: admin/options.php:1285
+msgid "Select ON to enable the mobile bar."
+msgstr ""
+
+#: admin/options.php:1292
+msgid "Active a custom mobile menu or not?"
+msgstr ""
+
+#: admin/options.php:1293
+msgid "Select ON to enable the custom mobile menu."
+msgstr ""
+
+#: admin/options.php:1299
+msgid ""
+"Choose from here what's menu will show at mobile menu for unlogged users."
+msgstr ""
+
+#: admin/options.php:1307
+msgid "Choose from here what's menu will show at mobile menu for logged users."
+msgstr ""
+
+#: admin/options.php:1320
+msgid "Posts settings"
+msgstr ""
+
+#: admin/options.php:1326 admin/options.php:1339
+msgid "Posts & Loop setting"
+msgstr ""
+
+#: admin/options.php:1327 admin/options.php:2037
+msgid "Add - Edit - Delete"
+msgstr ""
+
+#: admin/options.php:1328 admin/options.php:1628
+msgid "Post meta setting"
+msgstr ""
+
+#: admin/options.php:1329 admin/options.php:1663
+msgid "Inner pages setting"
+msgstr ""
+
+#: admin/options.php:1330 admin/options.php:1756 admin/options.php:2041
+#: admin/options.php:3109
+msgid "Share setting"
+msgstr ""
+
+#: admin/options.php:1331 admin/options.php:1783
+msgid "Related setting"
+msgstr ""
+
+#: admin/options.php:1332
+msgid "Posts layouts"
+msgstr ""
+
+#: admin/options.php:1356 admin/options.php:2076
+msgid "Category description enable or disable"
+msgstr ""
+
+#: admin/options.php:1357 admin/options.php:2077
+msgid "Select ON to enable the category description in the category page."
+msgstr ""
+
+#: admin/options.php:1364 admin/options.php:2084
+msgid "Category rss enable or disable"
+msgstr ""
+
+#: admin/options.php:1365 admin/options.php:2085
+msgid "Select ON to enable the category rss in the category page."
+msgstr ""
+
+#: admin/options.php:1373 admin/options.php:2093
+msgid "Tag description enable or disable"
+msgstr ""
+
+#: admin/options.php:1374 admin/options.php:2094
+msgid "Select ON to enable the tag description in the tag page."
+msgstr ""
+
+#: admin/options.php:1381 admin/options.php:2101
+msgid "Tag rss enable or disable"
+msgstr ""
+
+#: admin/options.php:1382 admin/options.php:2102
+msgid "Select ON to enable the tag rss in the tag page."
+msgstr ""
+
+#: admin/options.php:1448
+msgid "Add, edit and delete post"
+msgstr ""
+
+#: admin/options.php:1452
+msgid "Add posts"
+msgstr ""
+
+#: admin/options.php:1457
+msgid "Add post slug"
+msgstr ""
+
+#: admin/options.php:1458
+msgid "Put the add post slug."
+msgstr ""
+
+#: admin/options.php:1465
+msgid "The Link For The Add Post Page."
+msgstr ""
+
+#: admin/options.php:1474
+msgid "Active the add post with popup"
+msgstr ""
+
+#: admin/options.php:1475
+msgid "Add post with popup enable or disable."
+msgstr ""
+
+#: admin/options.php:1481
+msgid "Any one can add post without register"
+msgstr ""
+
+#: admin/options.php:1482
+msgid "Any one can add post without register enable or disable."
+msgstr ""
+
+#: admin/options.php:1488
+msgid "Choose post status for users only"
+msgstr ""
+
+#: admin/options.php:1489
+msgid "Choose post status after user publish the post."
+msgstr ""
+
+#: admin/options.php:1491 admin/options.php:1500 admin/options.php:2385
+#: admin/options.php:2394 admin/options.php:5657
+msgid "Publish"
+msgstr ""
+
+#: admin/options.php:1491 admin/options.php:1500 admin/options.php:2183
+#: admin/options.php:2385 admin/options.php:2394 admin/options.php:5657
+msgid "Draft"
+msgstr ""
+
+#: admin/options.php:1497
+msgid "Choose post status for unlogged user only"
+msgstr ""
+
+#: admin/options.php:1498
+msgid "Choose post status after unlogged user publish the post."
+msgstr ""
+
+#: admin/options.php:1507
+msgid "Send email when the post need a review"
+msgstr ""
+
+#: admin/options.php:1508
+msgid "Email for posts review enable or disable."
+msgstr ""
+
+#: admin/options.php:1517
+msgid "Approved auto for the users have a previously approved posts."
+msgstr ""
+
+#: admin/options.php:1524
+msgid "Tags enable or disable in add post form"
+msgstr ""
+
+#: admin/options.php:1525
+msgid "Select ON to enable the tags in add post form."
+msgstr ""
+
+#: admin/options.php:1532
+msgid "Attachment in add post form"
+msgstr ""
+
+#: admin/options.php:1533
+msgid "Select ON to enable the attachment in add post form."
+msgstr ""
+
+#: admin/options.php:1540
+msgid "Details in add post form is required"
+msgstr ""
+
+#: admin/options.php:1547
+msgid "Editor enable or disable for details in add post form"
+msgstr ""
+
+#: admin/options.php:1553
+msgid "Edit posts"
+msgstr ""
+
+#: admin/options.php:1558
+msgid "The users can edit the posts?"
+msgstr ""
+
+#: admin/options.php:1570
+msgid "Edit post slug"
+msgstr ""
+
+#: admin/options.php:1571
+msgid "Put the edit post slug."
+msgstr ""
+
+#: admin/options.php:1578
+msgid "After edit post approved auto or need to approved again?"
+msgstr ""
+
+#: admin/options.php:1579 admin/options.php:2630 admin/options.php:5700
+msgid "Press ON to approved auto"
+msgstr ""
+
+#: admin/options.php:1585
+msgid "After edit post change the URL like the title?"
+msgstr ""
+
+#: admin/options.php:1586 admin/options.php:2637
+msgid "Press ON to edit the URL"
+msgstr ""
+
+#: admin/options.php:1599
+msgid "Delete posts"
+msgstr ""
+
+#: admin/options.php:1604
+msgid "Active user can delete the posts"
+msgstr ""
+
+#: admin/options.php:1605
+msgid "Select ON if you want the user can delete the posts."
+msgstr ""
+
+#: admin/options.php:1611
+msgid "When the users delete the post went to the trash or delete it ever?"
+msgstr ""
+
+#: admin/options.php:1615 admin/options.php:2183 admin/options.php:2668
+#: admin/options.php:5727
+msgid "Trash"
+msgstr ""
+
+#: admin/options.php:1684
+msgid "Hide the featured image in the single post"
+msgstr ""
+
+#: admin/options.php:1685
+msgid "Select ON to hide the featured image in the single post."
+msgstr ""
+
+#: admin/options.php:1772
+msgid "The share setting works at the 1 columns and list style only."
+msgstr ""
+
+#: admin/options.php:1789
+msgid "Active it first from Inner pages setting."
+msgstr ""
+
+#: admin/options.php:1802
+msgid "Type related style from here."
+msgstr ""
+
+#: admin/options.php:1814
+msgid "Type related posts number from here."
+msgstr ""
+
+#: admin/options.php:1821
+msgid "Related posts number at sidebar"
+msgstr ""
+
+#: admin/options.php:1822
+msgid "Type related posts number at sidebar from here."
+msgstr ""
+
+#: admin/options.php:1830
+msgid "Related posts number at full width"
+msgstr ""
+
+#: admin/options.php:1831
+msgid "Type related posts number at full width from here."
+msgstr ""
+
+#: admin/options.php:1852
+msgid "Excerpt title in related posts"
+msgstr ""
+
+#: admin/options.php:1853
+msgid "Type excerpt title in related posts from here."
+msgstr ""
+
+#: admin/options.php:1887
+msgid "Archive, categories, tags and inner post"
+msgstr ""
+
+#: admin/options.php:1893
+msgid "Post sidebar layout"
+msgstr ""
+
+#: admin/options.php:1909
+msgid "Post Page sidebar"
+msgstr ""
+
+#: admin/options.php:1917
+msgid "Post Page sidebar 2"
+msgstr ""
+
+#: admin/options.php:2036 admin/options.php:2277
+msgid "Question slugs"
+msgstr ""
+
+#: admin/options.php:2038 admin/options.php:2681
+msgid "Question meta setting"
+msgstr ""
+
+#: admin/options.php:2039 admin/options.php:2753
+msgid "Questions & Loop settings"
+msgstr ""
+
+#: admin/options.php:2040 admin/options.php:2990
+msgid "Inner question"
+msgstr ""
+
+#: admin/options.php:2042 admin/options.php:3129
+msgid "Questions layout"
+msgstr ""
+
+#: admin/options.php:2053
+msgid "Select ON if you need to choose the question at simple layout"
+msgstr ""
+
+#: admin/options.php:2059
+msgid "Ajax file load from admin or theme"
+msgstr ""
+
+#: admin/options.php:2060
+msgid "choose ajax file load from admin or theme."
+msgstr ""
+
+#: admin/options.php:2064
+msgid "Admin"
+msgstr ""
+
+#: admin/options.php:2064
+msgid "Theme"
+msgstr ""
+
+#: admin/options.php:2068
+msgid "Show filter at categories and archive pages"
+msgstr ""
+
+#: admin/options.php:2069
+msgid "Select ON to enable the filter at categories and archive pages."
+msgstr ""
+
+#: admin/options.php:2110
+msgid "Active the best answer for the normal users in site?"
+msgstr ""
+
+#: admin/options.php:2111
+msgid "The best answer enable or disable."
+msgstr ""
+
+#: admin/options.php:2118
+msgid "Active the points system in site?"
+msgstr ""
+
+#: admin/options.php:2119
+msgid "The points system enable or disable."
+msgstr ""
+
+#: admin/options.php:2126
+msgid ""
+"When delete the question or answer have a best answer remove it from the "
+"stats and user point?"
+msgstr ""
+
+#: admin/options.php:2127
+msgid "Select ON if you want to remove the best answer from the user point."
+msgstr ""
+
+#: admin/options.php:2133
+msgid "Active the question bump"
+msgstr ""
+
+#: admin/options.php:2134
+msgid "Select ON if you want the question bump."
+msgstr ""
+
+#: admin/options.php:2141
+msgid "Active the reports in site?"
+msgstr ""
+
+#: admin/options.php:2142
+msgid "Active the reports enable or disable."
+msgstr ""
+
+#: admin/options.php:2155
+msgid "Active the reports in site for the logged users only?"
+msgstr ""
+
+#: admin/options.php:2156
+msgid "Active the reports in site for the logged users only enable or disable."
+msgstr ""
+
+#: admin/options.php:2169
+msgid ""
+"Active the users have such points can move the question or answer to trash "
+"or draft by reporting."
+msgstr ""
+
+#: admin/options.php:2181
+msgid "Move the question or answer to trash or draft when report it."
+msgstr ""
+
+#: admin/options.php:2188
+msgid ""
+"Add the points to allowe the users have them to move the question or answer "
+"to trash or draft when report it."
+msgstr ""
+
+#: admin/options.php:2194
+msgid ""
+"Add minimum of the points if anyone have them, their questions or answers "
+"will not move to trash or draft."
+msgstr ""
+
+#: admin/options.php:2200
+msgid "Whitelist questions."
+msgstr ""
+
+#: admin/options.php:2201
+msgid ""
+"Add here the whitelist question, Any questions here will not move to trash "
+"or draft."
+msgstr ""
+
+#: admin/options.php:2207
+msgid "Whitelist answers."
+msgstr ""
+
+#: admin/options.php:2208
+msgid ""
+"Add here the whitelist answers, Any answers here will not move to trash or "
+"draft."
+msgstr ""
+
+#: admin/options.php:2232
+msgid "Active the vote in the site?"
+msgstr ""
+
+#: admin/options.php:2233
+msgid "The vote for questions and answers in the site is enable or disable."
+msgstr ""
+
+#: admin/options.php:2240
+msgid "Active the vote in the site for the unlogged users?"
+msgstr ""
+
+#: admin/options.php:2241
+msgid ""
+"The vote for questions and answers in the site for the unlogged users is "
+"enable or disable."
+msgstr ""
+
+#: admin/options.php:2249
+msgid "Active the pop up at the author image in site?"
+msgstr ""
+
+#: admin/options.php:2250
+msgid "Pop up at the author image in site enable or disable."
+msgstr ""
+
+#: admin/options.php:2257
+msgid "Active the separator for the numbers at the site?"
+msgstr ""
+
+#: admin/options.php:2263
+msgid "Number separator"
+msgstr ""
+
+#: admin/options.php:2264
+msgid "Add your number separator."
+msgstr ""
+
+#: admin/options.php:2283
+msgid "Questions archive slug"
+msgstr ""
+
+#: admin/options.php:2284
+msgid "Add your questions archive slug."
+msgstr ""
+
+#: admin/options.php:2291
+msgid "Question slug"
+msgstr ""
+
+#: admin/options.php:2292
+msgid "Add your question slug."
+msgstr ""
+
+#: admin/options.php:2299
+msgid ""
+"Click ON, if you need to remove the question slug and put / in the questions "
+"slug."
+msgstr ""
+
+#: admin/options.php:2305
+msgid "Question category slug"
+msgstr ""
+
+#: admin/options.php:2306
+msgid "Add your question category slug."
+msgstr ""
+
+#: admin/options.php:2313
+msgid "Question tag slug"
+msgstr ""
+
+#: admin/options.php:2314
+msgid "Add your question tag slug."
+msgstr ""
+
+#: admin/options.php:2328
+msgid "Add, edit and delete question"
+msgstr ""
+
+#: admin/options.php:2332
+msgid "Any one can ask question without register"
+msgstr ""
+
+#: admin/options.php:2333
+msgid "Any one can ask question without register enable or disable."
+msgstr ""
+
+#: admin/options.php:2339
+msgid "Charge points for questions settings"
+msgstr ""
+
+#: admin/options.php:2340
+msgid "Select ON if you want to charge points from users for asking questions."
+msgstr ""
+
+#: admin/options.php:2352
+msgid "Charge points for questions"
+msgstr ""
+
+#: admin/options.php:2353
+msgid ""
+"How many points should be taken from the user's account for asking questions."
+msgstr ""
+
+#: admin/options.php:2360
+msgid "Point back to the user when he select the best answer"
+msgstr ""
+
+#: admin/options.php:2361
+msgid "Point back to the user when he select the best answer."
+msgstr ""
+
+#: admin/options.php:2367
+msgid "Or type here the point want back"
+msgstr ""
+
+#: admin/options.php:2368
+msgid "Or type here the point want back, type 0 to back all the point."
+msgstr ""
+
+#: admin/options.php:2382
+msgid "Choose question status for users only"
+msgstr ""
+
+#: admin/options.php:2383
+msgid "Choose question status after user publish the question."
+msgstr ""
+
+#: admin/options.php:2391
+msgid "Choose question status for unlogged user only"
+msgstr ""
+
+#: admin/options.php:2392
+msgid "Choose question status after unlogged user publish the question."
+msgstr ""
+
+#: admin/options.php:2401
+msgid "Send email when the question need a review"
+msgstr ""
+
+#: admin/options.php:2402
+msgid "Email for questions review enable or disable."
+msgstr ""
+
+#: admin/options.php:2411
+msgid "Approved auto for the users have a previously approved questions."
+msgstr ""
+
+#: admin/options.php:2418
+msgid "Send email for the user to notification a new question"
+msgstr ""
+
+#: admin/options.php:2419
+msgid "Send email enable or disable."
+msgstr ""
+
+#: admin/options.php:2425
+msgid "Send email for custom groups to notification a new question"
+msgstr ""
+
+#: admin/options.php:2434
+msgid "Add questions"
+msgstr ""
+
+#: admin/options.php:2439
+msgid "Add question slug"
+msgstr ""
+
+#: admin/options.php:2440
+msgid "Put the add question slug."
+msgstr ""
+
+#: admin/options.php:2448
+msgid "The Link For The Add Question Page."
+msgstr ""
+
+#: admin/options.php:2457
+msgid "Question Categories"
+msgstr ""
+
+#: admin/options.php:2458
+msgid "Question Tags"
+msgstr ""
+
+#: admin/options.php:2459
+msgid "Question Poll"
+msgstr ""
+
+#: admin/options.php:2460
+msgid "Question Attachment"
+msgstr ""
+
+#: admin/options.php:2461 admin/options.php:5879
+msgid "Featured image"
+msgstr ""
+
+#: admin/options.php:2462 admin/options.php:4707
+msgid "Question content"
+msgstr ""
+
+#: admin/options.php:2463 admin/options.php:4708
+msgid "Ask Anonymously"
+msgstr ""
+
+#: admin/options.php:2464
+msgid "Video Description"
+msgstr ""
+
+#: admin/options.php:2465 admin/options.php:4709
+msgid "Private Question"
+msgstr ""
+
+#: admin/options.php:2466 admin/options.php:4710
+msgid "Remember Answer"
+msgstr ""
+
+#: admin/options.php:2467 admin/options.php:4711
+msgid "Terms Active"
+msgstr ""
+
+#: admin/options.php:2474
+msgid "Select what's show at ask question form"
+msgstr ""
+
+#: admin/options.php:2483
+msgid "Category at ask question form single, multi or ajax"
+msgstr ""
+
+#: admin/options.php:2484
+msgid "Choose category is show at ask question form single, multi or ajax"
+msgstr ""
+
+#: admin/options.php:2504
+msgid "Active image in the poll"
+msgstr ""
+
+#: admin/options.php:2516
+msgid "Active the title in the poll images"
+msgstr ""
+
+#: admin/options.php:2522
+msgid "Make the title in the poll images required"
+msgstr ""
+
+#: admin/options.php:2547 admin/options.php:4730
+msgid "Details in ask question form is required"
+msgstr ""
+
+#: admin/options.php:2554 admin/options.php:4737
+msgid "Editor enable or disable for details in add question form"
+msgstr ""
+
+#: admin/options.php:2581 admin/options.php:4014 admin/options.php:4764
+msgid "Terms page"
+msgstr ""
+
+#: admin/options.php:2582 admin/options.php:4015 admin/options.php:4765
+msgid "Select the terms page"
+msgstr ""
+
+#: admin/options.php:2589 admin/options.php:4022 admin/options.php:4772
+msgid "Type the terms link if you don't like a page"
+msgstr ""
+
+#: admin/options.php:2602
+msgid "Edit questions"
+msgstr ""
+
+#: admin/options.php:2607
+msgid "Active user can edit the questions"
+msgstr ""
+
+#: admin/options.php:2608
+msgid "Select ON if you want the user can edit the questions."
+msgstr ""
+
+#: admin/options.php:2621
+msgid "Edit question slug"
+msgstr ""
+
+#: admin/options.php:2622
+msgid "Put the edit question slug."
+msgstr ""
+
+#: admin/options.php:2629
+msgid "After edit question approved auto or need to approved again?"
+msgstr ""
+
+#: admin/options.php:2636
+msgid "After edit question change the URL like the title?"
+msgstr ""
+
+#: admin/options.php:2651
+msgid "Delete questions"
+msgstr ""
+
+#: admin/options.php:2656
+msgid "Active user can delete the questions"
+msgstr ""
+
+#: admin/options.php:2657
+msgid "Select ON if you want the user can delete the questions."
+msgstr ""
+
+#: admin/options.php:2664
+msgid "When the users delete the question went to the trash or delete it ever?"
+msgstr ""
+
+#: admin/options.php:2687
+msgid "Select ON if you want to activate the vote with meta."
+msgstr ""
+
+#: admin/options.php:2693
+msgid "Select ON if you want icons only at the question meta."
+msgstr ""
+
+#: admin/options.php:2714
+msgid "Asked to meta"
+msgstr ""
+
+#: admin/options.php:2757
+msgid "Columns in the archive, taxonomy and tags pages"
+msgstr ""
+
+#: admin/options.php:2830
+msgid "Video description settings at the question loop"
+msgstr ""
+
+#: admin/options.php:2831
+msgid "Select ON if you want to let users to add video with their question."
+msgstr ""
+
+#: admin/options.php:2843
+msgid "Video description position at the question loop"
+msgstr ""
+
+#: admin/options.php:2844 admin/options.php:3004 admin/options.php:5824
+msgid "Choose the video description position."
+msgstr ""
+
+#: admin/options.php:2852 admin/options.php:5832
+msgid "Set the video description with 100%?"
+msgstr ""
+
+#: admin/options.php:2853 admin/options.php:5833
+msgid "Select ON if you want to set the video description 100%."
+msgstr ""
+
+#: admin/options.php:2860
+msgid "Set the width for the video description for the questions"
+msgstr ""
+
+#: admin/options.php:2871
+msgid "Set the height for the video description for the questions"
+msgstr ""
+
+#: admin/options.php:2887
+msgid "Click ON to show featured image in the questions"
+msgstr ""
+
+#: admin/options.php:2900
+msgid "Select ON to enable the lightbox for featured image"
+msgstr ""
+
+#: admin/options.php:2907
+msgid "Set the width for the featured image for the questions"
+msgstr ""
+
+#: admin/options.php:2917
+msgid "Set the height for the featured image for the questions"
+msgstr ""
+
+#: admin/options.php:2927 admin/options.php:5942
+msgid "Featured image position"
+msgstr ""
+
+#: admin/options.php:2928 admin/options.php:5943
+msgid "Choose the featured image position."
+msgstr ""
+
+#: admin/options.php:2996
+msgid "Active poll for user only?"
+msgstr ""
+
+#: admin/options.php:2997
+msgid "Select ON if you want the poll allow to users only."
+msgstr ""
+
+#: admin/options.php:3003
+msgid "video description position"
+msgstr ""
+
+#: admin/options.php:3006
+msgid "Before content"
+msgstr ""
+
+#: admin/options.php:3006
+msgid "After content"
+msgstr ""
+
+#: admin/options.php:3012
+msgid "Click ON to show featured image in the single question"
+msgstr ""
+
+#: admin/options.php:3051
+msgid "Active close and open questions for the admin only"
+msgstr ""
+
+#: admin/options.php:3052
+msgid ""
+"Select ON if you want active close and open questions for the admin only."
+msgstr ""
+
+#: admin/options.php:3058
+msgid "Share style at the inner question page."
+msgstr ""
+
+#: admin/options.php:3071
+msgid "Tags at single question enable or disable"
+msgstr ""
+
+#: admin/options.php:3072
+msgid "Select ON if you want active tags at single question."
+msgstr ""
+
+#: admin/options.php:3079
+msgid "Navigation question enable or disable"
+msgstr ""
+
+#: admin/options.php:3080
+msgid "Navigation question (next and previous questions) enable or disable."
+msgstr ""
+
+#: admin/options.php:3097
+msgid "Select ON if you want active the answers."
+msgstr ""
+
+#: admin/options.php:3135
+msgid "Question sidebar layout"
+msgstr ""
+
+#: admin/options.php:3151
+msgid "Question Page sidebar"
+msgstr ""
+
+#: admin/options.php:3160
+msgid "Question Page sidebar 2"
+msgstr ""
+
+#: admin/options.php:3272 admin/options.php:3280 admin/options.php:3291
+msgid "Payment setting"
+msgstr ""
+
+#: admin/options.php:3273 admin/options.php:3337 admin/options.php:3343
+msgid "Buy points"
+msgstr ""
+
+#: admin/options.php:3274 admin/options.php:3416
+msgid "Pay to ask"
+msgstr ""
+
+#: admin/options.php:3275 admin/options.php:3484
+msgid "Pay to sticky question"
+msgstr ""
+
+#: admin/options.php:3276 admin/options.php:3556
+msgid "Coupons setting"
+msgstr ""
+
+#: admin/options.php:3295
+msgid "Enable PayPal sandbox"
+msgstr ""
+
+#: admin/options.php:3296
+msgid "PayPal sandbox can be used to test payments."
+msgstr ""
+
+#: admin/options.php:3302
+msgid "Currency code"
+msgstr ""
+
+#: admin/options.php:3303
+msgid "Choose form here the currency code."
+msgstr ""
+
+#: admin/options.php:3317
+msgid "PayPal email"
+msgstr ""
+
+#: admin/options.php:3318
+msgid "put your PayPal email"
+msgstr ""
+
+#: admin/options.php:3325
+msgid "PayPal Identity Token"
+msgstr ""
+
+#: admin/options.php:3326
+msgid "Add your PayPal Identity Token"
+msgstr ""
+
+#: admin/options.php:3344
+msgid "Select ON to active buy points."
+msgstr ""
+
+#: admin/options.php:3356
+msgid "Buy points slug"
+msgstr ""
+
+#: admin/options.php:3357
+msgid "Put the buy points slug."
+msgstr ""
+
+#: admin/options.php:3364
+msgid "The Link For The Buy Points Page."
+msgstr ""
+
+#: admin/options.php:3376
+msgid "Package name"
+msgstr ""
+
+#: admin/options.php:3386
+msgid "Price"
+msgstr ""
+
+#: admin/options.php:3391
+msgid "Package description"
+msgstr ""
+
+#: admin/options.php:3400
+msgid "Add new package"
+msgstr ""
+
+#: admin/options.php:3422
+msgid "Pay to ask question"
+msgstr ""
+
+#: admin/options.php:3423
+msgid "Select ON to active the pay to ask question."
+msgstr ""
+
+#: admin/options.php:3435 admin/options.php:3503
+msgid "Payment type"
+msgstr ""
+
+#: admin/options.php:3436
+msgid "Choose the payment type for the ask question"
+msgstr ""
+
+#: admin/options.php:3442 admin/options.php:3510
+msgid "By PayPal"
+msgstr ""
+
+#: admin/options.php:3443 admin/options.php:3511 admin/options.php:5383
+msgid "By points"
+msgstr ""
+
+#: admin/options.php:3448
+msgid "Choose the groups add a question without pay."
+msgstr ""
+
+#: admin/options.php:3455
+msgid "What's price to ask a new question?"
+msgstr ""
+
+#: admin/options.php:3456
+msgid "Type here price of the payment to ask a new question"
+msgstr ""
+
+#: admin/options.php:3464
+msgid "What's points to ask a new question?"
+msgstr ""
+
+#: admin/options.php:3465
+msgid "Type here points of the payment to ask a new question"
+msgstr ""
+
+#: admin/options.php:3490
+msgid "Pay to sticky question at the top"
+msgstr ""
+
+#: admin/options.php:3491
+msgid "Select ON to active the pay to sticky question."
+msgstr ""
+
+#: admin/options.php:3504
+msgid "Choose the payment type sticky the question"
+msgstr ""
+
+#: admin/options.php:3516
+msgid "What's price to sticky the question?"
+msgstr ""
+
+#: admin/options.php:3517
+msgid "Type here price of the payment to sticky the question."
+msgstr ""
+
+#: admin/options.php:3525
+msgid "What's points to sticky the question?"
+msgstr ""
+
+#: admin/options.php:3526
+msgid "Type here points of the payment to sticky the question"
+msgstr ""
+
+#: admin/options.php:3534
+msgid "What's days to sticky the question?"
+msgstr ""
+
+#: admin/options.php:3535
+msgid "Type here days of the payment to sticky the question."
+msgstr ""
+
+#: admin/options.php:3562
+msgid "Active the Coupons"
+msgstr ""
+
+#: admin/options.php:3563
+msgid "Select ON to active the coupons."
+msgstr ""
+
+#: admin/options.php:3576
+msgid "Show the free coupons when make any payment?"
+msgstr ""
+
+#: admin/options.php:3577
+msgid "Select ON to show the free coupons."
+msgstr ""
+
+#: admin/options.php:3586
+msgid "Coupons name"
+msgstr ""
+
+#: admin/options.php:3591
+msgid "Discount type"
+msgstr ""
+
+#: admin/options.php:3592
+msgid "Discount"
+msgstr ""
+
+#: admin/options.php:3592
+msgid "% Percent"
+msgstr ""
+
+#: admin/options.php:3597
+msgid "Amount"
+msgstr ""
+
+#: admin/options.php:3602
+msgid "Expiry date"
+msgstr ""
+
+#: admin/options.php:3611
+msgid "Add new coupon"
+msgstr ""
+
+#: admin/options.php:3630
+msgid "Captcha setting"
+msgstr ""
+
+#: admin/options.php:3641
+msgid "Captcha enable or disable (in ask question form)"
+msgstr ""
+
+#: admin/options.php:3647
+msgid "Captcha enable or disable (in add post form)"
+msgstr ""
+
+#: admin/options.php:3653
+msgid "Captcha enable or disable (in register form)"
+msgstr ""
+
+#: admin/options.php:3659
+msgid "Captcha enable or disable (in login form)"
+msgstr ""
+
+#: admin/options.php:3665
+msgid "Captcha enable or disable (in answer form)"
+msgstr ""
+
+#: admin/options.php:3671
+msgid "Captcha enable or disable (in comment form)"
+msgstr ""
+
+#: admin/options.php:3677
+msgid "Captcha enable or disable (in send message form)"
+msgstr ""
+
+#: admin/options.php:3690
+msgid "Captcha style"
+msgstr ""
+
+#: admin/options.php:3691
+msgid "Choose the captcha style"
+msgstr ""
+
+#: admin/options.php:3697
+msgid "Question and answer"
+msgstr ""
+
+#: admin/options.php:3698
+msgid "Normal captcha"
+msgstr ""
+
+#: admin/options.php:3709
+msgid "Captcha answer enable or disable in forms"
+msgstr ""
+
+#: admin/options.php:3716
+msgid "Captcha question"
+msgstr ""
+
+#: admin/options.php:3717
+msgid "put the Captcha question"
+msgstr ""
+
+#: admin/options.php:3724
+msgid "Captcha answer"
+msgstr ""
+
+#: admin/options.php:3725
+msgid "put the Captcha answer"
+msgstr ""
+
+#: admin/options.php:3749
+msgid "User setting"
+msgstr ""
+
+#: admin/options.php:3755 admin/options.php:3768
+msgid "General Setting"
+msgstr ""
+
+#: admin/options.php:3756 admin/options.php:3929
+msgid "Register Setting"
+msgstr ""
+
+#: admin/options.php:3758 admin/options.php:4689
+msgid "Ask Users"
+msgstr ""
+
+#: admin/options.php:3759 admin/options.php:4797
+msgid "User Slugs"
+msgstr ""
+
+#: admin/options.php:3760 admin/options.php:5008
+msgid "Permissions"
+msgstr ""
+
+#: admin/options.php:3772
+msgid "Author info box enable or disable."
+msgstr ""
+
+#: admin/options.php:3779
+msgid "Cover image enable or disable."
+msgstr ""
+
+#: admin/options.php:3786
+msgid "Cover full width or fixed"
+msgstr ""
+
+#: admin/options.php:3787
+msgid "Choose the cover to make it work with full width or fixed."
+msgstr ""
+
+#: admin/options.php:3790
+msgid "Full width"
+msgstr ""
+
+#: admin/options.php:3791
+msgid "Fixed"
+msgstr ""
+
+#: admin/options.php:3799
+msgid "Profile by login or nicename"
+msgstr ""
+
+#: admin/options.php:3800
+msgid "Choose the user profile page work by login or nicename."
+msgstr ""
+
+#: admin/options.php:3803
+msgid "Nicename"
+msgstr ""
+
+#: admin/options.php:3804
+msgid "Login name"
+msgstr ""
+
+#: admin/options.php:3811
+msgid "Active the notifications system in site?"
+msgstr ""
+
+#: admin/options.php:3812
+msgid "Active the notifications system enable or disable."
+msgstr ""
+
+#: admin/options.php:3819
+msgid "Active the activity login site?"
+msgstr ""
+
+#: admin/options.php:3820
+msgid "Active the activity log enable or disable."
+msgstr ""
+
+#: admin/options.php:3827
+msgid "Select the user stats"
+msgstr ""
+
+#: admin/options.php:3854
+msgid "Authors I Follow"
+msgstr ""
+
+#: admin/options.php:3865
+msgid "Waiting Questions"
+msgstr "대기중 질문"
+
+#: admin/options.php:3867
+msgid "Followed Questions"
+msgstr ""
+
+#: admin/options.php:3868
+msgid "Favorite Questions"
+msgstr ""
+
+#: admin/options.php:3878
+msgid "Select the pages show at the user profile page"
+msgstr ""
+
+#: admin/options.php:3888
+msgid "Select the columns in the user admin"
+msgstr ""
+
+#: admin/options.php:3899
+msgid "Users style at followed and search pages"
+msgstr ""
+
+#: admin/options.php:3900
+msgid "Choose the users style at followed and search pages."
+msgstr ""
+
+#: admin/options.php:3914
+msgid "Users per page at followed and search pages"
+msgstr ""
+
+#: admin/options.php:3915
+msgid "Put the users per page at followed and search pages."
+msgstr ""
+
+#: admin/options.php:3933
+msgid "Register in default group"
+msgstr ""
+
+#: admin/options.php:3934
+msgid "Select the default group when users registered."
+msgstr ""
+
+#: admin/options.php:3942
+msgid "After register go to?"
+msgstr ""
+
+#: admin/options.php:3946 admin/options.php:3961 admin/options.php:3976
+msgid "Home"
+msgstr "홈"
+
+#: admin/options.php:3946 admin/options.php:3961
+msgid "Profile"
+msgstr ""
+
+#: admin/options.php:3950 admin/options.php:3965 admin/options.php:3980
+msgid "Type the link if you don't like above"
+msgstr ""
+
+#: admin/options.php:3957
+msgid "After login go to?"
+msgstr ""
+
+#: admin/options.php:3972
+msgid "After logout go to?"
+msgstr ""
+
+#: admin/options.php:3987
+msgid "Confirm with email enable or disable (in register form)"
+msgstr ""
+
+#: admin/options.php:3993
+msgid "Active the page terms?"
+msgstr ""
+
+#: admin/options.php:3994
+msgid "Select ON if you want active the page terms."
+msgstr ""
+
+#: admin/options.php:4034
+msgid "Select ON to allow for the users register with space"
+msgstr ""
+
+#: admin/options.php:4041
+msgid "Select the default options when registered"
+msgstr ""
+
+#: admin/options.php:4051 admin/options.php:4659
+msgid "Follow Up Email"
+msgstr ""
+
+#: admin/options.php:4052
+msgid "Show the private pages"
+msgstr ""
+
+#: admin/options.php:4053
+msgid "Received mail when user add a new question"
+msgstr ""
+
+#: admin/options.php:4054
+msgid "Received message from another users"
+msgstr ""
+
+#: admin/options.php:4059
+msgid "All the site for the register users only?"
+msgstr ""
+
+#: admin/options.php:4060
+msgid "Select ON to active the site for the register users only."
+msgstr ""
+
+#: admin/options.php:4073
+msgid "Un register page setting"
+msgstr ""
+
+#: admin/options.php:4141
+msgid "Login setting"
+msgstr ""
+
+#: admin/options.php:4146
+msgid "Login popup style"
+msgstr ""
+
+#: admin/options.php:4147
+msgid "Choose login popup style from here."
+msgstr ""
+
+#: admin/options.php:4164
+msgid "Logo for the login popup"
+msgstr ""
+
+#: admin/options.php:4171
+msgid "Logo retina for the login popup"
+msgstr ""
+
+#: admin/options.php:4197
+msgid "Text for the login popup after the logo or the normal text"
+msgstr ""
+
+#: admin/options.php:4215
+msgid "Login image"
+msgstr ""
+
+#: admin/options.php:4224
+msgid "Details for login popup"
+msgstr ""
+
+#: admin/options.php:4234
+msgid "Signup setting"
+msgstr ""
+
+#: admin/options.php:4239
+msgid "Signup popup style"
+msgstr ""
+
+#: admin/options.php:4240
+msgid "Choose signup popup style from here."
+msgstr ""
+
+#: admin/options.php:4257
+msgid "Logo for the signup popup"
+msgstr ""
+
+#: admin/options.php:4264
+msgid "Logo retina for the signup popup"
+msgstr ""
+
+#: admin/options.php:4290
+msgid "Text for the signup popup after the logo or the normal text"
+msgstr ""
+
+#: admin/options.php:4308
+msgid "Signup image"
+msgstr ""
+
+#: admin/options.php:4317
+msgid "Details for signup popup"
+msgstr ""
+
+#: admin/options.php:4327
+msgid "Forget password setting"
+msgstr ""
+
+#: admin/options.php:4332
+msgid "Forget password popup style"
+msgstr ""
+
+#: admin/options.php:4333
+msgid "Choose forget password popup style from here."
+msgstr ""
+
+#: admin/options.php:4350
+msgid "Logo for the forget password popup"
+msgstr ""
+
+#: admin/options.php:4357
+msgid "Logo retina for the forget password popup"
+msgstr ""
+
+#: admin/options.php:4383
+msgid "Text for the forget password popup after the logo or the normal text"
+msgstr ""
+
+#: admin/options.php:4401
+msgid "Forget password image"
+msgstr ""
+
+#: admin/options.php:4410
+msgid "Details for forget password popup"
+msgstr ""
+
+#: admin/options.php:4431
+msgid "Basic Information"
+msgstr ""
+
+#: admin/options.php:4432
+msgid "Social Profiles"
+msgstr ""
+
+#: admin/options.php:4433
+msgid "About Me"
+msgstr ""
+
+#: admin/options.php:4437
+msgid "Select what's show at edit profile"
+msgstr ""
+
+#: admin/options.php:4445
+msgid "Names"
+msgstr ""
+
+#: admin/options.php:4446
+msgid "Image Profile"
+msgstr ""
+
+#: admin/options.php:4447
+msgid "Cover"
+msgstr ""
+
+#: admin/options.php:4456
+msgid "Select what's show at edit profile at the Basic Information section"
+msgstr ""
+
+#: admin/options.php:4465
+msgid ""
+"You need to activate the cover option from the User setting/General Setting"
+msgstr ""
+
+#: admin/options.php:4471
+msgid "Names in edit profile is required."
+msgstr ""
+
+#: admin/options.php:4478
+msgid "Profile picture setting"
+msgstr ""
+
+#: admin/options.php:4483
+msgid "Default image profile enable or disable."
+msgstr ""
+
+#: admin/options.php:4484
+msgid ""
+"Check ON to upload your default image for the user didn't upload the image "
+"profile."
+msgstr ""
+
+#: admin/options.php:4490
+msgid "Upload default image profile for the user."
+msgstr ""
+
+#: admin/options.php:4498
+msgid "Upload default image profile for the user females."
+msgstr ""
+
+#: admin/options.php:4506
+msgid "Profile picture in edit profile is required"
+msgstr ""
+
+#: admin/options.php:4513 admin/options.php:4559
+msgid ""
+"Add the maximum size for the profile picture, Add it with KB, for 1 MB add "
+"it 1024."
+msgstr ""
+
+#: admin/options.php:4514 admin/options.php:4560
+msgid ""
+"Add the maximum size for the profile picture, Leave it empty if you need it "
+"unlimited size."
+msgstr ""
+
+#: admin/options.php:4527
+msgid "Cover picture setting"
+msgstr ""
+
+#: admin/options.php:4532
+msgid "Default cover enable or disable."
+msgstr ""
+
+#: admin/options.php:4533
+msgid ""
+"Check ON to upload your default cover for the user didn't upload the cover "
+"profile."
+msgstr ""
+
+#: admin/options.php:4539
+msgid "Upload default cover for the user."
+msgstr ""
+
+#: admin/options.php:4546
+msgid "Upload default cover for the user females."
+msgstr ""
+
+#: admin/options.php:4553
+msgid "Profile cover in edit profile is required"
+msgstr ""
+
+#: admin/options.php:4578
+msgid "Gender setting"
+msgstr ""
+
+#: admin/options.php:4583
+msgid "Gender in edit profile is required."
+msgstr ""
+
+#: admin/options.php:4589
+msgid "Active other at the gender in edit profile."
+msgstr ""
+
+#: admin/options.php:4601
+msgid "Other settings"
+msgstr ""
+
+#: admin/options.php:4608
+msgid "Country in edit profile is required."
+msgstr ""
+
+#: admin/options.php:4615
+msgid "City in edit profile is required."
+msgstr ""
+
+#: admin/options.php:4622
+msgid "Phone in edit profile is required."
+msgstr ""
+
+#: admin/options.php:4629
+msgid "Age in edit profile is required."
+msgstr ""
+
+#: admin/options.php:4641
+msgid "Google plus"
+msgstr ""
+
+#: admin/options.php:4647
+msgid "Select what's show at edit profile at the Social Profiles section"
+msgstr ""
+
+#: admin/options.php:4656
+msgid "Website"
+msgstr ""
+
+#: admin/options.php:4657
+msgid "Professional Bio"
+msgstr ""
+
+#: admin/options.php:4658
+msgid "Profile credential"
+msgstr ""
+
+#: admin/options.php:4660
+msgid "Private Pages"
+msgstr ""
+
+#: admin/options.php:4661
+msgid "Send Email For Question"
+msgstr ""
+
+#: admin/options.php:4662
+msgid "Received message from the users"
+msgstr ""
+
+#: admin/options.php:4666
+msgid "Select what's show at edit profile at the About Me section"
+msgstr ""
+
+#: admin/options.php:4675
+msgid "Profile credential in edit profile is required."
+msgstr ""
+
+#: admin/options.php:4693
+msgid "Ask question to the users"
+msgstr ""
+
+#: admin/options.php:4694
+msgid "Any one can ask question to the users enable or disable."
+msgstr ""
+
+#: admin/options.php:4715
+msgid "Select what's show at ask user question form"
+msgstr ""
+
+#: admin/options.php:4801
+msgid "Login slug"
+msgstr ""
+
+#: admin/options.php:4802
+msgid "Put the login slug."
+msgstr ""
+
+#: admin/options.php:4809
+msgid "Signup slug"
+msgstr ""
+
+#: admin/options.php:4810
+msgid "Put the signup slug."
+msgstr ""
+
+#: admin/options.php:4817
+msgid "Lost password slug"
+msgstr ""
+
+#: admin/options.php:4818
+msgid "Put the lost password slug."
+msgstr ""
+
+#: admin/options.php:4825
+msgid "User profile slug"
+msgstr ""
+
+#: admin/options.php:4826
+msgid "Put the user profile slug."
+msgstr ""
+
+#: admin/options.php:4833
+msgid "Edit profile slug"
+msgstr ""
+
+#: admin/options.php:4834
+msgid "Put the edit profile slug."
+msgstr ""
+
+#: admin/options.php:4841
+msgid "User followers slug"
+msgstr ""
+
+#: admin/options.php:4842
+msgid "Put the user followers slug."
+msgstr ""
+
+#: admin/options.php:4849
+msgid "User following slug"
+msgstr ""
+
+#: admin/options.php:4850
+msgid "Put the user following slug."
+msgstr ""
+
+#: admin/options.php:4857
+msgid "User notifications slug"
+msgstr ""
+
+#: admin/options.php:4858
+msgid "Put the user notifications slug."
+msgstr ""
+
+#: admin/options.php:4865
+msgid "User activities slug"
+msgstr ""
+
+#: admin/options.php:4866
+msgid "Put the user activities slug."
+msgstr ""
+
+#: admin/options.php:4873
+msgid "User questions slug"
+msgstr ""
+
+#: admin/options.php:4874
+msgid "Put the user questions slug."
+msgstr ""
+
+#: admin/options.php:4881
+msgid "User answers slug"
+msgstr ""
+
+#: admin/options.php:4882
+msgid "Put the user answers slug."
+msgstr ""
+
+#: admin/options.php:4889
+msgid "User best answers slug"
+msgstr ""
+
+#: admin/options.php:4890
+msgid "Put the user best answers slug."
+msgstr ""
+
+#: admin/options.php:4897
+msgid "User points slug"
+msgstr ""
+
+#: admin/options.php:4898
+msgid "Put the user points slug."
+msgstr ""
+
+#: admin/options.php:4905
+msgid "User polls slug"
+msgstr ""
+
+#: admin/options.php:4906
+msgid "Put the user polls slug."
+msgstr ""
+
+#: admin/options.php:4913
+msgid "User asked slug"
+msgstr ""
+
+#: admin/options.php:4914
+msgid "Put the user asked slug."
+msgstr ""
+
+#: admin/options.php:4921
+msgid "User asked questions slug"
+msgstr ""
+
+#: admin/options.php:4922
+msgid "Put the user asked questions slug."
+msgstr ""
+
+#: admin/options.php:4929
+msgid "User paid questions slug"
+msgstr ""
+
+#: admin/options.php:4930
+msgid "Put the user paid questions slug."
+msgstr ""
+
+#: admin/options.php:4937
+msgid "User followed slug"
+msgstr ""
+
+#: admin/options.php:4938
+msgid "Put the user followed slug."
+msgstr ""
+
+#: admin/options.php:4945
+msgid "User favorites slug"
+msgstr ""
+
+#: admin/options.php:4946
+msgid "Put the user favorites slug."
+msgstr ""
+
+#: admin/options.php:4953
+msgid "User posts slug"
+msgstr ""
+
+#: admin/options.php:4954
+msgid "Put the user posts slug."
+msgstr ""
+
+#: admin/options.php:4961
+msgid "User comments slug"
+msgstr ""
+
+#: admin/options.php:4962
+msgid "Put the user comments slug."
+msgstr ""
+
+#: admin/options.php:4969
+msgid "User followers questions slug"
+msgstr ""
+
+#: admin/options.php:4970
+msgid "Put the user followers questions slug."
+msgstr ""
+
+#: admin/options.php:4977
+msgid "User followers answers slug"
+msgstr ""
+
+#: admin/options.php:4978
+msgid "Put the user followers answers slug."
+msgstr ""
+
+#: admin/options.php:4985
+msgid "User followers posts slug"
+msgstr ""
+
+#: admin/options.php:4986
+msgid "Put the user followers posts slug."
+msgstr ""
+
+#: admin/options.php:4993
+msgid "User followers comments slug"
+msgstr ""
+
+#: admin/options.php:4994
+msgid "Put the user followers comments slug."
+msgstr ""
+
+#: admin/options.php:5012
+msgid "Select ON to can add a custom permission."
+msgstr ""
+
+#: admin/options.php:5029
+msgid "Select ON to can add a question."
+msgstr ""
+
+#: admin/options.php:5036
+msgid "Select ON to can show other questions."
+msgstr ""
+
+#: admin/options.php:5043
+msgid "Select ON to can add a answer."
+msgstr ""
+
+#: admin/options.php:5050
+msgid "Select ON to can show other answers."
+msgstr ""
+
+#: admin/options.php:5057
+msgid "Select ON to can add a post."
+msgstr ""
+
+#: admin/options.php:5064
+msgid "Select ON to can send message."
+msgstr ""
+
+#: admin/options.php:5071
+msgid "Setting for groups & Add new groups"
+msgstr ""
+
+#: admin/options.php:5126
+msgid "Author sidebar layout"
+msgstr ""
+
+#: admin/options.php:5142
+msgid "Author Page sidebar"
+msgstr ""
+
+#: admin/options.php:5150
+msgid "Author Page sidebar 2"
+msgstr ""
+
+#: admin/options.php:5261
+msgid "Message setting"
+msgstr ""
+
+#: admin/options.php:5271
+msgid "Active messages to the users"
+msgstr ""
+
+#: admin/options.php:5272
+msgid "Any one can send message to the users enable or disable."
+msgstr ""
+
+#: admin/options.php:5285
+msgid "Messages slug"
+msgstr ""
+
+#: admin/options.php:5286
+msgid "Select the messages slug"
+msgstr ""
+
+#: admin/options.php:5293
+msgid "Choose message status"
+msgstr ""
+
+#: admin/options.php:5294
+msgid "Choose message status after user publish the question."
+msgstr ""
+
+#: admin/options.php:5302
+msgid "Any one can send message without register"
+msgstr ""
+
+#: admin/options.php:5303
+msgid "Any one can send message without register enable or disable."
+msgstr ""
+
+#: admin/options.php:5309
+msgid "Details in send message form is required"
+msgstr ""
+
+#: admin/options.php:5316
+msgid "Editor enable or disable for details in send message form"
+msgstr ""
+
+#: admin/options.php:5322
+msgid "Send email after send a message?"
+msgstr ""
+
+#: admin/options.php:5329
+msgid "Active user can delete the messages"
+msgstr ""
+
+#: admin/options.php:5330
+msgid "Select ON if you want the user can delete the messages."
+msgstr ""
+
+#: admin/options.php:5337
+msgid "Active user can seen the message by send notification"
+msgstr ""
+
+#: admin/options.php:5338
+msgid ""
+"Select ON if you want the user know if any one seen the message by send "
+"notification."
+msgstr ""
+
+#: admin/options.php:5356
+msgid "Badges & Points setting"
+msgstr ""
+
+#: admin/options.php:5362 admin/options.php:5370
+msgid "Badges setting"
+msgstr ""
+
+#: admin/options.php:5363 admin/options.php:5517
+msgid "Points setting"
+msgstr ""
+
+#: admin/options.php:5376
+msgid "Details for badges"
+msgstr ""
+
+#: admin/options.php:5380
+msgid "Choose the badges style"
+msgstr ""
+
+#: admin/options.php:5381
+msgid "Choose from here the badges style."
+msgstr ""
+
+#: admin/options.php:5383
+msgid "By groups"
+msgstr ""
+
+#: admin/options.php:5383
+msgid "By groups and points"
+msgstr ""
+
+#: admin/options.php:5392 admin/options.php:5435 admin/options.php:5469
+msgid "Badge name"
+msgstr ""
+
+#: admin/options.php:5407 admin/options.php:5490
+msgid "Details"
+msgstr ""
+
+#: admin/options.php:5416 admin/options.php:5449 admin/options.php:5499
+msgid "Add new badge"
+msgstr ""
+
+#: admin/options.php:5475
+msgid "Badge group"
+msgstr ""
+
+#: admin/options.php:5523
+msgid "Details for points"
+msgstr ""
+
+#: admin/options.php:5527
+msgid "Points for add a new question (put it 0 for off the option)"
+msgstr ""
+
+#: admin/options.php:5528
+msgid "put the Points choose for add a new question"
+msgstr ""
+
+#: admin/options.php:5535
+msgid "Points for add a new post (put it 0 for off the option)"
+msgstr ""
+
+#: admin/options.php:5536
+msgid "put the Points choose for add a new post"
+msgstr ""
+
+#: admin/options.php:5543
+msgid "Points choose best answer"
+msgstr ""
+
+#: admin/options.php:5544
+msgid "put the Points choose best answer"
+msgstr ""
+
+#: admin/options.php:5551
+msgid "Points voting question"
+msgstr ""
+
+#: admin/options.php:5552
+msgid "put the Points voting question"
+msgstr ""
+
+#: admin/options.php:5559
+msgid "Points add answer"
+msgstr ""
+
+#: admin/options.php:5560
+msgid "put the Points add answer"
+msgstr ""
+
+#: admin/options.php:5567
+msgid "Points voting answer"
+msgstr ""
+
+#: admin/options.php:5568
+msgid "put the Points voting answer"
+msgstr ""
+
+#: admin/options.php:5575
+msgid "Points following user"
+msgstr ""
+
+#: admin/options.php:5576
+msgid "put the Points following user"
+msgstr ""
+
+#: admin/options.php:5583
+msgid "Points for a new user"
+msgstr ""
+
+#: admin/options.php:5584
+msgid "put the Points for a new user"
+msgstr ""
+
+#: admin/options.php:5596
+msgid "Comments & Answers"
+msgstr ""
+
+#: admin/options.php:5608
+msgid "Comments setting"
+msgstr ""
+
+#: admin/options.php:5614
+msgid "Select the share options to show at the comments/answers"
+msgstr ""
+
+#: admin/options.php:5623
+msgid "Enable or disable the editor in the comment"
+msgstr ""
+
+#: admin/options.php:5629 admin/options.php:5761
+msgid ""
+"Add your number of letters for the answer minimum limit, like 15, 20, if you "
+"leave it empty will make it not important"
+msgstr ""
+
+#: admin/options.php:5635
+msgid ""
+"Add your number of letters for the comment limit, like 140, 200, if you "
+"leave it empty will make it unlimited"
+msgstr ""
+
+#: admin/options.php:5641
+msgid "Active the author image in comments/answers?"
+msgstr ""
+
+#: admin/options.php:5642
+msgid "Author image in comments/answers enable or disable."
+msgstr ""
+
+#: admin/options.php:5649
+msgid ""
+"Note: if you need all the comments/answers manually approved, From here "
+"Settings >> Discussion >> Comment must be manually approved."
+msgstr ""
+
+#: admin/options.php:5654
+msgid "Choose comments/answers status for unlogged user only"
+msgstr ""
+
+#: admin/options.php:5655
+msgid ""
+"Choose comments/answers status after unlogged user publish the "
+"comments/answers."
+msgstr ""
+
+#: admin/options.php:5663
+msgid "Edit comments/answers"
+msgstr ""
+
+#: admin/options.php:5668
+msgid "User can edit the comments/answers?"
+msgstr ""
+
+#: admin/options.php:5680
+msgid "User can edit the comments/answers after x hours"
+msgstr ""
+
+#: admin/options.php:5681
+msgid "If you want the user edit it all the time leave it 0"
+msgstr ""
+
+#: admin/options.php:5691
+msgid "Edit comments/answers slug"
+msgstr ""
+
+#: admin/options.php:5692
+msgid "Put the edit comments/answers slug."
+msgstr ""
+
+#: admin/options.php:5699
+msgid "After edit comments/answers approved auto or need to approved again?"
+msgstr ""
+
+#: admin/options.php:5712
+msgid "Delete comments/answers"
+msgstr ""
+
+#: admin/options.php:5717
+msgid "User can delete the comments/answers?"
+msgstr ""
+
+#: admin/options.php:5723
+msgid ""
+"When the users delete the comments/answers went to the trash or delete it "
+"ever?"
+msgstr ""
+
+#: admin/options.php:5740
+msgid "Answers Setting"
+msgstr ""
+
+#: admin/options.php:5746
+msgid "Enable or disable the editor in the answer"
+msgstr ""
+
+#: admin/options.php:5752
+msgid "Answer with question title style at the answers page."
+msgstr ""
+
+#: admin/options.php:5753
+msgid "Choose the answers with question title style at the answers page."
+msgstr ""
+
+#: admin/options.php:5767
+msgid ""
+"Add your number of letters for the answer limit, like 140, 200, if you leave "
+"it empty will make it unlimited"
+msgstr ""
+
+#: admin/options.php:5779
+msgid "Tabs at the answers"
+msgstr ""
+
+#: admin/options.php:5780
+msgid "Select the tabs at the answers on the question page."
+msgstr ""
+
+#: admin/options.php:5810
+msgid "Video in the answer form"
+msgstr ""
+
+#: admin/options.php:5811
+msgid "Select ON to enable the video in the answer form."
+msgstr ""
+
+#: admin/options.php:5823
+msgid "Video description position at answer"
+msgstr ""
+
+#: admin/options.php:5840
+msgid "Set the width for the video description for the answer"
+msgstr ""
+
+#: admin/options.php:5851
+msgid "Set the height for the video description for the answer"
+msgstr ""
+
+#: admin/options.php:5872
+msgid "Attachment in the answer form"
+msgstr ""
+
+#: admin/options.php:5873
+msgid "Select ON to enable the attachment in the answer form."
+msgstr ""
+
+#: admin/options.php:5884
+msgid "Featured image in the answer form"
+msgstr ""
+
+#: admin/options.php:5885
+msgid "Select ON to enable the featured image in the answer form."
+msgstr ""
+
+#: admin/options.php:5898
+msgid "Click ON to show featured image in the question answers"
+msgstr ""
+
+#: admin/options.php:5899
+msgid "Select ON to enable the featured image in the question answers."
+msgstr ""
+
+#: admin/options.php:5906
+msgid ""
+"Click ON to show featured image in the answers tab, answers template, "
+"answers at profile or answers is search"
+msgstr ""
+
+#: admin/options.php:5907
+msgid "Select ON to enable the featured image in the answers."
+msgstr ""
+
+#: admin/options.php:5914
+msgid "Click ON to enable the lightbox for featured image"
+msgstr ""
+
+#: admin/options.php:5915
+msgid "Select ON to enable the lightbox for featured image."
+msgstr ""
+
+#: admin/options.php:5922
+msgid "Set the width for the featured image for the answers"
+msgstr ""
+
+#: admin/options.php:5932
+msgid "Set the height for the featured image for the answers"
+msgstr ""
+
+#: admin/options.php:5962
+msgid "Search Setting"
+msgstr ""
+
+#: admin/options.php:5973
+msgid "Search slug"
+msgstr ""
+
+#: admin/options.php:5974
+msgid "Put the search slug."
+msgstr ""
+
+#: admin/options.php:5981
+msgid "The Link For The Search Page."
+msgstr ""
+
+#: admin/options.php:5998 admin/options.php:6026 admin/widgets.php:1638
+#: admin/widgets.php:1646
+msgid "Users"
+msgstr "유저"
+
+#: admin/options.php:6002
+msgid "Select the search options"
+msgstr ""
+
+#: admin/options.php:6003
+msgid "Select the search options on the search page."
+msgstr ""
+
+#: admin/options.php:6012
+msgid "Default search"
+msgstr ""
+
+#: admin/options.php:6013
+msgid "Choose what's the default search"
+msgstr ""
+
+#: admin/options.php:6031
+msgid "Choose the live search enable or disable"
+msgstr ""
+
+#: admin/options.php:6038
+msgid "Search result number"
+msgstr ""
+
+#: admin/options.php:6039
+msgid "Type the search result number from here."
+msgstr ""
+
+#: admin/options.php:6047
+msgid "Tags style at search page"
+msgstr ""
+
+#: admin/options.php:6059
+msgid "Show the user filter at search page."
+msgstr ""
+
+#: admin/options.php:6085
+msgid "Sidebar name"
+msgstr ""
+
+#: admin/options.php:6093
+msgid "Add new sidebar"
+msgstr ""
+
+#: admin/options.php:6139
+msgid "Widget icons enable or disable"
+msgstr ""
+
+#: admin/options.php:6159
+msgid "Sidemenu style"
+msgstr ""
+
+#: admin/options.php:6165
+msgid "Menu"
+msgstr ""
+
+#: admin/options.php:6171
+msgid "Choose the left menu style"
+msgstr ""
+
+#: admin/options.php:6198
+msgid "Styling & Typography"
+msgstr ""
+
+#: admin/options.php:6204 admin/options.php:6210
+msgid "Styling"
+msgstr ""
+
+#: admin/options.php:6205 admin/options.php:6341
+msgid "Typography"
+msgstr ""
+
+#: admin/options.php:6216
+msgid "Choose the site width"
+msgstr ""
+
+#: admin/options.php:6226
+msgid "Site style"
+msgstr ""
+
+#: admin/options.php:6232
+msgid "Normal style"
+msgstr ""
+
+#: admin/options.php:6233
+msgid "Boxed style 1"
+msgstr ""
+
+#: admin/options.php:6234
+msgid "Boxed style 2"
+msgstr ""
+
+#: admin/options.php:6235
+msgid "Boxed style 3 - without left menu"
+msgstr ""
+
+#: admin/options.php:6236
+msgid "Boxed style 4 - without left menu"
+msgstr ""
+
+#: admin/options.php:6347
+msgid "Main font"
+msgstr ""
+
+#: admin/options.php:6355
+msgid "Second font"
+msgstr ""
+
+#: admin/options.php:6363
+msgid "General Typography"
+msgstr ""
+
+#: admin/options.php:6370
+msgid "General link color"
+msgstr ""
+
+#: admin/options.php:6376
+msgid "H1"
+msgstr ""
+
+#: admin/options.php:6383
+msgid "H2"
+msgstr ""
+
+#: admin/options.php:6390
+msgid "H3"
+msgstr ""
+
+#: admin/options.php:6397
+msgid "H4"
+msgstr ""
+
+#: admin/options.php:6404
+msgid "H5"
+msgstr ""
+
+#: admin/options.php:6411
+msgid "H6"
+msgstr ""
+
+#: admin/options.php:6423 admin/options.php:6429 admin/options.php:6436
+msgid "Social Setting"
+msgstr ""
+
+#: admin/options.php:6430
+msgid "Add & sort social"
+msgstr ""
+
+#: admin/options.php:6431 admin/options.php:6537
+msgid "Social media API"
+msgstr ""
+
+#: admin/options.php:6444
+msgid "Google"
+msgstr ""
+
+#: admin/options.php:6446
+msgid "Dribbble"
+msgstr ""
+
+#: admin/options.php:6449
+msgid "Skype"
+msgstr ""
+
+#: admin/options.php:6450
+msgid "Flickr"
+msgstr ""
+
+#: admin/options.php:6454
+msgid "Rss"
+msgstr ""
+
+#: admin/options.php:6460
+#, php-format
+msgid "%s URL"
+msgstr ""
+
+#: admin/options.php:6468
+msgid "Rss enable or disable"
+msgstr ""
+
+#: admin/options.php:6475
+msgid "RSS URL if you want change the default URL"
+msgstr ""
+
+#: admin/options.php:6476
+msgid ""
+"Type the RSS URL if you want change the default URL or leave it empty for "
+"enable the default URL."
+msgstr ""
+
+#: admin/options.php:6490
+msgid "Add a new social item"
+msgstr ""
+
+#: admin/options.php:6504 comments.php:187
+msgid "URL"
+msgstr ""
+
+#: admin/options.php:6509
+#, php-format
+msgid "Icon (use %s entypo %s like : facebook)"
+msgstr ""
+
+#: admin/options.php:6516
+msgid "Add Custom Social"
+msgstr ""
+
+#: admin/options.php:6543
+msgid "Facebook app id."
+msgstr ""
+
+#: admin/options.php:6549
+msgid "Facebook access token."
+msgstr ""
+
+#: admin/options.php:6555
+msgid "Soundcloud client id."
+msgstr ""
+
+#: admin/options.php:6556
+msgid "Type here the Soundcloud client id."
+msgstr ""
+
+#: admin/options.php:6562
+msgid "Behance access token."
+msgstr ""
+
+#: admin/options.php:6563
+msgid "Type here the Behance access token."
+msgstr ""
+
+#: admin/options.php:6569
+msgid "Google API."
+msgstr ""
+
+#: admin/options.php:6570
+msgid "Type here the Google API."
+msgstr ""
+
+#: admin/options.php:6576
+msgid "Instagram session."
+msgstr ""
+
+#: admin/options.php:6577
+msgid "Type here the Instagram session."
+msgstr ""
+
+#: admin/options.php:6583
+#, php-format
+msgid ""
+"Dribbble app data (Make app from here : https://dribbble."
+"com/account/applications/new), At Callback URL add <a href=\"%s\">this "
+"link</a>"
+msgstr ""
+
+#: admin/options.php:6588
+msgid "Dribbble Client ID."
+msgstr ""
+
+#: admin/options.php:6594
+msgid "Dribbble Client Secret."
+msgstr ""
+
+#: admin/options.php:6600
+msgid "Get the access token from here."
+msgstr ""
+
+#: admin/options.php:6613
+msgid "Twitter app data."
+msgstr ""
+
+#: admin/options.php:6618
+msgid "Twitter consumer key"
+msgstr ""
+
+#: admin/options.php:6624
+msgid "Twitter consumer secret"
+msgstr ""
+
+#: admin/options.php:6646
+msgid "Advertising at 404 pages enable or disable"
+msgstr ""
+
+#: admin/options.php:6658
+msgid "Advertising after header"
+msgstr ""
+
+#: admin/options.php:6699
+msgid "Advertising in post or question"
+msgstr ""
+
+#: admin/options.php:6786
+msgid "Display after x posts or questions"
+msgstr ""
+
+#: admin/options.php:6793 admin/options.php:6848
+msgid "Repeat adv?"
+msgstr ""
+
+#: admin/options.php:6794 admin/options.php:6849
+msgid "Select ON to enable repeat advertising."
+msgstr ""
+
+#: admin/options.php:6841
+msgid "Display after x comments or answers"
+msgstr ""
+
+#: admin/options.php:6891
+msgid "Emails settings"
+msgstr ""
+
+#: admin/options.php:6901
+msgid "Custom logo for email template"
+msgstr ""
+
+#: admin/options.php:6902
+msgid "Upload your custom logo for email template"
+msgstr ""
+
+#: admin/options.php:6909
+msgid "Background Color for the email template"
+msgstr ""
+
+#: admin/options.php:6916 admin/options.php:6917
+msgid "Add your email for email template"
+msgstr ""
+
+#: admin/options.php:6967
+msgid "Reset password title"
+msgstr ""
+
+#: admin/options.php:6974
+msgid "Reset password template"
+msgstr ""
+
+#: admin/options.php:6988
+msgid "Reset password 2 title"
+msgstr ""
+
+#: admin/options.php:6995
+msgid "Reset password 2 template"
+msgstr ""
+
+#: admin/options.php:7003
+msgid "Confirm email title"
+msgstr ""
+
+#: admin/options.php:7010
+msgid "Confirm email template"
+msgstr ""
+
+#: admin/options.php:7018
+msgid "Confirm email 2 title"
+msgstr ""
+
+#: admin/options.php:7025
+msgid "Confirm email 2 template"
+msgstr ""
+
+#: admin/options.php:7054
+msgid "Send message title"
+msgstr ""
+
+#: admin/options.php:7061
+msgid "Send message template"
+msgstr ""
+
+#: admin/options.php:7082
+msgid "New payment title"
+msgstr ""
+
+#: admin/options.php:7089
+msgid "New payment template"
+msgstr ""
+
+#: admin/options.php:7112
+msgid "Report question title"
+msgstr ""
+
+#: admin/options.php:7119
+msgid "Report question template"
+msgstr ""
+
+#: admin/options.php:7127
+msgid "Report answer title"
+msgstr ""
+
+#: admin/options.php:7134
+msgid "Report answer template"
+msgstr ""
+
+#: admin/options.php:7142
+msgid "Notified answer title"
+msgstr ""
+
+#: admin/options.php:7149
+msgid "Notified answer template"
+msgstr ""
+
+#: admin/options.php:7157
+msgid "Follow question title"
+msgstr ""
+
+#: admin/options.php:7164
+msgid "Follow question template"
+msgstr ""
+
+#: admin/options.php:7172
+msgid "New questions title"
+msgstr ""
+
+#: admin/options.php:7179
+msgid "New questions template"
+msgstr ""
+
+#: admin/options.php:7187
+msgid "New questions for review title"
+msgstr ""
+
+#: admin/options.php:7194
+msgid "New questions for review template"
+msgstr ""
+
+#: admin/options.php:7202
+msgid "New posts for review title"
+msgstr ""
+
+#: admin/options.php:7209
+msgid "New posts for review template"
+msgstr ""
+
+#: admin/options.php:7222
+msgid "Footer settings"
+msgstr ""
+
+#: admin/options.php:7228 admin/options.php:7236
+msgid "General setting"
+msgstr ""
+
+#: admin/options.php:7229 admin/options.php:7292
+msgid "Main Footer setting"
+msgstr ""
+
+#: admin/options.php:7230 admin/options.php:7468
+msgid "Bottom footer setting"
+msgstr ""
+
+#: admin/options.php:7231
+msgid "Sort footer elements"
+msgstr ""
+
+#: admin/options.php:7242
+msgid "Footer style"
+msgstr ""
+
+#: admin/options.php:7243
+msgid "Choose the footer style."
+msgstr ""
+
+#: admin/options.php:7247
+msgid "Normal footer"
+msgstr ""
+
+#: admin/options.php:7247
+msgid "After sidebar"
+msgstr ""
+
+#: admin/options.php:7251
+msgid "Footer skin"
+msgstr ""
+
+#: admin/options.php:7252
+msgid "Choose the footer skin."
+msgstr ""
+
+#: admin/options.php:7261
+msgid "Footer menu enable or disable"
+msgstr ""
+
+#: admin/options.php:7269
+msgid "Choose from here what's menu will show after sidebar."
+msgstr ""
+
+#: admin/options.php:7277
+msgid "Copyrights"
+msgstr ""
+
+#: admin/options.php:7278
+msgid "Put the copyrights of footer."
+msgstr ""
+
+#: admin/options.php:7298
+msgid "The main footer work when you choose the footer style as normal footer."
+msgstr ""
+
+#: admin/options.php:7310
+msgid "Top footer enable or disable"
+msgstr ""
+
+#: admin/options.php:7323
+msgid "Footer widget icons enable or disable"
+msgstr ""
+
+#: admin/options.php:7329
+msgid "Top footer padding top"
+msgstr ""
+
+#: admin/options.php:7339
+msgid "Top footer padding bottom"
+msgstr ""
+
+#: admin/options.php:7349
+msgid "Footer Layout"
+msgstr ""
+
+#: admin/options.php:7350
+msgid "Footer columns Layout."
+msgstr ""
+
+#: admin/options.php:7366
+msgid "Background color"
+msgstr ""
+
+#: admin/options.php:7371
+msgid "Padding top"
+msgstr ""
+
+#: admin/options.php:7381
+msgid "Padding bottom"
+msgstr ""
+
+#: admin/options.php:7391
+msgid "Layout"
+msgstr ""
+
+#: admin/options.php:7403
+msgid "Select first column"
+msgstr ""
+
+#: admin/options.php:7411
+msgid "Select second column"
+msgstr ""
+
+#: admin/options.php:7419
+msgid "Select third column"
+msgstr ""
+
+#: admin/options.php:7427
+msgid "Select fourth column"
+msgstr ""
+
+#: admin/options.php:7435
+msgid "Select fifth column"
+msgstr ""
+
+#: admin/options.php:7445
+msgid "Add new footer level"
+msgstr ""
+
+#: admin/options.php:7474
+msgid ""
+"The bottom footer work when you choose the footer style as normal footer."
+msgstr ""
+
+#: admin/options.php:7486
+msgid "Bottom footer enable or disable"
+msgstr ""
+
+#: admin/options.php:7499
+msgid "Bottom footer padding top"
+msgstr ""
+
+#: admin/options.php:7509
+msgid "Bottom footer padding bottom"
+msgstr ""
+
+#: admin/options.php:7536
+msgid "Sort the footer elements"
+msgstr ""
+
+#: admin/options.php:7542
+msgid ""
+"The sort footer elements work when you choose the footer style as normal "
+"footer."
+msgstr ""
+
+#: admin/options.php:7551 admin/options.php:7556
+msgid "Top footer"
+msgstr ""
+
+#: admin/options.php:7552 admin/options.php:7557
+msgid "Bottom footer"
+msgstr ""
+
+#: admin/options.php:7567
+msgid "Advanced setting"
+msgstr ""
+
+#: admin/options.php:7584
+msgid "Active the advanced queries at the site"
+msgstr ""
+
+#: admin/options.php:7585
+msgid "Select ON if you want to active the advanced queries at the site."
+msgstr ""
+
+#: admin/options.php:7591
+msgid "Active the visits at the site work by cookie"
+msgstr ""
+
+#: admin/options.php:7592
+msgid "Select ON if you want to active the cookie for the visits at the site."
+msgstr ""
+
+#: admin/options.php:7598
+msgid "Active this option ON only if you have used Ask Me theme before."
+msgstr ""
+
+#: admin/options.php:7604
+msgid "Do you need to activate the views at your site?"
+msgstr ""
+
+#: admin/options.php:7611
+msgid "Post meta field."
+msgstr ""
+
+#: admin/options.php:7612
+msgid "Change this if you have used a post views plugin before."
+msgstr ""
+
+#: admin/options.php:7620
+msgid "If you wont to export setting please refresh the page before that"
+msgstr ""
+
+#: admin/options.php:7625
+msgid "Export Setting"
+msgstr ""
+
+#: admin/options.php:7626
+msgid "Copy this to saved file"
+msgstr ""
+
+#: admin/options.php:7633
+msgid "Import Setting"
+msgstr ""
+
+#: admin/options.php:7634
+msgid "Put here the import setting"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:393
+#: admin/plugins/class-tgm-plugin-activation.php:912
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+#: admin/plugins/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:394
+#: admin/plugins/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:395
+#: admin/plugins/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:1019
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2473
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3594
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: admin/plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/terms.php:27
+msgid "Question Category Setting"
+msgstr ""
+
+#: admin/terms.php:41
+msgid "Private category?"
+msgstr ""
+
+#: admin/terms.php:42
+msgid ""
+"Select 'On' to enable private category. (In private categories questions can "
+"only be seen by the author of the question and the admin)."
+msgstr ""
+
+#: admin/terms.php:48
+msgid "Special category?"
+msgstr ""
+
+#: admin/terms.php:49
+msgid ""
+"Select 'On' to enable special category. (In a special category, the admin "
+"must answer the question before anyone else)."
+msgstr ""
+
+#: admin/terms.php:55
+msgid "New category?"
+msgstr ""
+
+#: admin/terms.php:56
+msgid ""
+"Select 'On' to enable new category. (In a new category, the admin must "
+"answer the question before anyone else and the user has add question and "
+"admin only can answer)."
+msgstr ""
+
+#: admin/terms.php:68
+msgid "Logo Setting"
+msgstr ""
+
+#: admin/terms.php:73
+msgid "Custom logo"
+msgstr ""
+
+#: admin/terms.php:86
+msgid "choose Logo display."
+msgstr ""
+
+#: admin/terms.php:95
+msgid "Upload your custom logo. "
+msgstr ""
+
+#: admin/terms.php:133
+msgid "Enable logo at questions"
+msgstr ""
+
+#: admin/terms.php:133
+msgid "Enable logo at posts"
+msgstr ""
+
+#: admin/terms.php:151
+msgid "Loop Setting"
+msgstr ""
+
+#: admin/terms.php:272
+msgid "Post number"
+msgstr ""
+
+#: admin/terms.php:273
+msgid "put the post number"
+msgstr ""
+
+#: admin/terms.php:441
+msgid "Question number"
+msgstr ""
+
+#: admin/terms.php:442
+msgid "put the question number"
+msgstr ""
+
+#: admin/terms.php:461
+msgid "Category Setting"
+msgstr ""
+
+#: admin/terms.php:466
+msgid "Enable the setting at questions"
+msgstr ""
+
+#: admin/terms.php:466
+msgid "Enable the setting at posts"
+msgstr ""
+
+#: admin/terms.php:467
+msgid "Select ON to enable the setting at inner questions"
+msgstr ""
+
+#: admin/terms.php:467
+msgid "Select ON to enable the setting at inner posts"
+msgstr ""
+
+#: admin/terms.php:473
+msgid "Category sidebar layout"
+msgstr ""
+
+#: admin/terms.php:489
+msgid "Category Page sidebar"
+msgstr ""
+
+#: admin/terms.php:498
+msgid "Category Page sidebar 2"
+msgstr ""
+
+#: admin/widgets.php:121 admin/widgets.php:234
+msgid "Advertising type 1"
+msgstr ""
+
+#: admin/widgets.php:147 admin/widgets.php:260
+msgid "Advertising type 2"
+msgstr ""
+
+#: admin/widgets.php:173 admin/widgets.php:286
+msgid "Advertising type 3"
+msgstr ""
+
+#: admin/widgets.php:199 admin/widgets.php:312
+msgid "Advertising type 4"
+msgstr ""
+
+#: admin/widgets.php:355
+msgid "Feedburner ID"
+msgstr ""
+
+#: admin/widgets.php:418 admin/widgets.php:439
+msgid "Item number"
+msgstr ""
+
+#: admin/widgets.php:424 admin/widgets.php:445
+msgid "Display the more button?"
+msgstr ""
+
+#: admin/widgets.php:478
+msgid "Show questions counts?"
+msgstr ""
+
+#: admin/widgets.php:484
+msgid "Show the child categories accordion"
+msgstr ""
+
+#: admin/widgets.php:498
+msgid "Facebook Page ID/Name"
+msgstr ""
+
+#: admin/widgets.php:510
+msgid "Google Plus Page ID/Name"
+msgstr ""
+
+#: admin/widgets.php:516
+msgid "Channel id"
+msgstr ""
+
+#: admin/widgets.php:522
+msgid "Vimeo Page ID/Name"
+msgstr ""
+
+#: admin/widgets.php:528
+msgid "Dribbble Page ID/Name"
+msgstr ""
+
+#: admin/widgets.php:546
+msgid "Envato username"
+msgstr ""
+
+#: admin/widgets.php:552
+msgid "Behance"
+msgstr ""
+
+#: admin/widgets.php:564
+msgid "Github"
+msgstr ""
+
+#: admin/widgets.php:570
+msgid ""
+"Your socials numbers is saved in the cache each hour if you want delete the "
+"cache now click on Save."
+msgstr ""
+
+#: admin/widgets.php:583
+msgid "Facebook link"
+msgstr ""
+
+#: admin/widgets.php:589
+msgid "Width"
+msgstr ""
+
+#: admin/widgets.php:595 admin/widgets.php:661
+msgid "Height"
+msgstr ""
+
+#: admin/widgets.php:601
+msgid "Background"
+msgstr ""
+
+#: admin/widgets.php:607
+msgid "Border color"
+msgstr ""
+
+#: admin/widgets.php:622
+msgid "Image URL logo"
+msgstr ""
+
+#: admin/widgets.php:628
+msgid "Margin top for the logo"
+msgstr ""
+
+#: admin/widgets.php:637
+msgid "About text"
+msgstr ""
+
+#: admin/widgets.php:643
+msgid "Margin top for the text"
+msgstr ""
+
+#: admin/widgets.php:667
+msgid "Video Type"
+msgstr ""
+
+#: admin/widgets.php:669 admin/widgets.php:681
+msgid "Embed Code"
+msgstr ""
+
+#: admin/widgets.php:674
+msgid "Video id"
+msgstr ""
+
+#: admin/widgets.php:696 admin/widgets.php:897 admin/widgets.php:1207
+msgid "Post or question"
+msgstr ""
+
+#: admin/widgets.php:698 admin/widgets.php:899 admin/widgets.php:1209
+msgid "Post"
+msgstr ""
+
+#: admin/widgets.php:698 admin/widgets.php:899 admin/widgets.php:1209
+msgid "Question"
+msgstr ""
+
+#: admin/widgets.php:722
+msgid "Display images?"
+msgstr ""
+
+#: admin/widgets.php:728 admin/widgets.php:1539
+msgid "Number of comments to show"
+msgstr ""
+
+#: admin/widgets.php:734
+msgid "The number of words excerpt"
+msgstr ""
+
+#: admin/widgets.php:740 admin/widgets.php:853 admin/widgets.php:976
+#: admin/widgets.php:1123 admin/widgets.php:1315 admin/widgets.php:1429
+#: admin/widgets.php:1551 admin/widgets.php:1609
+msgid "Display date?"
+msgstr ""
+
+#: admin/widgets.php:771
+msgid "Number of users to show"
+msgstr ""
+
+#: admin/widgets.php:801
+msgid ""
+"This widget will show at single questions only to show the related questions."
+msgstr ""
+
+#: admin/widgets.php:811 admin/widgets.php:947
+msgid "Number of items to show"
+msgstr ""
+
+#: admin/widgets.php:824 admin/widgets.php:920 admin/widgets.php:927
+#: admin/widgets.php:1266 admin/widgets.php:1392 admin/widgets.php:1545
+#: admin/widgets.php:1603
+msgid "Display author image?"
+msgstr ""
+
+#: admin/widgets.php:830 admin/widgets.php:934 admin/widgets.php:1273
+#: admin/widgets.php:1399
+msgid "The excerpt title"
+msgstr ""
+
+#: admin/widgets.php:841 admin/widgets.php:964 admin/widgets.php:1111
+#: admin/widgets.php:1303 admin/widgets.php:1417
+msgid "Display image?"
+msgstr ""
+
+#: admin/widgets.php:847 admin/widgets.php:970 admin/widgets.php:1117
+#: admin/widgets.php:1309 admin/widgets.php:1423
+msgid "Display video if there?"
+msgstr ""
+
+#: admin/widgets.php:864 admin/widgets.php:1134 admin/widgets.php:1237
+#: admin/widgets.php:1242
+msgid "Display answers?"
+msgstr ""
+
+#: admin/widgets.php:942
+msgid "Most voted - Questions only"
+msgstr ""
+
+#: admin/widgets.php:942 admin/widgets.php:1281 admin/widgets.php:1407
+msgid "No response"
+msgstr ""
+
+#: admin/widgets.php:987 admin/widgets.php:1220 admin/widgets.php:1225
+msgid "Display comments?"
+msgstr ""
+
+#: admin/widgets.php:1064 admin/widgets.php:1159 admin/widgets.php:1337
+#: admin/widgets.php:1465
+msgid "Display"
+msgstr ""
+
+#: admin/widgets.php:1066 admin/widgets.php:1339
+msgid "Latest Posts"
+msgstr ""
+
+#: admin/widgets.php:1066 admin/widgets.php:1161 admin/widgets.php:1339
+#: admin/widgets.php:1467
+msgid "Single Category"
+msgstr ""
+
+#: admin/widgets.php:1066 admin/widgets.php:1161 admin/widgets.php:1339
+#: admin/widgets.php:1467
+msgid "Multiple Categories"
+msgstr ""
+
+#: admin/widgets.php:1066 admin/widgets.php:1083 admin/widgets.php:1161
+#: admin/widgets.php:1180 admin/widgets.php:1339 admin/widgets.php:1356
+#: admin/widgets.php:1467 admin/widgets.php:1486
+msgid "Exclude Categories"
+msgstr ""
+
+#: admin/widgets.php:1066 admin/widgets.php:1339
+msgid "Custom Posts"
+msgstr ""
+
+#: admin/widgets.php:1071 admin/widgets.php:1166 admin/widgets.php:1344
+#: admin/widgets.php:1472 category.php:9 taxonomy-question-category.php:8
+msgid "Category"
+msgstr "메뉴"
+
+#: admin/widgets.php:1077 admin/widgets.php:1173 admin/widgets.php:1350
+#: admin/widgets.php:1479
+msgid "Categories"
+msgstr ""
+
+#: admin/widgets.php:1161 admin/widgets.php:1467
+msgid "Latest Questions"
+msgstr ""
+
+#: admin/widgets.php:1161 admin/widgets.php:1467
+msgid "Custom Questions"
+msgstr ""
+
+#: admin/widgets.php:1214 admin/widgets.php:1231
+msgid "Select What's tabs show"
+msgstr ""
+
+#: admin/widgets.php:1219 admin/widgets.php:1224
+msgid "Display posts?"
+msgstr ""
+
+#: admin/widgets.php:1221 admin/widgets.php:1226 admin/widgets.php:1238
+#: admin/widgets.php:1243
+msgid "Display tags?"
+msgstr ""
+
+#: admin/widgets.php:1236 admin/widgets.php:1241
+msgid "Display questions?"
+msgstr ""
+
+#: admin/widgets.php:1260
+msgid "Number of posts to show"
+msgstr ""
+
+#: admin/widgets.php:1286
+msgid "Display comments meta?"
+msgstr ""
+
+#: admin/widgets.php:1386
+msgid "Number of questions to show"
+msgstr ""
+
+#: admin/widgets.php:1440
+msgid "Display answers meta?"
+msgstr ""
+
+#: admin/widgets.php:1533
+msgid "The number of words excerpt comments"
+msgstr ""
+
+#: admin/widgets.php:1591
+msgid "The number of words excerpt answers"
+msgstr ""
+
+#: admin/widgets.php:1597
+msgid "Number of answers to show"
+msgstr ""
+
+#: admin/widgets.php:1628
+msgid "Choose the stats show"
+msgstr ""
+
+#: admin/widgets.php:1660
+msgid "Display divider?"
+msgstr ""
+
+#: admin/widgets.php:1675
+msgid "Number of tweets to show"
+msgstr ""
+
+#: admin/widgets.php:1681
+msgid "Twitter username"
+msgstr ""
+
+#: admin/widgets.php:1690
+msgid "Number of tags to show"
+msgstr ""
+
+#: admin/widgets/about.php:34
+msgid "About"
+msgstr ""
+
+#: admin/widgets/adv-120x240.php:42
+msgid "Adv 120x240"
+msgstr ""
+
+#: admin/widgets/adv-120x600.php:26
+msgid "Adv 120x600"
+msgstr ""
+
+#: admin/widgets/adv-125x125.php:42
+msgid "Adv 125x125"
+msgstr ""
+
+#: admin/widgets/adv-234x60.php:26
+msgid "Adv 234x60"
+msgstr ""
+
+#: admin/widgets/adv-250x250.php:26
+msgid "Adv 250x250"
+msgstr ""
+
+#: admin/widgets/counter.php:35
+msgid "Social counter"
+msgstr ""
+
+#: admin/widgets/counter.php:39
+msgid "Fans"
+msgstr ""
+
+#: admin/widgets/counter.php:43
+msgid "Subscribers"
+msgstr ""
+
+#: admin/widgets/social.php:23
+msgid "Social media"
+msgstr ""
+
+#: admin/widgets/social.php:61 admin/widgets/social.php:69
+msgid "Hello"
+msgstr ""
+
+#: admin/widgets/social.php:65
+msgid "Feed"
+msgstr ""
+
+#: admin/widgets/subscribe.php:24
+msgid "Subscribe"
+msgstr ""
+
+#: admin/widgets/subscribe.php:28
+msgid "Type Your Email"
+msgstr ""
+
+#: admin/widgets/twitter.php:56
+#, php-format
+msgid "about %s ago"
+msgstr ""
+
+#: category.php:11 taxonomy-question-category.php:10
+msgid "Category feed"
+msgstr "RSS"
+
+#: comments.php:21
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:27
+msgid ""
+"This question is password protected. Enter the password to view answers."
+msgstr ""
+
+#: comments.php:29
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:65
+msgid "No"
+msgstr "0"
+
+#: comments.php:65
+msgid "1"
+msgstr ""
+
+#: comments.php:65
+msgid "%"
+msgstr ""
+
+#: comments.php:65 comments.php:199 functions.php:932
+#: theme-parts/content-question.php:544
+msgid "Answer"
+msgstr "댓글달기"
+
+#: comments.php:65 comments.php:199
+msgid "Comment"
+msgstr ""
+
+#: comments.php:114
+msgid "Sorry, you do not have a permission to show this answers."
+msgstr ""
+
+#: comments.php:179
+msgid "Sorry this question is a special, The admin must answer first."
+msgstr ""
+
+#: comments.php:182
+msgid "Sorry this question is closed."
+msgstr "이 게시글은 더 이상 다른 사람에게 노출되지 않습니다"
+
+#: comments.php:185
+msgid "Your Name"
+msgstr "비회원 이름"
+
+#: comments.php:186
+msgid "Email"
+msgstr "비회원 이메일"
+
+#: comments.php:203
+#, php-format
+msgid ""
+"You must <a href=\"%s\" class=\"login-panel %s\">login</a> or <a href=\"%s\" "
+"class=\"signup-panel %s\">register</a> to add a new"
+msgstr ""
+
+#: comments.php:203
+msgid "answer"
+msgstr ""
+
+#: comments.php:203
+msgid "comment"
+msgstr ""
+
+#: comments.php:204
+msgid "Logged in as"
+msgstr "로그인세션"
+
+#: comments.php:204
+msgid "Logout of this account"
+msgstr ""
+
+#: comments.php:205 comments.php:207
+msgid "Leave an answer"
+msgstr "댓글 남기기"
+
+#: comments.php:205
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:206
+#, php-format
+msgid "Leave an answer to %s"
+msgstr ""
+
+#: comments.php:206
+#, php-format
+msgid "Leave a comment to %s"
+msgstr ""
+
+#: comments.php:214 theme-parts/content-question.php:295
+msgid "Submit"
+msgstr "완료"
+
+#: comments.php:224 comments.php:227
+msgid "Sorry, you do not have a permission to answer to this question."
+msgstr "의견을 제안할 권한이 없습니다. "
+
+#: functions.php:898
+msgid "Asked"
+msgstr "작성일시"
+
+#: functions.php:900
+msgid "On"
+msgstr ""
+
+#: functions.php:909
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: functions.php:925
+msgid "In: "
+msgstr ""
+
+#: functions.php:936
+msgid "Comments: "
+msgstr "코멘트: "
+
+#: functions.php:946
+msgid "Views: "
+msgstr "뷰: "
+
+#: includes/blog-header-footer.php:24
+msgid "Explore Our Blog"
+msgstr ""
+
+#: includes/call-action.php:63 includes/slider.php:65
+msgid "Add A New Post"
+msgstr ""
+
+#: includes/footer-code.php:63
+msgid "Explore"
+msgstr ""
+
+#: includes/footer-code.php:147 includes/footer-code.php:209
+msgid "Footer"
+msgstr ""
+
+#: includes/footer-code.php:263
+msgid "Ask a question"
+msgstr "글쓰기"
+
+#: includes/header-code.php:91
+msgid "Sign In"
+msgstr "로그인"
+
+#: includes/header-code.php:91
+msgid "Sign Up"
+msgstr "가입하기"
+
+#: includes/header-code.php:150
+msgid "Welcome"
+msgstr "환영합니다"
+
+#: includes/header-code.php:172
+msgid "Activity Log"
+msgstr "활동내역"
+
+#: includes/header-code.php:227
+msgid "Add Question"
+msgstr ""
+
+#: includes/header-code.php:254 includes/login-page.php:41
+msgid "Navigation"
+msgstr ""
+
+#: includes/header-code.php:275 includes/mobile-menu.php:42
+msgid "Hit enter to search"
+msgstr ""
+
+#: includes/header-code.php:285 includes/mobile-menu.php:17
+msgid "Ask a Question"
+msgstr "글쓰기"
+
+#: includes/header-code.php:316
+msgid "Edit profile"
+msgstr "프로필 수정"
+
+#: includes/mobile-menu.php:9
+msgid "Mobile menu"
+msgstr ""
+
+#: includes/mobile-menu.php:12
+msgid "Close"
+msgstr ""
+
+#: includes/slider.php:106 theme-parts/home.php:30
+msgid "What’s your question?"
+msgstr "어떤글을 쓸까요?"
+
+#: includes/slider.php:108
+msgid "Ask Question"
+msgstr "글쓰기"
+
+#: includes/slider.php:124
+msgid "Sign Up Here"
+msgstr "가입하러 가기"
+
+#: includes/slider.php:135
+msgid "Sign In Now"
+msgstr ""
+
+#: tag.php:7 taxonomy-question_tags.php:9
+msgid "Tag"
+msgstr ""
+
+#: tag.php:9 taxonomy-question_tags.php:11
+msgid "Tag feed"
+msgstr ""
+
+#: template-badges.php:29
+msgid "Points System"
+msgstr ""
+
+#: template-badges.php:44
+msgid "Add a new question to the community."
+msgstr ""
+
+#: template-badges.php:46
+msgid "Choosing the best answer for a question."
+msgstr ""
+
+#: template-badges.php:48
+msgid "Voting a question in the community."
+msgstr ""
+
+#: template-badges.php:50
+msgid "Add an answer in the community."
+msgstr ""
+
+#: template-badges.php:52
+msgid "Voting an answer in the community."
+msgstr ""
+
+#: template-badges.php:54
+msgid "Following a user in the community."
+msgstr ""
+
+#: template-badges.php:56
+msgid "Points for a new user in the community."
+msgstr ""
+
+#: template-badges.php:58
+msgid "Add a new post to the community."
+msgstr ""
+
+#: template-badges.php:74
+msgid "Badges System"
+msgstr ""
+
+#: theme-parts/categories.php:50 theme-parts/tags.php:55
+#, php-format
+msgid "View all posts under %s"
+msgstr ""
+
+#: theme-parts/categories.php:50 theme-parts/tags.php:55
+#, php-format
+msgid "View all questions under %s"
+msgstr ""
+
+#: theme-parts/content-none.php:8 theme-parts/content-none.php:15
+#, php-format
+msgid "Sorry, No %1$s Found."
+msgstr ""
+
+#: theme-parts/content-none.php:9
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: theme-parts/content-none.php:11 theme-parts/search-none.php:2
+msgid "Sorry, No Results Found."
+msgstr "검색 결과가 없습니다."
+
+#: theme-parts/content-none.php:12 theme-parts/search-none.php:3
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "다른 키워드를 사용해보세요"
+
+#: theme-parts/content-none.php:16 theme-parts/content-none.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "아니 ! 어떻게 이 페이지를 찾으신 거예요, 흔하게 볼 수 있는 페이지가 아닌데, 보물찾기 능력자 이신 것 같습니다."
+
+#: theme-parts/content-none.php:19
+msgid "404"
+msgstr ""
+
+#: theme-parts/content-none.php:20
+msgid "Oops! Page Not Found."
+msgstr "더 이상 진행은 불허합니다."
+
+#: theme-parts/content-question.php:50
+msgid "Sorry it a private question."
+msgstr ""
+
+#: theme-parts/content-question.php:101
+msgid "Pinned"
+msgstr ""
+
+#: theme-parts/content-question.php:132
+msgid "Poll"
+msgstr "투표"
+
+#: theme-parts/content-question.php:233
+msgid "Poll Results"
+msgstr ""
+
+#: theme-parts/content-question.php:248 theme-parts/content-question.php:252
+msgid "voters"
+msgstr ""
+
+#: theme-parts/content-question.php:248 theme-parts/content-question.php:252
+msgid "voter"
+msgstr ""
+
+#: theme-parts/content-question.php:263
+msgid "Based On"
+msgstr ""
+
+#: theme-parts/content-question.php:263 theme-parts/content-question.php:483
+msgid "Votes"
+msgstr "투표"
+
+#: theme-parts/content-question.php:263
+msgid "Vote"
+msgstr ""
+
+#: theme-parts/content-question.php:265
+msgid "No votes be the first one"
+msgstr ""
+
+#: theme-parts/content-question.php:269
+msgid "Voting"
+msgstr ""
+
+#: theme-parts/content-question.php:278
+msgid "Participate in Poll, Choose Your Answer."
+msgstr ""
+
+#: theme-parts/content-question.php:296
+msgid "Results"
+msgstr ""
+
+#: theme-parts/content-question.php:479
+msgid "Views"
+msgstr "명이 봄"
+
+#: theme-parts/content-question.php:510
+msgid "Add this question to favorites"
+msgstr ""
+
+#: theme-parts/content-question.php:510
+msgid "Remove this question of my favorites"
+msgstr ""
+
+#: theme-parts/content-question.php:529
+msgid "Unfollow the question"
+msgstr ""
+
+#: theme-parts/content-question.php:531
+msgid "Follow the question"
+msgstr ""
+
+#: theme-parts/content-question.php:601
+msgid "Sorry do not have permission to show the question."
+msgstr ""
+
+#: theme-parts/content.php:181
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: theme-parts/content.php:248
+msgid "Previous article"
+msgstr ""
+
+#: theme-parts/content.php:260
+msgid "Next article"
+msgstr ""
+
+#: theme-parts/home.php:63
+msgid "All Categories"
+msgstr "모두보기"
+
+#: theme-parts/home.php:92
+msgid "Sorry, this page not found."
+msgstr "페이지 권한이 없습니다."
+
+#: theme-parts/logo.php:4 theme-parts/logo.php:7
+msgid "Logo"
+msgstr ""
+
+#: theme-parts/loop.php:37
+msgid "New Answers"
+msgstr ""
+
+#: theme-parts/loop.php:38
+msgid "Old Answers"
+msgstr ""
+
+#: theme-parts/loop.php:65
+msgid "Sorry it a private answer."
+msgstr ""
+
+#: theme-parts/loop.php:73
+msgid "Still no answers yet"
+msgstr ""
+
+#: theme-parts/loop.php:73
+msgid "Still no comments yet"
+msgstr ""
+
+#: theme-parts/loop.php:241
+msgid "Still no questions at favorite."
+msgstr ""
+
+#: theme-parts/loop.php:243
+msgid "Still no questions you followed."
+msgstr ""
+
+#: theme-parts/loop.php:254
+msgid "Discy Latest "
+msgstr ""
+
+#: theme-parts/loop.php:254
+msgid "Articles"
+msgstr ""
+
+#: theme-parts/loop.php:283 theme-parts/sticky-question.php:29
+msgid "Still no questions."
+msgstr "글이 없습니다."
+
+#: theme-parts/loop.php:283 theme-parts/sticky-question.php:29
+msgid "Still no posts."
+msgstr "글이 없습니다."
+
+#: theme-parts/related.php:79
+msgid "Related Posts"
+msgstr ""
+
+#: theme-parts/search-none.php:6
+msgid "Back To Homepage"
+msgstr "이전 페이지로 돌아가기"
+
+#: theme-parts/tags.php:68
+#, php-format
+msgid "%s asked today"
+msgstr ""
+
+#: theme-parts/tags.php:69
+#, php-format
+msgid "%s this week"
+msgstr ""
+
+#: theme-parts/tags.php:70
+#, php-format
+msgid "%s this month"
+msgstr ""
