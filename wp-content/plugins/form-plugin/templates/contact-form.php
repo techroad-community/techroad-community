@@ -14,7 +14,7 @@
 			<div class=flex>
 				<div class="font-bold text-black">광고</div><div class="text-gray"><span style="padding:0 5px">·</span>www.techroad.io</div>
 			</div>
-			<a href="www.naver.com" class="text-lg break-all" style="word-break:keep-all;">테크로드 외주토론방</a>
+			<a href="/kakao" class="text-lg break-all" style="word-break:keep-all;">테크로드 외주토론방</a>
 			<div style="word-break:keep-all;">카카오개발자, 네이버개발자등에게 100만원이하의 간단한 외주를 주거나 토론할수있는 방에 입장하여 도움을 요청해보세요</div>
 		</div>
 		<div class="flex flex-col w-full max-w-sm mx-auto p-4 ">
