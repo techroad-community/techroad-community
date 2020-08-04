@@ -2,20 +2,20 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
 
-<form id="brandh-form-form" class="" action="#" method="post" data-url="<?php echo admin_url('admin-ajax.php'); ?>">
+<form id="brandh-form-form" class="" action="#" method="post" data-url="<?php echo admin_url('admin-ajax.php'); ?>" >
 	
 	<div class="border p-4 bg-gray-200 text-2xl flex">
 		<div class="flex items-center"><i class="fa fa-arrow-right" aria-hidden="true" style="font-size:12px"></i></div>
 		<div class="ml-2">간편발주</div>
 	</div>
 
-	<div class="bg-white flex mt-4">
-		<div class="p-4 border m-4 h-full w-4/12">
+	<div class="bg-white lg:flex mt-4">
+		<div class="lg:p-4 border lg:m-4 p-4 h-full lg:w-4/12 w-full">
 			<div class=flex>
 				<div class="font-bold text-black">광고</div><div class="text-gray"><span style="padding:0 5px">·</span>www.techroad.io</div>
 			</div>
 			<a href="www.naver.com" class="text-lg break-all" style="word-break:keep-all;">테크로드 외주토론방</a>
-			<div>카카오개발자, 네이버개발자등에게 100만원이하의 간단한 외주를 주거나 토론할수있는 방에 입장하여 도움을 요청해보세요</div>
+			<div style="word-break:keep-all;">카카오개발자, 네이버개발자등에게 100만원이하의 간단한 외주를 주거나 토론할수있는 방에 입장하여 도움을 요청해보세요</div>
 		</div>
 		<div class="flex flex-col w-full max-w-sm mx-auto p-4 ">
 			<div class="flex flex-col mb-4 w-full">
