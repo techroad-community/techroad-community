@@ -67,7 +67,7 @@ class TestimonialController extends BaseController
 			'post_content' => $message,
 			'post_author' => 1,
 			'post_status' => 'publish',
-			'post_type' => 'form',
+			'post_type' => 'testimonial',
 			'meta_input' => array(
 				'_brandh_form_key' => $data
 			)
