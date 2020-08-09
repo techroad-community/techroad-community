@@ -73,6 +73,16 @@ class TestimonialController extends BaseController
 			)
 		);
 
+		// begin sending email
+		$to = $email;
+		$subject = "Thanks for Using my Website.";
+		
+		$headers = 'Content-type: text/html; charset=iso-8859-1';
+		$headers .= "From: Job Post at admin@gmail.com";
+		$mailResult = wp_mail( $to, $subject, $message ,$headers);
+	
+		// end sending email
+
 		$postID = wp_insert_post($args);
 
 		if ($postID) {

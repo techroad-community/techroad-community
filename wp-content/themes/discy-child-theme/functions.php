@@ -1,3 +1,5 @@
+
+
 <?php
 add_action('wp_enqueue_scripts','discy_enqueue_parent_theme_style',20);
 function discy_enqueue_parent_theme_style() {
@@ -22,3 +24,4 @@ function discy_child_search_value_filter($search) {
 	return (isset($search_explode[0]) && $search_explode[0] != ""?$search_explode[0]:$search);
 }
 
+?>

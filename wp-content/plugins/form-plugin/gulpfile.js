@@ -24,7 +24,7 @@ var gulpif       = require( 'gulp-if' );
 var browserSync  = require( 'browser-sync' ).create();
 
 // // Project related variables
-var projectURL   = 'https://wp.dev';
+var projectURL   = 'https://techroad-community';
 
 var styleSRC     = 'src/scss/mystyle.scss';
 var styleForm    = 'src/scss/form.scss';
@@ -85,15 +85,15 @@ function reload(done) {
 }
 
 function browser_sync() {
-	// browserSync.init({
-	// 	proxy: projectURL,
-	// 	https: {
-	// 		key: '/home/brandh/.valet/Certificates/wp.dev.key',
-	// 		cert: '/home/brandh/.valet/Certificates/wp.dev.crt'
-	// 	},
-	// 	injectChanges: true,
-	// 	open: false
-	// });
+	browserSync.init({
+		proxy: projectURL,
+		https: {
+			// key: '/home/alecaddd/.valet/Certificates/wp.dev.key',
+			// cert: '/home/alecaddd/.valet/Certificates/wp.dev.crt'
+		},
+		injectChanges: true,
+		open: false
+	});
 }
 
 function watch_files() {

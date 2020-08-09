@@ -1,11 +1,11 @@
 {
-	"name": "brandh-plugin",
+	"name": "techroad-plugin",
 	"version": "1.0.0",
-	"description": "Awesome starter plugin example",
-	"author": "Alessandro Castellani <me@brandh.com> (http://brandh.com)",
+	"description": "Techroad plugin",
+	"author": "Techroad <lion.cho@techroad.io> (https://www.techroad.io)",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/brandh/WordPressPlugin101"
+		"url": "https://github.com/techroad-community/community"
 	},
 	"keywords": [
 		"wordpress",
@@ -23,7 +23,7 @@
 		"browser-sync": "^2.24.4",
 		"browserify": "^16.2.3",
 		"browserify-shim": "^3.8.14",
-		"gulp": "^4.0.2",
+		"gulp": "^4.0.0",
 		"gulp-autoprefixer": "^6.0.0",
 		"gulp-concat": "^2.5.2",
 		"gulp-if": "^2.0.2",

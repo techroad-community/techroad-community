@@ -1,7 +1,3 @@
-<link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-
-
 <form id="brandh-form-form" class="" action="#" method="post" data-url="<?php echo admin_url('admin-ajax.php'); ?>" >
 	
 	<div class="border p-4 bg-gray-200 text-2xl flex">
